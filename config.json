@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "city": "Beijing",
+  "bing_wallpaper": true,
+  "hitokoto": true,
+  "weather": true,
+  "history_today": true
+}
