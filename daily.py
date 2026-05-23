@@ -134,6 +134,97 @@ def create_issue(title, body, token):
         return json.loads(resp.read())
 
 
+# ---------- RSS ----------
+
+def fetch_rss(url, max_items=3):
+    try:
+        import feedparser
+        d = feedparser.parse(url)
+        entries = d.entries[:max_items]
+        articles = []
+        for e in entries:
+            title = e.get("title", "无标题")
+            summary = e.get("summary", "") or e.get("description", "")
+            summary = re.sub(r"<[^>]+>", "", summary)
+            summary = re.sub(r"\s+", " ", summary).strip()
+            if len(summary) > 800:
+                summary = summary[:800] + "..."
+            articles.append({"title": title, "summary": summary})
+        return articles
+    except Exception:
+        return _fetch_rss_simple(url, max_items)
+
+
+def _fetch_rss_simple(url, max_items):
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            xml = resp.read().decode("utf-8")
+    except Exception:
+        return []
+    import xml.etree.ElementTree as ET
+    items = []
+    try:
+        root = ET.fromstring(xml)
+        channel = root.find("channel")
+        if channel is not None:
+            for item in channel.findall("item")[:max_items]:
+                title = item.findtext("title", default="无标题")
+                desc = item.findtext("description", default="")
+                desc = re.sub(r"<[^>]+>", "", desc)
+                items.append({"title": title, "summary": desc[:800]})
+            return items
+    except Exception:
+        pass
+    try:
+        root = ET.fromstring(xml)
+        ns = {"atom": "http://www.w3.org/2005/Atom"}
+        for entry in root.findall("atom:entry", ns)[:max_items]:
+            title = entry.findtext("atom:title", default="无标题", namespaces=ns)
+            summary = entry.findtext("atom:summary", default="", namespaces=ns) or entry.findtext("atom:content", default="", namespaces=ns)
+            summary = re.sub(r"<[^>]+>", "", summary)
+            items.append({"title": title, "summary": summary[:800]})
+        return items
+    except Exception:
+        pass
+    return []
+
+
+# ---------- LLM ----------
+
+def summarize_with_llm(articles, api_key, base_url, model):
+    if not articles:
+        return "今日 RSS 暂无更新。"
+
+    content = "\n\n".join([f"标题：{a['title']}\n摘要：{a['summary']}" for a in articles])
+
+    prompt = f"""请阅读以下RSS订阅文章，用中文总结为3-5条早报简讯。
+要求：
+- 每条简讯控制在50字以内
+- 只保留最关键的信息
+- 语气轻松，像朋友之间分享消息
+- 输出格式为 bullet points（用 - 开头）
+
+{content}"""
+
+    data = json.dumps({
+        "model": model,
+        "messages": [{"role": "user", "content": prompt}],
+        "temperature": 0.7,
+        "max_tokens": 800
+    }).encode()
+
+    req = urllib.request.Request(f"{base_url}/chat/completions", data=data, method="POST")
+    req.add_header("Authorization", f"Bearer {api_key}")
+    req.add_header("Content-Type", "application/json")
+
+    with urllib.request.urlopen(req, timeout=90) as resp:
+        result = json.loads(resp.read())
+
+    text = result["choices"][0]["message"]["content"]
+    return text.strip()
+
+
 # ================= 主逻辑 =================
 
 with open("config.json", "r", encoding="utf-8") as f:
@@ -235,6 +326,34 @@ data["ji"] = []
 if cfg.get("daily_tips", True):
     data["yi"], data["ji"] = get_yiji()
 
+# RSS + LLM
+data["rss_summary"] = ""
+data["rss_raw"] = []
+llm_cfg = cfg.get("llm", {})
+rss_cfg = cfg.get("rss", [])
+api_key = os.environ.get("LLM_API_KEY")
+
+if llm_cfg.get("enabled", False) and api_key and rss_cfg:
+    all_articles = []
+    for src in rss_cfg:
+        try:
+            articles = fetch_rss(src.get("url"), src.get("max", 3))
+            all_articles.extend(articles)
+            data["rss_raw"].append({"name": src.get("name", "未知"), "articles": articles})
+        except Exception as e:
+            print(f"[WARN] RSS {src.get('name')}: {e}")
+    if all_articles:
+        try:
+            data["rss_summary"] = summarize_with_llm(
+                all_articles,
+                api_key,
+                llm_cfg.get("base_url", "https://api.openai.com/v1"),
+                llm_cfg.get("model", "gpt-4o-mini")
+            )
+        except Exception as e:
+            print(f"[WARN] LLM summary: {e}")
+            data["rss_summary"] = ""
+
 # ---------- 生成 README（详细版） ----------
 readme = []
 readme.append(f"# 📰 每日早报 {date_str} {week_str}")
@@ -247,6 +366,25 @@ if data["sentence"]:
 if data["bing_url"]:
     readme.append(f"![Bing Wallpaper]({data['bing_url']})")
     readme.append(f"> {data['bing_copy']}")
+    readme.append("")
+
+# RSS Summary (README 置顶)
+if data["rss_summary"]:
+    readme.append("## 📡 RSS 资讯摘要")
+    readme.append("")
+    readme.append(data["rss_summary"])
+    readme.append("")
+    # 原始来源折叠
+    readme.append("<details>")
+    readme.append("<summary>点击查看原始 RSS 来源</summary>")
+    readme.append("")
+    for src in data["rss_raw"]:
+        if src["articles"]:
+            readme.append(f"**{src['name']}**")
+            for a in src["articles"]:
+                readme.append(f"- {a['title']}")
+            readme.append("")
+    readme.append("</details>")
     readme.append("")
 
 if cfg.get("time_progress", True):
@@ -305,6 +443,12 @@ issue.append("")
 
 if data["sentence"]:
     issue.append(f"> {data['sentence']}")
+    issue.append("")
+
+# RSS 摘要放 Issue 里也很合适
+if data["rss_summary"]:
+    issue.append("**📡 今日资讯**")
+    issue.append(data["rss_summary"])
     issue.append("")
 
 if cfg.get("weather", True) and data["weather"]:

@@ -2,6 +2,16 @@
   "enabled": true,
   "create_issue": true,
   "city": "Beijing",
+  "llm": {
+    "enabled": true,
+    "base_url": "https://api.openai.com/v1",
+    "model": "gpt-4o-mini"
+  },
+  "rss": [
+    {"name": "少数派", "url": "https://sspai.com/feed", "max": 3},
+    {"name": "V2EX", "url": "https://www.v2ex.com/index.xml", "max": 3},
+    {"name": "阮一峰的网络日志", "url": "https://www.ruanyifeng.com/blog/atom.xml", "max": 2}
+  ],
   "bing_wallpaper": true,
   "hitokoto": true,
   "weather": true,

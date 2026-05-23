@@ -20,9 +20,13 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Install dependencies
+        run: pip install feedparser --quiet
+
       - name: Generate report
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
         run: python daily.py
 
       - name: Commit and push
