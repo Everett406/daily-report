@@ -1,7 +1,7 @@
 {
   "enabled": true,
   "create_issue": true,
-  "city": "Beijing",
+  "city": "Changsha",
   "llm": {
     "enabled": true,
     "base_url": "https://yunwu.ai/v1",
