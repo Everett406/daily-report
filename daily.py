@@ -190,17 +190,19 @@ def _fetch_rss_simple(url, max_items):
     return []
 
 
-# ---------- LLM ----------
+# ---------- LLM（三次重试） ----------
 
-def summarize_with_llm(articles, api_key, base_url, model):
+def summarize_with_llm(articles, api_key, base_url, model, max_retries=3):
     if not articles:
         return "今日 RSS 暂无更新。"
 
     content = "\n\n".join([f"标题：{a['title']}\n摘要：{a['summary']}" for a in articles])
 
-    prompt = f"""请阅读以下RSS订阅文章，用中文总结为3-5条早报简讯。
+    prompt = f"""你是一个资深科技早报编辑。请阅读以下RSS订阅文章，先深入理解每篇文章的核心要点（此步骤仅用于你的内部推理，不要输出），然后直接输出最终总结。
+
 要求：
-- 每条简讯控制在50字以内
+- 总结为3-5条早报简讯
+- 每条控制在50字以内
 - 只保留最关键的信息
 - 语气轻松，像朋友之间分享消息
 - 输出格式为 bullet points（用 - 开头）
@@ -211,18 +213,24 @@ def summarize_with_llm(articles, api_key, base_url, model):
         "model": model,
         "messages": [{"role": "user", "content": prompt}],
         "temperature": 0.7,
-        "max_tokens": 800
+        "max_tokens": 2000
     }).encode()
 
-    req = urllib.request.Request(f"{base_url}/chat/completions", data=data, method="POST")
-    req.add_header("Authorization", f"Bearer {api_key}")
-    req.add_header("Content-Type", "application/json")
+    last_error = None
+    for attempt in range(max_retries):
+        try:
+            req = urllib.request.Request(f"{base_url}/chat/completions", data=data, method="POST")
+            req.add_header("Authorization", f"Bearer {api_key}")
+            req.add_header("Content-Type", "application/json")
+            with urllib.request.urlopen(req, timeout=90) as resp:
+                result = json.loads(resp.read())
+            text = result["choices"][0]["message"]["content"]
+            return text.strip()
+        except Exception as e:
+            last_error = e
+            print(f"[WARN] LLM attempt {attempt + 1}/{max_retries} failed: {e}")
 
-    with urllib.request.urlopen(req, timeout=90) as resp:
-        result = json.loads(resp.read())
-
-    text = result["choices"][0]["message"]["content"]
-    return text.strip()
+    return f"LLM 总结失败（已重试{max_retries}次）: {last_error}"
 
 
 # ================= 主逻辑 =================
@@ -347,8 +355,8 @@ if llm_cfg.get("enabled", False) and api_key and rss_cfg:
             data["rss_summary"] = summarize_with_llm(
                 all_articles,
                 api_key,
-                llm_cfg.get("base_url", "https://api.openai.com/v1"),
-                llm_cfg.get("model", "gpt-4o-mini")
+                llm_cfg.get("base_url", "https://yunwu.ai/v1"),
+                llm_cfg.get("model", "gemini-3-pro-preview")
             )
         except Exception as e:
             print(f"[WARN] LLM summary: {e}")
@@ -374,7 +382,6 @@ if data["rss_summary"]:
     readme.append("")
     readme.append(data["rss_summary"])
     readme.append("")
-    # 原始来源折叠
     readme.append("<details>")
     readme.append("<summary>点击查看原始 RSS 来源</summary>")
     readme.append("")
@@ -445,7 +452,6 @@ if data["sentence"]:
     issue.append(f"> {data['sentence']}")
     issue.append("")
 
-# RSS 摘要放 Issue 里也很合适
 if data["rss_summary"]:
     issue.append("**📡 今日资讯**")
     issue.append(data["rss_summary"])

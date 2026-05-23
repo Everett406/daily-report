@@ -4,13 +4,16 @@
   "city": "Beijing",
   "llm": {
     "enabled": true,
-    "base_url": "https://api.openai.com/v1",
-    "model": "gpt-4o-mini"
+    "base_url": "https://yunwu.ai/v1",
+    "model": "gemini-3-pro-preview"
   },
   "rss": [
-    {"name": "少数派", "url": "https://sspai.com/feed", "max": 3},
+    {"name": "juya AI Daily", "url": "https://imjuya.github.io/juya-ai-daily/rss.xml", "max": 1},
+    {"name": "少数派", "url": "https://sspai.com/feed", "max": 2},
+    {"name": "阮一峰的网络日志", "url": "https://www.ruanyifeng.com/blog/atom.xml", "max": 2},
     {"name": "V2EX", "url": "https://www.v2ex.com/index.xml", "max": 3},
-    {"name": "阮一峰的网络日志", "url": "https://www.ruanyifeng.com/blog/atom.xml", "max": 2}
+    {"name": "小众软件", "url": "https://www.appinn.com/feed/", "max": 2},
+    {"name": "爱范儿", "url": "https://www.ifanr.com/feed", "max": 2}
   ],
   "bing_wallpaper": true,
   "hitokoto": true,
