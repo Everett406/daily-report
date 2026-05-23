@@ -1,5 +1,6 @@
 import calendar
 import json
+import os
 import random
 import re
 import sys
@@ -86,7 +87,7 @@ def calc_countdown():
     if ds == 0:
         wf = "今天就是周六！"
     else:
-        wf = f"{ds} 天"
+        wf = f"还有 {ds} 天"
     ny = (date(today.year + 1, 1, 1) - today).days
     return wf, ny
 
@@ -99,16 +100,38 @@ def get_yiji():
     return yi, ji
 
 
-def progress_card(label, pct, color):
-    colors = {"blue": "bg-blue-500", "emerald": "bg-emerald-500", "amber": "bg-amber-500", "rose": "bg-rose-500"}
-    bar = colors.get(color, "bg-slate-500")
-    return f'''<div class="bg-white rounded-2xl p-5 shadow-sm border border-slate-100">
-      <div class="flex justify-between items-center mb-2">
-        <span class="text-xs text-slate-500 font-medium">{label}</span>
-        <span class="text-sm font-bold text-slate-700">{pct}%</span>
-      </div>
-      <div class="w-full bg-slate-100 rounded-full h-2"><div class="{bar} h-2 rounded-full transition-all" style="width: {pct}%"></div></div>
-    </div>'''
+def close_old_issues(token):
+    url = "https://api.github.com/repos/Everett406/daily-report/issues?state=open"
+    req = urllib.request.Request(url, headers={"Authorization": f"Bearer {token}", "Accept": "application/vnd.github+json"})
+    try:
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            issues = json.loads(resp.read())
+    except Exception:
+        return
+    for issue in issues:
+        patch_url = issue["url"]
+        data = json.dumps({"state": "closed"}).encode()
+        req2 = urllib.request.Request(patch_url, data=data, method="PATCH")
+        req2.add_header("Authorization", f"Bearer {token}")
+        req2.add_header("Accept", "application/vnd.github+json")
+        req2.add_header("Content-Type", "application/json")
+        try:
+            with urllib.request.urlopen(req2, timeout=10):
+                pass
+        except Exception as e:
+            print(f"[WARN] close issue failed: {e}")
+
+
+def create_issue(title, body, token):
+    close_old_issues(token)
+    url = "https://api.github.com/repos/Everett406/daily-report/issues"
+    data = json.dumps({"title": title, "body": body}).encode()
+    req = urllib.request.Request(url, data=data, method="POST")
+    req.add_header("Authorization", f"Bearer {token}")
+    req.add_header("Accept", "application/vnd.github+json")
+    req.add_header("Content-Type", "application/json")
+    with urllib.request.urlopen(req, timeout=10) as resp:
+        return json.loads(resp.read())
 
 
 # ================= 主逻辑 =================
@@ -119,8 +142,6 @@ with open("config.json", "r", encoding="utf-8") as f:
 if not cfg.get("enabled", True):
     with open("README.md", "w", encoding="utf-8") as f:
         f.write("# 每日早报\n\n今日已暂停更新。如需恢复，请将 `config.json` 中的 `enabled` 改为 `true`。")
-    with open("index.html", "w", encoding="utf-8") as f:
-        f.write("<h1>今日已暂停更新</h1>")
     print("[PAUSED] 今日已暂停")
     sys.exit(0)
 
@@ -130,230 +151,201 @@ date_str = today.strftime("%Y年%m月%d日")
 week_map = {"Monday":"周一","Tuesday":"周二","Wednesday":"周三","Thursday":"周四","Friday":"周五","Saturday":"周六","Sunday":"周日"}
 week_str = week_map.get(today.strftime("%A"), today.strftime("%A"))
 
-parts = {}
+# ---------- 抓取数据 ----------
+data = {}
 
 # Bing
+data["bing_url"] = ""
+data["bing_copy"] = ""
 if cfg.get("bing_wallpaper", True):
     try:
-        bing_url, bing_copy = fetch_bing()
-        parts["bing_url"] = bing_url
-        parts["bing_copy"] = bing_copy
+        data["bing_url"], data["bing_copy"] = fetch_bing()
     except Exception as e:
-        parts["bing_url"] = ""
-        parts["bing_copy"] = str(e)
-else:
-    parts["bing_url"] = ""
-    parts["bing_copy"] = ""
+        print(f"[WARN] Bing: {e}")
 
 # Hitokoto
+data["sentence"] = ""
+data["origin"] = ""
 if cfg.get("hitokoto", True):
     try:
         sent, auth, src = fetch_hitokoto()
         origin = f"—— {auth} " if auth else ""
         if src:
             origin += f"《{src}》"
-        parts["sentence"] = sent
-        parts["origin"] = origin.strip()
+        data["sentence"] = sent
+        data["origin"] = origin.strip()
     except Exception as e:
-        parts["sentence"] = "生活明朗，万物可爱。"
-        parts["origin"] = ""
-else:
-    parts["sentence"] = ""
-    parts["origin"] = ""
-
-# Progress
-if cfg.get("time_progress", True):
-    y, m, w, d = calc_progress()
-    prog_html = "".join([
-        progress_card("今年", y, "blue"),
-        progress_card("本月", m, "emerald"),
-        progress_card("本周", w, "amber"),
-        progress_card("今日", d, "rose"),
-    ])
-    parts["progress"] = f'<section class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">{prog_html}</section>'
-else:
-    parts["progress"] = ""
-
-# Countdown
-if cfg.get("countdown", True):
-    wf, ny = calc_countdown()
-    try:
-        hname, hrest = fetch_holiday()
-    except Exception:
-        hname, hrest = "未知假期", "?"
-    parts["countdown"] = f'''<div class="bg-white rounded-2xl p-6 shadow-sm border border-slate-100">
-      <h3 class="text-sm font-bold text-slate-400 uppercase tracking-wider mb-4">⏳ 倒计时</h3>
-      <div class="space-y-4">
-        <div class="flex justify-between items-center"><span class="text-slate-500">周末</span><span class="text-lg font-bold text-blue-600">{wf}</span></div>
-        <div class="flex justify-between items-center"><span class="text-slate-500">{hname}</span><span class="text-lg font-bold text-emerald-600">{hrest} 天</span></div>
-        <div class="flex justify-between items-center"><span class="text-slate-500">2027年元旦</span><span class="text-lg font-bold text-purple-600">{ny} 天</span></div>
-      </div>
-    </div>'''
-else:
-    parts["countdown"] = ""
+        print(f"[WARN] Hitokoto: {e}")
 
 # Weather
+data["weather"] = ""
 if cfg.get("weather", True):
     try:
-        w = fetch_weather(city)
+        data["weather"] = fetch_weather(city)
     except Exception as e:
-        w = f"获取失败: {e}"
-    parts["weather"] = f'''<div class="bg-white rounded-2xl p-6 shadow-sm border border-slate-100">
-      <h3 class="text-sm font-bold text-slate-400 uppercase tracking-wider mb-3">☁️ 天气</h3>
-      <pre class="text-lg font-mono text-slate-700 whitespace-pre-wrap">{w}</pre>
-    </div>'''
-else:
-    parts["weather"] = ""
+        data["weather"] = f"获取失败: {e}"
 
 # History
+data["history"] = ""
 if cfg.get("history_today", True):
     try:
-        h = fetch_history()
+        data["history"] = fetch_history()
     except Exception as e:
-        h = f"获取失败: {e}"
-    parts["history"] = f'''<div class="bg-white rounded-2xl p-6 shadow-sm border border-slate-100">
-      <h3 class="text-sm font-bold text-slate-400 uppercase tracking-wider mb-3">📜 历史上的今天</h3>
-      <p class="text-slate-700 leading-relaxed">{h}</p>
-    </div>'''
-else:
-    parts["history"] = ""
-
-# Yiji
-if cfg.get("daily_tips", True):
-    yi, ji = get_yiji()
-    yi_tags = "".join([f'<span class="inline-block bg-emerald-50 text-emerald-600 text-xs px-2 py-1 rounded-full mr-2 mb-2">{x}</span>' for x in yi])
-    ji_tags = "".join([f'<span class="inline-block bg-rose-50 text-rose-600 text-xs px-2 py-1 rounded-full mr-2 mb-2">{x}</span>' for x in ji])
-    parts["yiji"] = f'''<div class="bg-white rounded-2xl p-6 shadow-sm border border-slate-100">
-      <h3 class="text-sm font-bold text-slate-400 uppercase tracking-wider mb-4">📋 今日宜忌</h3>
-      <div class="mb-3"><span class="text-xs text-emerald-600 font-bold mr-2">宜</span>{yi_tags}</div>
-      <div><span class="text-xs text-rose-600 font-bold mr-2">忌</span>{ji_tags}</div>
-    </div>'''
-else:
-    parts["yiji"] = ""
+        data["history"] = f"获取失败: {e}"
 
 # Weibo
+data["tops"] = []
 if cfg.get("weibo_hot", True):
     try:
-        tops = fetch_weibo()
-    except Exception:
-        tops = []
-    if tops:
-        rows = []
-        for rank, note in tops:
-            if rank == 1:
-                badge = '<span class="text-amber-500 font-bold mr-2 text-sm">1</span>'
-            elif rank == 2:
-                badge = '<span class="text-slate-400 font-bold mr-2 text-sm">2</span>'
-            elif rank == 3:
-                badge = '<span class="text-orange-400 font-bold mr-2 text-sm">3</span>'
-            else:
-                badge = f'<span class="text-slate-300 font-bold mr-2 text-sm w-4 inline-block text-right">{rank}</span>'
-            rows.append(f'<div class="flex items-start py-2 border-b border-slate-50 last:border-0">{badge}<span class="text-slate-700 text-sm">{note}</span></div>')
-        weibo_html = "".join(rows)
-    else:
-        weibo_html = "<p class='text-sm text-slate-400'>暂无数据</p>"
-    parts["weibo"] = f'''<div class="bg-white rounded-2xl p-6 shadow-sm border border-slate-100">
-      <h3 class="text-sm font-bold text-slate-400 uppercase tracking-wider mb-3">🔥 微博热搜</h3>
-      <div>{weibo_html}</div>
-    </div>'''
-else:
-    parts["weibo"] = ""
+        data["tops"] = fetch_weibo()
+    except Exception as e:
+        print(f"[WARN] Weibo: {e}")
 
-# Poison soup
+# Poison
+data["soup"] = ""
 if cfg.get("poison_soup", True):
     try:
-        soup = fetch_poison()
-    except Exception:
-        soup = "失败不可怕，可怕的是你还相信这句话。"
-    parts["soup"] = f'''<div class="bg-slate-800 rounded-2xl p-6 shadow-sm text-white">
-      <h3 class="text-sm font-bold text-slate-400 uppercase tracking-wider mb-3">🍵 毒鸡汤</h3>
-      <p class="italic text-slate-200 leading-relaxed">"{soup}"</p>
-    </div>'''
-else:
-    parts["soup"] = ""
+        data["soup"] = fetch_poison()
+    except Exception as e:
+        data["soup"] = "失败不可怕，可怕的是你还相信这句话。"
 
-template = """<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>每日早报 - {{date_str}}</title>
-<script src="https://cdn.tailwindcss.com"></script>
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700&family=Noto+Sans+SC:wght@300;400;500;700&display=swap');
-body { font-family: 'Noto Sans SC', sans-serif; }
-.serif { font-family: 'Noto Serif SC', serif; }
-</style>
-</head>
-<body class="bg-slate-50 text-slate-800">
-<div class="max-w-5xl mx-auto px-4 py-10">
+# Holiday
+data["hname"] = "未知假期"
+data["hrest"] = "?"
+if cfg.get("countdown", True):
+    try:
+        data["hname"], data["hrest"] = fetch_holiday()
+    except Exception as e:
+        print(f"[WARN] Holiday: {e}")
 
-  <header class="text-center mb-10">
-    <div class="text-xs text-slate-400 tracking-[0.3em] uppercase mb-3">Daily Morning Report</div>
-    <h1 class="text-5xl font-bold text-slate-900 mb-2">{{date_str}}</h1>
-    <p class="text-lg text-slate-500">{{week_str}}</p>
-  </header>
+# Progress
+data["progress"] = (0, 0, 0, 0)
+if cfg.get("time_progress", True):
+    data["progress"] = calc_progress()
 
-  <section class="relative rounded-3xl overflow-hidden shadow-2xl mb-8 h-80 group">
-    <img src="{{bing_url}}" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105">
-    <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/30 to-transparent flex flex-col justify-end p-8">
-      <p class="text-white text-2xl serif italic leading-relaxed drop-shadow-lg">"{{sentence}}"</p>
-      <p class="text-white/70 text-sm mt-3">{{origin}}</p>
-      <p class="text-white/50 text-xs mt-4">{{bing_copy}}</p>
-    </div>
-  </section>
+# Countdown
+data["weekend"] = ""
+data["newyear"] = ""
+if cfg.get("countdown", True):
+    data["weekend"], data["newyear"] = calc_countdown()
 
-  {{progress}}
+# Yiji
+data["yi"] = []
+data["ji"] = []
+if cfg.get("daily_tips", True):
+    data["yi"], data["ji"] = get_yiji()
 
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
-    <div class="space-y-6">
-      {{weather}}
-      {{history}}
-      {{yiji}}
-    </div>
-    <div class="space-y-6">
-      {{countdown}}
-    </div>
-    <div class="space-y-6">
-      {{weibo}}
-      {{soup}}
-    </div>
-  </div>
+# ---------- 生成 README（详细版） ----------
+readme = []
+readme.append(f"# 📰 每日早报 {date_str} {week_str}")
+readme.append("")
 
-  <footer class="text-center text-slate-400 text-sm py-6 border-t border-slate-200">
-    更新于 {{update_time}} · 由 GitHub Actions 自动生成
-  </footer>
+if data["sentence"]:
+    readme.append(f"> **{data['sentence']}** {data['origin']}")
+    readme.append("")
 
-</div>
-</body>
-</html>"""
+if data["bing_url"]:
+    readme.append(f"![Bing Wallpaper]({data['bing_url']})")
+    readme.append(f"> {data['bing_copy']}")
+    readme.append("")
 
-html = template
-html = html.replace("{{date_str}}", date_str)
-html = html.replace("{{week_str}}", week_str)
-html = html.replace("{{bing_url}}", parts["bing_url"])
-html = html.replace("{{bing_copy}}", parts["bing_copy"])
-html = html.replace("{{sentence}}", parts["sentence"])
-html = html.replace("{{origin}}", parts["origin"])
-html = html.replace("{{progress}}", parts["progress"])
-html = html.replace("{{weather}}", parts["weather"])
-html = html.replace("{{history}}", parts["history"])
-html = html.replace("{{yiji}}", parts["yiji"])
-html = html.replace("{{countdown}}", parts["countdown"])
-html = html.replace("{{weibo}}", parts["weibo"])
-html = html.replace("{{soup}}", parts["soup"])
-html = html.replace("{{update_time}}", today.strftime("%Y-%m-%d %H:%M:%S"))
+if cfg.get("time_progress", True):
+    y, m, w, d = data["progress"]
+    readme.append("## ⏳ 时间进度")
+    readme.append("")
+    readme.append("| 今年 | 本月 | 本周 | 今日 |")
+    readme.append("|:---:|:---:|:---:|:---:|")
+    readme.append(f"| {y}% | {m}% | {w}% | {d}% |")
+    readme.append("")
 
-with open("index.html", "w", encoding="utf-8") as f:
-    f.write(html)
+if cfg.get("countdown", True):
+    readme.append("## ⏰ 倒计时")
+    readme.append(f"- 周末：{data['weekend']}")
+    readme.append(f"- {data['hname']}：还有 {data['hrest']} 天")
+    readme.append(f"- 2027年元旦：还有 {data['newyear']} 天")
+    readme.append("")
 
-readme = """# 每日早报
+if cfg.get("weather", True) and data["weather"]:
+    readme.append("## ☁️ 天气")
+    readme.append(f"```\n{data['weather']}\n```")
+    readme.append("")
 
-👉 [点这里看今日早报页面](https://everett406.github.io/daily-report)
+if cfg.get("daily_tips", True):
+    readme.append("## 📋 今日宜忌")
+    readme.append(f"- **宜**：{'、'.join(data['yi'])}")
+    readme.append(f"- **忌**：{'、'.join(data['ji'])}")
+    readme.append("")
 
-由 GitHub Actions 每日自动更新。
-"""
+if data["tops"]:
+    readme.append("## 🔥 微博热搜 TOP5")
+    for rank, note in data["tops"]:
+        readme.append(f"{rank}. {note}")
+    readme.append("")
+
+if cfg.get("history_today", True) and data["history"]:
+    readme.append("## 📜 历史上的今天")
+    readme.append(data["history"])
+    readme.append("")
+
+if cfg.get("poison_soup", True) and data["soup"]:
+    readme.append("## 🍵 毒鸡汤")
+    readme.append(f"> {data['soup']}")
+    readme.append("")
+
+readme.append("---")
+readme.append(f"*最后更新于 {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}*")
+
 with open("README.md", "w", encoding="utf-8") as f:
-    f.write(readme)
+    f.write("\n".join(readme))
 
-print("[OK] index.html and README.md generated.")
+# ---------- 生成 Issue（精简版） ----------
+issue = []
+issue.append(f"## 📰 {date_str} {week_str}")
+issue.append("")
+
+if data["sentence"]:
+    issue.append(f"> {data['sentence']}")
+    issue.append("")
+
+if cfg.get("weather", True) and data["weather"]:
+    issue.append(f"**☁️ 天气**：`{data['weather']}`")
+    issue.append("")
+
+if cfg.get("countdown", True):
+    issue.append("**⏳ 倒计时**：")
+    issue.append(f"- 周末：{data['weekend']}")
+    issue.append(f"- {data['hname']}：还有 {data['hrest']} 天")
+    issue.append("")
+
+if cfg.get("daily_tips", True):
+    issue.append(f"**📋 今日宜忌**：宜 {'、'.join(data['yi'])}；忌 {'、'.join(data['ji'])}")
+    issue.append("")
+
+if data["tops"]:
+    issue.append("**🔥 热搜速览**：")
+    for rank, note in data["tops"][:3]:
+        issue.append(f"{rank}. {note}")
+    issue.append("")
+
+if cfg.get("poison_soup", True) and data["soup"]:
+    issue.append(f"**🍵 毒鸡汤**：{data['soup']}")
+    issue.append("")
+
+issue.append("---")
+issue.append("[查看完整版](https://github.com/Everett406/daily-report#readme)")
+
+issue_title = f"📰 每日早报 {date_str}"
+issue_body = "\n".join(issue)
+
+# ---------- 创建 Issue ----------
+token = os.environ.get("GH_TOKEN")
+if token and cfg.get("create_issue", True):
+    try:
+        create_issue(issue_title, issue_body, token)
+        print("[OK] Issue created")
+    except Exception as e:
+        print(f"[WARN] Create issue failed: {e}")
+else:
+    print("[SKIP] No token or issue disabled")
+
+print("[OK] README.md generated")

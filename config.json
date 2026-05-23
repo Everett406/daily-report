@@ -1,5 +1,6 @@
 {
   "enabled": true,
+  "create_issue": true,
   "city": "Beijing",
   "bing_wallpaper": true,
   "hitokoto": true,
