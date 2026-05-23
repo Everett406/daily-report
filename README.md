@@ -3,13 +3,13 @@
 ![Bing Wallpaper](https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_ZH-CN7043849571_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 > 与蝴蝶在一起的乌龟 (© Patrick Gallet/Getty Images)
 
-> **宠辱不惊，闲看庭前花开花落；去留无意，漫随天外云卷云舒。** 《菜根谭·概论》
+> **吃什么补什么，所以吃苦成不了人上人，只有吃人。** 《弱智吧》
 
 ---
 
 ## 今日天气
 ```
-beijing: ☁️  🌡️+23°C 🌬️↑7km/h
+beijing: ☁️  🌡️+74°F 🌬️↑4mph
 ```
 
 ## 历史上的今天
@@ -17,4 +17,4 @@ beijing: ☁️  🌡️+23°C 🌬️↑7km/h
 
 ---
 
-*最后更新于 2026-05-23 20:36:49*
+*最后更新于 2026-05-23 12:38:21*
