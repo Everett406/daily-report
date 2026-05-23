@@ -4,5 +4,10 @@
   "bing_wallpaper": true,
   "hitokoto": true,
   "weather": true,
-  "history_today": true
+  "history_today": true,
+  "time_progress": true,
+  "countdown": true,
+  "weibo_hot": true,
+  "poison_soup": true,
+  "daily_tips": true
 }
