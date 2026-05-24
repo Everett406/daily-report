@@ -3,7 +3,7 @@
   "level": 1,
   "exp": 0,
   "hunger": 50,
-  "happiness": 40,
+  "happiness": 30,
   "health": 100,
   "created_at": "2026-05-24T14:24:44.217699",
   "last_fed": "2026-05-24T14:24:44.217706",
@@ -11,5 +11,5 @@
   "evolution_stage": "egg",
   "personality": "温顺",
   "favorite_food": "Bug",
-  "mood": "悠闲"
+  "mood": "开心"
 }
