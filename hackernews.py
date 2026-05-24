@@ -1,19 +1,24 @@
 #!/usr/bin/env python3
 """
-Hacker News 精选
-自动获取 Top 故事，翻译标题和摘要，生成每日精选
+Hacker News \u7cbe\u9009
+\u81ea\u52a8\u83b7\u53d6 Top \u6545\u4e8b\uff0c\u7ffb\u8bd1\u6807\u9898\u548c\u6458\u8981\uff0c\u751f\u6210\u6bcf\u65e5\u7cbe\u9009
 """
 
 import json
 import os
 import re
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
+
+BJ_TZ = timezone(timedelta(hours=8))
+
+def get_bj_now():
+    return datetime.now(BJ_TZ)
+
 import requests
 
 def fetch_top_stories(limit=10):
-    """获取 Hacker News Top 故事"""
+    """\u83b7\u53d6 Hacker News Top \u6545\u4e8b"""
     try:
-        # 获取 top stories ID 列表
         response = requests.get(
             "https://hacker-news.firebaseio.com/v0/topstories.json",
             timeout=30
@@ -40,18 +45,18 @@ def fetch_top_stories(limit=10):
         return []
 
 def fetch_story_content(url):
-    """获取网页内容（简化版，实际可能需要更复杂的处理）"""
+    """\u83b7\u53d6\u7f51\u9875\u5185\u5bb9"""
     try:
         headers = {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.0"
         }
         resp = requests.get(url, headers=headers, timeout=10)
-        return resp.text[:5000]  # 只取前5000字符
+        return resp.text[:5000]
     except:
         return ""
 
 def translate_text(text, api_key, base_url, model):
-    """使用 LLM 翻译文本"""
+    """\u4f7f\u7528 LLM \u7ffb\u8bd1\u6587\u672c"""
     if not api_key:
         return text
     
@@ -61,11 +66,10 @@ def translate_text(text, api_key, base_url, model):
             "Content-Type": "application/json"
         }
         
-        prompt = f"""请将以下英文翻译成中文，保持简洁准确：
-
+        prompt = f"""\u8bf7\u5c06\u4ee5\u4e0b\u82f1\u6587\u7ffb\u8bd1\u6210\u4e2d\u6587\uff0c\u4fdd\u6301\u7b80\u6d01\u51c6\u786e\uff1a\n
 {text}
 
-只返回翻译结果，不要解释。"""
+\u53ea\u8fd4\u56de\u7ffb\u8bd1\u7ed3\u679c\uff0c\u4e0d\u8981\u89e3\u91ca\u3002"""
         
         data = {
             "model": model,
@@ -87,9 +91,9 @@ def translate_text(text, api_key, base_url, model):
         return text
 
 def summarize_text(text, api_key, base_url, model):
-    """使用 LLM 生成摘要"""
+    """\u4f7f\u7528 LLM \u751f\u6210\u6458\u8981"""
     if not api_key or not text:
-        return "暂无摘要"
+        return "\u6682\u65e0\u6458\u8981"
     
     try:
         headers = {
@@ -97,14 +101,12 @@ def summarize_text(text, api_key, base_url, model):
             "Content-Type": "application/json"
         }
         
-        # 截断文本以避免超出 token 限制
         text = text[:3000]
         
-        prompt = f"""请为以下内容生成一段简短的中文摘要（50字以内）：
-
+        prompt = f"""\u8bf7\u4e3a\u4ee5\u4e0b\u5185\u5bb9\u751f\u6210\u4e00\u6bb5\u7b80\u77ed\u7684\u4e2d\u6587\u6458\u8981\uff0850\u5b57\u4ee5\u5185\uff09\uff1a\n
 {text}
 
-只返回摘要，不要解释。"""
+\u53ea\u8fd4\u56de\u6458\u8981\uff0c\u4e0d\u8981\u89e3\u91ca\u3002"""
         
         data = {
             "model": model,
@@ -123,10 +125,10 @@ def summarize_text(text, api_key, base_url, model):
         return result["choices"][0]["message"]["content"].strip()
     except Exception as e:
         print(f"Summarization error: {e}")
-        return "摘要生成失败"
+        return "\u6458\u8981\u751f\u6210\u5931\u8d25"
 
 def get_domain(url):
-    """从 URL 提取域名"""
+    """\u4ece URL \u63d0\u53d6\u57df\u540d"""
     try:
         from urllib.parse import urlparse
         domain = urlparse(url).netloc
@@ -135,26 +137,25 @@ def get_domain(url):
         return "news.ycombinator.com"
 
 def categorize_story(title):
-    """根据标题分类故事"""
+    """\u6839\u636e\u6807\u9898\u5206\u7c7b\u6545\u4e8b"""
     categories = {
-        "技术": ["programming", "code", "software", "api", "framework", "language", "python", "javascript", "rust", "go", "开发", "编程"],
-        "AI": ["ai", "machine learning", "llm", "gpt", "neural", "model", "人工智能", "机器学习"],
-        "创业": ["startup", "business", "company", "funding", "融资", "创业", "公司"],
-        "安全": ["security", "hack", "vulnerability", "exploit", "安全", "漏洞"],
-        "硬件": ["hardware", "chip", "cpu", "gpu", "device", "硬件", "芯片"],
-        "科学": ["science", "research", "study", "paper", "科学", "研究"]
+        "\u6280\u672f": ["programming", "code", "software", "api", "framework", "language", "python", "javascript", "rust", "go", "\u5f00\u53d1", "\u7f16\u7a0b"],
+        "AI": ["ai", "machine learning", "llm", "gpt", "neural", "model", "\u4eba\u5de5\u667a\u80fd", "\u673a\u5668\u5b66\u4e60"],
+        "\u521b\u4e1a": ["startup", "business", "company", "funding", "\u878d\u8d44", "\u521b\u4e1a", "\u516c\u53f8"],
+        "\u5b89\u5168": ["security", "hack", "vulnerability", "exploit", "\u5b89\u5168", "\u6f0f\u6d1e"],
+        "\u786c\u4ef6": ["hardware", "chip", "cpu", "gpu", "device", "\u786c\u4ef6", "\u82af\u7247"],
+        "\u79d1\u5b66": ["science", "research", "study", "paper", "\u79d1\u5b66", "\u7814\u7a76"]
     }
     
     title_lower = title.lower()
     for category, keywords in categories.items():
         if any(kw in title_lower for kw in keywords):
             return category
-    return "其他"
+    return "\u5176\u4ed6"
 
 def generate_hn_report(stories, api_key=None, base_url=None, model=None):
-    """生成 Hacker News 报告"""
+    """\u751f\u6210 Hacker News \u62a5\u544a"""
     
-    # 按分类整理
     categorized = {}
     for story in stories:
         category = categorize_story(story.get("title", ""))
@@ -162,19 +163,17 @@ def generate_hn_report(stories, api_key=None, base_url=None, model=None):
             categorized[category] = []
         categorized[category].append(story)
     
-    # 生成报告
-    date_str = datetime.now().strftime("%Y年%m月%d日")
+    date_str = get_bj_now().strftime("%Y\u5e74%m\u6708%d\u65e5")
     
-    report = f"""# 🚀 Hacker News 精选 | {date_str}
+    report = f"""# \ud83d\ude80 Hacker News \u7cbe\u9009 | {date_str}
 
-> 自动抓取 Hacker News Top 故事，翻译标题并生成中文摘要
+> \u81ea\u52a8\u6293\u53d6 Hacker News Top \u6545\u4e8b\uff0c\u7ffb\u8bd1\u6807\u9898\u548c\u751f\u6210\u4e2d\u6587\u6458\u8981
 
 ---
 
 """
     
-    # 热门故事 Top 5
-    report += "## 🔥 热门 Top 5\n\n"
+    report += "## \ud83d\udd25 \u70ed\u95e8 Top 5\n\n"
     for i, story in enumerate(stories[:5], 1):
         title = story.get("title", "")
         url = story.get("url", f"https://news.ycombinator.com/item?id={story.get('id')}")
@@ -182,58 +181,52 @@ def generate_hn_report(stories, api_key=None, base_url=None, model=None):
         comments = story.get("descendants", 0)
         domain = get_domain(url)
         
-        # 翻译标题
         translated_title = title
         if api_key:
             translated_title = translate_text(title, api_key, base_url, model)
         
         report += f"""### {i}. [{translated_title}]({url})
-- **原文**: {title}
-- **来源**: {domain} | 👍 {score} | 💬 {comments}
+- **\u539f\u6587**: {title}
+- **\u6765\u6e90**: {domain} | \ud83d\udc4d {score} | \ud83d\udcac {comments}
 
 """
     
-    # 分类浏览
-    report += "---\n\n## 📂 分类浏览\n\n"
+    report += "---\n\n## \ud83d\udcc2 \u5206\u7c7b\u6d4f\u89c8\n\n"
     
-    # 按优先级排序分类
-    priority = ["技术", "AI", "创业", "安全", "硬件", "科学", "其他"]
+    priority = ["\u6280\u672f", "AI", "\u521b\u4e1a", "\u5b89\u5168", "\u786c\u4ef6", "\u79d1\u5b66", "\u5176\u4ed6"]
     for category in priority:
         if category not in categorized or not categorized[category]:
             continue
         
         report += f"### {category}\n\n"
-        for story in categorized[category][:3]:  # 每类最多3条
+        for story in categorized[category][:3]:
             title = story.get("title", "")
             url = story.get("url", f"https://news.ycombinator.com/item?id={story.get('id')}")
             score = story.get("score", 0)
             
-            # 翻译标题
             translated_title = title
             if api_key:
                 translated_title = translate_text(title, api_key, base_url, model)
             
-            report += f"- [{translated_title}]({url}) ({score}👍)\n"
+            report += f"- [{translated_title}]({url}) ({score}\ud83d\udc4d)\n"
         
         report += "\n"
     
-    # 添加页脚
     report += f"""---
 
-## 📊 统计
+## \ud83d\udcca \u7edf\u8ba1
 
-- **抓取时间**: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
-- **故事总数**: {len(stories)}
-- **数据来源**: [Hacker News](https://news.ycombinator.com)
+- **\u6293\u53d6\u65f6\u95f4**: {get_bj_now().strftime('%Y-%m-%d %H:%M:%S')}
+- **\u6545\u4e8b\u603b\u6570**: {len(stories)}
+- **\u6570\u636e\u6765\u6e90**: [Hacker News](https://news.ycombinator.com)
 
 ---
-*由 GitHub Actions 自动生成*
+*\u7531 GitHub Actions \u81ea\u52a8\u751f\u6210*
 """
     
     return report
 
 def main():
-    # 获取环境变量
     api_key = os.environ.get("LLM_API_KEY")
     base_url = os.environ.get("LLM_BASE_URL", "https://yunwu.ai/v1")
     model = os.environ.get("LLM_MODEL", "gemini-3-pro-preview")
@@ -247,11 +240,9 @@ def main():
     
     print(f"Fetched {len(stories)} stories")
     
-    # 生成报告
     print("Generating report...")
     report = generate_hn_report(stories, api_key, base_url, model)
     
-    # 保存报告
     with open("HACKERNEWS.md", "w", encoding="utf-8") as f:
         f.write(report)
     

@@ -1,17 +1,23 @@
 #!/usr/bin/env python3
 """
-GitHub 仓库养宠物系统
-通过 commit 次数来喂养和升级虚拟宠物
+GitHub \u4ed3\u5e93\u517b\u5ba0\u7269\u7cfb\u7edf
+\u901a\u8fc7 commit \u6b21\u6570\u6765\u5582\u517b\u548c\u5347\u7ea7\u865a\u62df\u5ba0\u7269
 """
 
 import json
 import os
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
+
+BJ_TZ = timezone(timedelta(hours=8))
+
+def get_bj_now():
+    return datetime.now(BJ_TZ)
+
 from github import Github
 import random
 
 def load_pet_data():
-    """加载宠物数据"""
+    """\u52a0\u8f7d\u5ba0\u7269\u6570\u636e"""
     pet_file = "pet.json"
     if os.path.exists(pet_file):
         with open(pet_file, "r", encoding="utf-8") as f:
@@ -19,43 +25,43 @@ def load_pet_data():
     return get_default_pet()
 
 def save_pet_data(pet_data):
-    """保存宠物数据"""
+    """\u4fdd\u5b58\u5ba0\u7269\u6570\u636e"""
     with open("pet.json", "w", encoding="utf-8") as f:
         json.dump(pet_data, f, ensure_ascii=False, indent=2)
 
 def get_default_pet():
-    """获取默认宠物数据"""
+    """\u83b7\u53d6\u9ed8\u8ba4\u5ba0\u7269\u6570\u636e"""
     return {
         "name": "",
         "level": 1,
         "exp": 0,
-        "hunger": 50,  # 饥饿度 0-100，越高越饱
-        "happiness": 50,  # 心情 0-100
-        "health": 100,  # 健康 0-100
-        "created_at": datetime.now().isoformat(),
-        "last_fed": datetime.now().isoformat(),
+        "hunger": 50,
+        "happiness": 50,
+        "health": 100,
+        "created_at": get_bj_now().isoformat(),
+        "last_fed": get_bj_now().isoformat(),
         "total_commits": 0,
-        "evolution_stage": "egg",  # egg -> baby -> child -> teen -> adult
-        "personality": random.choice(["活泼", "温顺", "调皮", "聪明", "贪吃"]),
-        "favorite_food": random.choice(["代码", "Bug", "Commit", "PR", "Star"]),
-        "mood": "开心"
+        "evolution_stage": "egg",
+        "personality": random.choice(["\u6d3b\u6cfc", "\u6e29\u987a", "\u8c03\u76ae", "\u806a\u660e", "\u8d2a\u5403"]),
+        "favorite_food": random.choice(["\u4ee3\u7801", "Bug", "Commit", "PR", "Star"]),
+        "mood": "\u5f00\u5fc3"
     }
 
 def get_evolution_stage(level):
-    """根据等级获取进化阶段"""
+    """\u6839\u636e\u7b49\u7ea7\u83b7\u53d6\u8fdb\u5316\u9636\u6bb5"""
     if level < 5:
-        return "egg", "🥚"
+        return "egg", "\ud83e\udd5a"
     elif level < 15:
-        return "baby", "🐣"
+        return "baby", "\ud83d\udc23"
     elif level < 30:
-        return "child", "🐥"
+        return "child", "\ud83d\udc25"
     elif level < 50:
-        return "teen", "🐤"
+        return "teen", "\ud83d\udc24"
     else:
-        return "adult", "🦅"
+        return "adult", "\ud83e\udd85"
 
 def get_pet_appearance(evolution_stage, personality):
-    """获取宠物外观 ASCII 艺术"""
+    """\u83b7\u53d6\u5ba0\u7269\u5916\u89c2 ASCII \u827a\u672f"""
     appearances = {
         "egg": """
       .-.
@@ -84,7 +90,7 @@ def get_pet_appearance(evolution_stage, personality):
          \\/  .  \\
          |  /\\  |
         /| /  \\ |\\
-       (_//    \\\_)
+       (_//    \\\\_)
         """,
         "adult": """
          /\
@@ -100,77 +106,59 @@ def get_pet_appearance(evolution_stage, personality):
     return appearances.get(evolution_stage, appearances["egg"])
 
 def get_status_bar(value, max_val=100, length=20):
-    """生成状态条"""
+    """\u751f\u6210\u72b6\u6001\u6761"""
     filled = int(value / max_val * length)
-    bar = "█" * filled + "░" * (length - filled)
+    bar = "\u2588" * filled + "\u2591" * (length - filled)
     return f"[{bar}] {value}%"
 
 def calculate_exp_for_level(level):
-    """计算升级所需经验"""
+    """\u8ba1\u7b97\u5347\u7ea7\u6240\u9700\u7ecf\u9a8c"""
     return level * 100
 
 def feed_pet(pet_data, commits_today):
-    """喂养宠物"""
-    now = datetime.now()
+    """\u5582\u517b\u5ba0\u7269"""
+    now = get_bj_now()
     last_fed = datetime.fromisoformat(pet_data["last_fed"])
     
-    # 计算饥饿度下降（每过一天下降 20）
     days_passed = (now - last_fed).days
     pet_data["hunger"] = max(0, pet_data["hunger"] - days_passed * 20)
     
-    # 根据 commit 数量喂养
     if commits_today > 0:
-        # 每个 commit 增加 5 点饱食度
         hunger_increase = min(commits_today * 5, 100 - pet_data["hunger"])
         pet_data["hunger"] += hunger_increase
-        
-        # 增加经验值
         exp_gain = commits_today * 10
         pet_data["exp"] += exp_gain
-        
-        # 增加心情
         pet_data["happiness"] = min(100, pet_data["happiness"] + commits_today * 2)
-        
-        # 更新总 commit 数
         pet_data["total_commits"] += commits_today
-        
         pet_data["last_fed"] = now.isoformat()
         
-        # 检查升级
         while pet_data["exp"] >= calculate_exp_for_level(pet_data["level"]):
             pet_data["exp"] -= calculate_exp_for_level(pet_data["level"])
             pet_data["level"] += 1
             pet_data["health"] = min(100, pet_data["health"] + 10)
     else:
-        # 没有 commit，心情下降
         pet_data["happiness"] = max(0, pet_data["happiness"] - 10)
     
-    # 更新进化阶段
     pet_data["evolution_stage"], _ = get_evolution_stage(pet_data["level"])
     
-    # 更新心情状态
     if pet_data["hunger"] < 30:
-        pet_data["mood"] = "饥饿"
+        pet_data["mood"] = "\u9965\u997f"
     elif pet_data["happiness"] < 30:
-        pet_data["mood"] = "难过"
+        pet_data["mood"] = "\u96be\u8fc7"
     elif pet_data["health"] < 50:
-        pet_data["mood"] = "生病"
+        pet_data["mood"] = "\u751f\u75c5"
     else:
-        pet_data["mood"] = random.choice(["开心", "兴奋", "满足", "悠闲"])
+        pet_data["mood"] = random.choice(["\u5f00\u5fc3", "\u5174\u594b", "\u6ee1\u8db3", "\u60a0\u95f2"])
     
     return pet_data
 
 def get_commits_today(repo_name, token):
-    """获取今天的 commit 数量"""
+    """\u83b7\u53d6\u4eca\u5929\u7684 commit \u6570\u91cf"""
     try:
         g = Github(token)
         repo = g.get_repo(repo_name)
-        
-        # 获取今天的日期范围
-        today = datetime.now().date()
+        today = get_bj_now().date()
         tomorrow = today + timedelta(days=1)
-        
-        # 获取 commits
         commits = repo.get_commits(since=f"{today}T00:00:00Z", until=f"{tomorrow}T00:00:00Z")
         return commits.totalCount
     except Exception as e:
@@ -178,60 +166,58 @@ def get_commits_today(repo_name, token):
         return 0
 
 def generate_pet_report(pet_data, commits_today):
-    """生成宠物状态报告"""
+    """\u751f\u6210\u5ba0\u7269\u72b6\u6001\u62a5\u544a"""
     stage, emoji = get_evolution_stage(pet_data["level"])
     appearance = get_pet_appearance(stage, pet_data["personality"])
     
-    # 获取等级称号
     titles = {
-        "egg": "蛋蛋",
-        "baby": "宝宝",
-        "child": "幼崽",
-        "teen": "少年",
-        "adult": "成体"
+        "egg": "\u86cb\u86cb",
+        "baby": "\u5b9d\u5b9d",
+        "child": "\u5e7c\u5d3d",
+        "teen": "\u5c11\u5e74",
+        "adult": "\u6210\u4f53"
     }
-    title = titles.get(stage, "未知")
+    title = titles.get(stage, "\u672a\u77e5")
     
-    report = f"""# 🐾 我的 GitHub 宠物
+    report = f"""# \ud83d\udc3e \u6211\u7684 GitHub \u5ba0\u7269
 
 ```
 {appearance}
 ```
 
-## {emoji} {pet_data['name'] or '未命名宠物'} | Lv.{pet_data['level']} {title}
+## {emoji} {pet_data['name'] or '\u672a\u547d\u540d\u5ba0\u7269'} | Lv.{pet_data['level']} {title}
 
-> **性格**: {pet_data['personality']} | **最爱食物**: {pet_data['favorite_food']} | **当前心情**: {pet_data['mood']}
+> **\u6027\u683c**: {pet_data['personality']} | **\u6700\u7231\u98df\u7269**: {pet_data['favorite_food']} | **\u5f53\u524d\u5fc3\u60c5**: {pet_data['mood']}
 
-### 📊 状态面板
+### \ud83d\udcca \u72b6\u6001\u9762\u677f
 
-| 属性 | 状态 |
+| \u5c5e\u6027 | \u72b6\u6001 |
 |:---:|:---|
-| 🍖 饱食度 | {get_status_bar(pet_data['hunger'])} |
-| 😊 心情值 | {get_status_bar(pet_data['happiness'])} |
-| ❤️ 健康值 | {get_status_bar(pet_data['health'])} |
-| ⭐ 经验值 | {get_status_bar(pet_data['exp'], calculate_exp_for_level(pet_data['level']))} |
+| \ud83c\udf56 \u9971\u98df\u5ea6 | {get_status_bar(pet_data['hunger'])} |
+| \ud83d\ude0a \u5fc3\u60c5\u503c | {get_status_bar(pet_data['happiness'])} |
+| \u2764\ufe0f \u5065\u5eb7\u503c | {get_status_bar(pet_data['health'])} |
+| \u2b50 \u7ecf\u9a8c\u503c | {get_status_bar(pet_data['exp'], calculate_exp_for_level(pet_data['level']))} |
 
-### 📈 成长记录
+### \ud83d\udcc8 \u6210\u957f\u8bb0\u5f55
 
-- **总提交次数**: {pet_data['total_commits']}
-- **今日提交**: {commits_today}
-- **创建时间**: {pet_data['created_at'][:10]}
-- **进化阶段**: {stage}
+- **\u603b\u63d0\u4ea4\u6b21\u6570**: {pet_data['total_commits']}
+- **\u4eca\u65e5\u63d0\u4ea4**: {commits_today}
+- **\u521b\u5efa\u65f6\u95f4**: {pet_data['created_at'][:10]}
+- **\u8fdb\u5316\u9636\u6bb5**: {stage}
 
-### 💡 喂养指南
+### \ud83d\udca1 \u5582\u517b\u6307\u5357
 
-1. **提交代码**来喂养宠物，每次提交增加饱食度和经验值
-2. 宠物每天会自然消耗饱食度，记得常来提交代码哦
-3. 达到一定等级后宠物会**进化**
-4. 保持心情和健康值，宠物会成长得更快
+1. **\u63d0\u4ea4\u4ee3\u7801**\u6765\u5582\u517b\u5ba0\u7269\uff0c\u6bcf\u6b21\u63d0\u4ea4\u589e\u52a0\u9971\u98df\u5ea6\u548c\u7ecf\u9a8c\u503c
+2. \u5ba0\u7269\u6bcf\u5929\u4f1a\u81ea\u7136\u6d88\u8017\u9971\u98df\u5ea6\uff0c\u8bb0\u5f97\u5e38\u6765\u63d0\u4ea4\u4ee3\u7801\u54e6
+3. \u8fbe\u5230\u4e00\u5b9a\u7b49\u7ea7\u540e\u5ba0\u7269\u4f1a**\u8fdb\u5316**
+4. \u4fdd\u6301\u5fc3\u60c5\u548c\u5065\u5eb7\u503c\uff0c\u5ba0\u7269\u4f1a\u6210\u957f\u5f97\u66f4\u5feb
 
 ---
-*最后更新: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}*
+*\u6700\u540e\u66f4\u65b0: {get_bj_now().strftime('%Y-%m-%d %H:%M:%S')}*
 """
     return report
 
 def main():
-    # 获取环境变量
     token = os.environ.get("GH_TOKEN")
     repo = os.environ.get("GITHUB_REPOSITORY")
     
@@ -239,23 +225,15 @@ def main():
         print("Missing required environment variables")
         return
     
-    # 加载宠物数据
     pet_data = load_pet_data()
-    
-    # 获取今日 commit 数量
     commits_today = get_commits_today(repo, token)
     print(f"Today's commits: {commits_today}")
     
-    # 喂养宠物
     pet_data = feed_pet(pet_data, commits_today)
-    
-    # 保存宠物数据
     save_pet_data(pet_data)
     
-    # 生成报告
     report = generate_pet_report(pet_data, commits_today)
     
-    # 保存到文件
     with open("PET.md", "w", encoding="utf-8") as f:
         f.write(report)
     
