@@ -8,9 +8,9 @@ on:
   workflow_dispatch:
     inputs:
       create_issue:
-        description: '是否创建 Issue'
+        description: '是否创建 Issue 通知'
         required: false
-        default: 'false'
+        default: 'true'
         type: choice
         options:
           - 'true'
@@ -50,8 +50,11 @@ jobs:
           git diff --staged --quiet || git commit -m "🚀 Hacker News 精选更新: $(date +%Y-%m-%d)"
           git push
 
-      - name: Create Issue
-        if: github.event.inputs.create_issue == 'true'
+      - name: Wait for push to complete
+        run: sleep 10
+
+      - name: Create Issue with summary
+        if: github.event.inputs.create_issue != 'false'
         uses: actions/github-script@v7
         with:
           script: |
@@ -59,10 +62,37 @@ jobs:
             const content = fs.readFileSync('HACKERNEWS.md', 'utf8');
             const date = new Date().toISOString().split('T')[0];
             
+            // 提取 Top 5 的标题和链接
+            const top5Match = content.match(/## 🔥 热门 Top 5([\s\S]*?)(?=---\n\n## 📂)/);
+            let top5Summary = '';
+            if (top5Match) {
+              const lines = top5Match[1].split('\n').filter(line => line.trim().startsWith('###'));
+              top5Summary = lines.slice(0, 5).map(line => {
+                const match = line.match(/### \d+\. \[(.*?)\]\((.*?)\)/);
+                if (match) {
+                  return `- [${match[1]}](${match[2]})`;
+                }
+                return '';
+              }).filter(Boolean).join('\n');
+            }
+            
+            // 构建简洁的 Issue 内容
+            const issueBody = `## 🚀 今日 Hacker News 精选
+
+${top5Summary}
+
+---
+
+📄 [查看完整报告](https://github.com/${{ github.repository }}/blob/main/HACKERNEWS.md)
+
+⏰ 更新时间: ${new Date().toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' })}`;
+            
             await github.rest.issues.create({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              title: `🚀 Hacker News 精选 | ${date}`,
-              body: content.substring(0, 65535),
+              title: `🚀 HN 精选 | ${date}`,
+              body: issueBody,
               labels: ['hackernews', 'daily']
             });
+            
+            console.log('Issue created successfully!');
