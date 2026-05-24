@@ -1,0 +1,58 @@
+name: 🚀 Hacker News 精选
+
+on:
+  schedule:
+    # 北京时间每天早上 8:00
+    # UTC 00:00 = 北京时间 08:00
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-hn-report:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install requests --quiet
+
+      - name: Generate Hacker News report
+        env:
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_BASE_URL: ${{ secrets.LLM_BASE_URL || 'https://yunwu.ai/v1' }}
+          LLM_MODEL: ${{ secrets.LLM_MODEL || 'gemini-3-pro-preview' }}
+        run: python hackernews.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add HACKERNEWS.md
+          git diff --staged --quiet || git commit -m "🚀 Hacker News 精选更新: $(date +%Y-%m-%d)"
+          git push
+
+      - name: Create Issue (optional)
+        if: ${{ secrets.CREATE_HN_ISSUE == 'true' }}
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const content = fs.readFileSync('HACKERNEWS.md', 'utf8');
+            const date = new Date().toISOString().split('T')[0];
+            
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `🚀 Hacker News 精选 | ${date}`,
+              body: content.substring(0, 65535),  // GitHub issue body limit
+              labels: ['hackernews', 'daily']
+            });
