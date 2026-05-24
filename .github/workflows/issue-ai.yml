@@ -3,6 +3,8 @@ name: Issue AI Reply
 on:
   issues:
     types: [opened]
+  issue_comment:
+    types: [created]
 
 permissions:
   issues: write
