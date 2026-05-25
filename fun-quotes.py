@@ -8,8 +8,12 @@
 import json
 import os
 import random
+import sys
 import urllib.request
 from datetime import datetime, timezone, timedelta
+
+if sys.platform == "win32":
+    sys.stdout.reconfigure(encoding="utf-8")
 
 BJ_TZ = timezone(timedelta(hours=8))
 
@@ -21,13 +25,12 @@ def req_json(url, headers=None):
     if headers:
         h.update(headers)
     req = urllib.request.Request(url, headers=h)
-    with urllib.request.urlopen(req, timeout=10) as resp:
+    with urllib.request.urlopen(req, timeout=15) as resp:
         return json.loads(resp.read())
 
 # ==================== 数据源 ====================
 
 def fetch_poison_soup():
-    """毒鸡汤"""
     try:
         d = req_json("https://api.shadiao.pro/chp")
         text = d["data"]["text"]
@@ -37,7 +40,6 @@ def fetch_poison_soup():
         return None
 
 def fetch_hitokoto():
-    """一言"""
     try:
         d = req_json("https://v1.hitokoto.cn/?encode=json")
         text = d["hitokoto"]
@@ -54,7 +56,6 @@ def fetch_hitokoto():
         return None
 
 def fetch_tiyanhua():
-    """土味情话"""
     try:
         d = req_json("https://api.shadiao.pro/pyq")
         text = d["data"]["text"]
@@ -64,7 +65,6 @@ def fetch_tiyanhua():
         return None
 
 def fetch_dog_diary():
-    """舔狗日记"""
     try:
         d = req_json("https://api.shadiao.pro/dog")
         text = d["data"]["text"]
@@ -74,7 +74,6 @@ def fetch_dog_diary():
         return None
 
 def fetch_pengyu():
-    """朋也文案"""
     try:
         d = req_json("https://api.shadiao.pro/wpy")
         text = d["data"]["text"]
@@ -84,7 +83,6 @@ def fetch_pengyu():
         return None
 
 def fetch_netease_hot_comment():
-    """网易云热评"""
     try:
         d = req_json("https://api.shadiao.pro/duan")
         text = d["data"]["text"]
@@ -94,7 +92,6 @@ def fetch_netease_hot_comment():
         return None
 
 def fetch_rainbow_fart():
-    """彩虹屁"""
     try:
         d = req_json("https://api.shadiao.pro/rainbow")
         text = d["data"]["text"]
@@ -104,7 +101,6 @@ def fetch_rainbow_fart():
         return None
 
 def fetch_sleep_early():
-    """早点睡文案"""
     try:
         d = req_json("https://api.shadiao.pro/sleep")
         text = d["data"]["text"]
@@ -135,7 +131,6 @@ LOCAL_QUOTES = [
 
 # ==================== 主逻辑 ====================
 
-# 所有数据源
 FETCHERS = [
     fetch_poison_soup,
     fetch_hitokoto,
@@ -148,11 +143,8 @@ FETCHERS = [
 ]
 
 def get_random_quote():
-    """随机获取一条语录，优先从 API 获取，失败则用本地"""
-    # 随机打乱顺序
     fetchers = FETCHERS[:]
     random.shuffle(fetchers)
-
     for fetcher in fetchers:
         try:
             result = fetcher()
@@ -160,40 +152,38 @@ def get_random_quote():
                 return result
         except Exception:
             continue
-
-    # API 全部失败，用本地备用
     return random.choice(LOCAL_QUOTES)
 
-def create_issue(title, body, token):
-    """创建 Issue"""
-    url = "https://api.github.com/repos/Everett406/daily-report/issues"
+def create_issue(repo, title, body, token):
+    url = f"https://api.github.com/repos/{repo}/issues"
     data = json.dumps({"title": title, "body": body}).encode()
     req = urllib.request.Request(url, data=data, method="POST")
     req.add_header("Authorization", f"Bearer {token}")
     req.add_header("Accept", "application/vnd.github+json")
     req.add_header("Content-Type", "application/json")
-    with urllib.request.urlopen(req, timeout=10) as resp:
+    with urllib.request.urlopen(req, timeout=15) as resp:
         return json.loads(resp.read())
 
 def main():
     now = get_bj_now()
     hour = now.hour
 
-    # 北京时间 23:00-06:00 不发送
     if hour >= 23 or hour < 6:
         print(f"[SKIP] 当前北京时间 {now.strftime('%H:%M')}，在静默时段 23:00-06:00，跳过")
         return
 
     token = os.environ.get("GH_TOKEN")
+    repo = os.environ.get("GITHUB_REPOSITORY", "Everett406/daily-report")
+
     if not token:
         print("[ERROR] Missing GH_TOKEN")
         return
 
-    # 获取随机语录
+    print(f"[INFO] repo={repo}, hour={hour}")
+
     quote = get_random_quote()
     print(f"[OK] 获取到: {quote['type']} - {quote['text'][:30]}...")
 
-    # 构建 Issue 内容
     time_str = now.strftime("%H:%M")
     title = f"{quote['type']} | {time_str}"
 
@@ -201,23 +191,22 @@ def main():
     body_parts.append(f"## {quote['type']}")
     body_parts.append("")
     body_parts.append(f"> {quote['text']}")
-
     if quote.get("source"):
-        body_parts.append(f"")
+        body_parts.append("")
         body_parts.append(f"{quote['source']}")
-
-    body_parts.append(f"")
-    body_parts.append(f"---")
+    body_parts.append("")
+    body_parts.append("---")
     body_parts.append(f"⏰ {now.strftime('%Y-%m-%d %H:%M:%S')} (北京时间)")
-    body_parts.append(f"")
-    body_parts.append(f"💡 下次推送约 45 分钟后")
+    body_parts.append("")
+    body_parts.append("💡 下次推送约 45 分钟后")
 
     body = "\n".join(body_parts)
 
-    # 创建 Issue
     try:
-        result = create_issue(title, body, token)
+        result = create_issue(repo, title, body, token)
         print(f"[OK] Issue created: {result.get('html_url')}")
+    except urllib.error.HTTPError as e:
+        print(f"[ERROR] HTTP {e.code}: {e.read().decode()[:500]}")
     except Exception as e:
         print(f"[ERROR] Create issue failed: {e}")
 
