@@ -26,6 +26,7 @@ jobs:
       - name: Push fun quote
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
         run: python fun-quotes.py
 
       - name: Wait before next check
