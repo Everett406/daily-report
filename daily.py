@@ -413,8 +413,10 @@ if cfg.get("weather", True) and data["weather"]:
 
 if cfg.get("daily_tips", True):
     readme.append("## \ud83d\udccb \u4eca\u65e5\u5b9c\u5fcc")
-    readme.append(f"- **\u5b9c**\uff1a{'\u3001'.join(data['yi'])}")
-    readme.append(f"- **\u5fcc**\uff1a{'\u3001'.join(data['ji'])}")
+    yi_sep = "\u3001"
+    readme.append(f"- **\u5b9c**\uff1a{yi_sep.join(data['yi'])}")
+    ji_sep = "\u3001"
+    readme.append(f"- **\u5fcc**\uff1a{ji_sep.join(data['ji'])}")
     readme.append("")
 
 if data["tops"]:
@@ -464,7 +466,8 @@ if cfg.get("countdown", True):
     issue.append("")
 
 if cfg.get("daily_tips", True):
-    issue.append(f"**\ud83d\udccb \u4eca\u65e5\u5b9c\u5fcc**\uff1a\u5b9c {'\u3001'.join(data['yi'])}\uff1b\u5fcc {'\u3001'.join(data['ji'])}")
+    issue_sep = "\u3001"
+    issue.append(f"**\ud83d\udccb \u4eca\u65e5\u5b9c\u5fcc**\uff1a\u5b9c {issue_sep.join(data['yi'])}\uff1b\u5fcc {issue_sep.join(data['ji'])}")
     issue.append("")
 
 if data["tops"]:
