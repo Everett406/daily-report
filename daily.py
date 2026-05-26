@@ -360,7 +360,7 @@ if llm_cfg.get("enabled", False) and api_key and rss_cfg:
 
 # ---------- \u751f\u6210 README\uff08\u8be6\u7ec6\u7248\uff09 ----------
 readme = []
-readme.append(f"# \ud83d\udcf0 \u6bcf\u65e5\u65e9\u62a5 {date_str} {week_str}")
+readme.append(f"# 📰 \u6bcf\u65e5\u65e9\u62a5 {date_str} {week_str}")
 readme.append("")
 
 if data["sentence"]:
@@ -374,7 +374,7 @@ if data["bing_url"]:
 
 # RSS Summary (README \u7f6e\u9876)
 if data["rss_summary"]:
-    readme.append("## \ud83d\udce1 RSS \u8d44\u8baf\u6458\u8981")
+    readme.append("## 📡 RSS \u8d44\u8baf\u6458\u8981")
     readme.append("")
     readme.append(data["rss_summary"])
     readme.append("")
@@ -412,7 +412,7 @@ if cfg.get("weather", True) and data["weather"]:
     readme.append("")
 
 if cfg.get("daily_tips", True):
-    readme.append("## \ud83d\udccb \u4eca\u65e5\u5b9c\u5fcc")
+    readme.append("## 📋 \u4eca\u65e5\u5b9c\u5fcc")
     yi_sep = "\u3001"
     readme.append(f"- **\u5b9c**\uff1a{yi_sep.join(data['yi'])}")
     ji_sep = "\u3001"
@@ -420,18 +420,18 @@ if cfg.get("daily_tips", True):
     readme.append("")
 
 if data["tops"]:
-    readme.append("## \ud83d\udd25 \u5fae\u535a\u70ed\u641c TOP5")
+    readme.append("## 🔥 \u5fae\u535a\u70ed\u641c TOP5")
     for rank, note in data["tops"]:
         readme.append(f"{rank}. {note}")
     readme.append("")
 
 if cfg.get("history_today", True) and data["history"]:
-    readme.append("## \ud83d\udcdc \u5386\u53f2\u4e0a\u7684\u4eca\u5929")
+    readme.append("## 📼 \u5386\u53f2\u4e0a\u7684\u4eca\u5929")
     readme.append(data["history"])
     readme.append("")
 
 if cfg.get("poison_soup", True) and data["soup"]:
-    readme.append("## \ud83c\udf75 \u6bd2\u9e21\u6c64")
+    readme.append("## 🍵 \u6bd2\u9e21\u6c64")
     readme.append(f"> {data['soup']}")
     readme.append("")
 
@@ -443,7 +443,7 @@ with open("README.md", "w", encoding="utf-8") as f:
 
 # ---------- \u751f\u6210 Issue\uff08\u7cbe\u7b80\u7248\uff09 ----------
 issue = []
-issue.append(f"## \ud83d\udcf0 {date_str} {week_str}")
+issue.append(f"## 📰 {date_str} {week_str}")
 issue.append("")
 
 if data["sentence"]:
@@ -451,7 +451,7 @@ if data["sentence"]:
     issue.append("")
 
 if data["rss_summary"]:
-    issue.append("**\ud83d\udce1 \u4eca\u65e5\u8d44\u8baf**")
+    issue.append("**📡 \u4eca\u65e5\u8d44\u8baf**")
     issue.append(data["rss_summary"])
     issue.append("")
 
@@ -467,23 +467,23 @@ if cfg.get("countdown", True):
 
 if cfg.get("daily_tips", True):
     issue_sep = "\u3001"
-    issue.append(f"**\ud83d\udccb \u4eca\u65e5\u5b9c\u5fcc**\uff1a\u5b9c {issue_sep.join(data['yi'])}\uff1b\u5fcc {issue_sep.join(data['ji'])}")
+    issue.append(f"**📋 \u4eca\u65e5\u5b9c\u5fcc**\uff1a\u5b9c {issue_sep.join(data['yi'])}\uff1b\u5fcc {issue_sep.join(data['ji'])}")
     issue.append("")
 
 if data["tops"]:
-    issue.append("**\ud83d\udd25 \u70ed\u641c\u901f\u89c8**\uff1a")
+    issue.append("**🔥 \u70ed\u641c\u901f\u89c8**\uff1a")
     for rank, note in data["tops"][:3]:
         issue.append(f"{rank}. {note}")
     issue.append("")
 
 if cfg.get("poison_soup", True) and data["soup"]:
-    issue.append(f"**\ud83c\udf75 \u6bd2\u9e21\u6c64**\uff1a{data['soup']}")
+    issue.append(f"**🍵 \u6bd2\u9e21\u6c64**\uff1a{data['soup']}")
     issue.append("")
 
 issue.append("---")
 issue.append("[\u67e5\u770b\u5b8c\u6574\u7248](https://github.com/Everett406/daily-report#readme)")
 
-issue_title = f"\ud83d\udcf0 \u6bcf\u65e5\u65e9\u62a5 {date_str}"
+issue_title = f"📰 \u6bcf\u65e5\u65e9\u62a5 {date_str}"
 issue_body = "\n".join(issue)
 
 # ---------- \u521b\u5efa Issue ----------
