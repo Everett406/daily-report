@@ -1,44 +1,40 @@
-# 📰 每日早报 2026年05月27日 周三
+# 📰 每日早报 2026年05月28日 周四
 
-> **麻雀妈妈给小麻雀扎头发，问小麻雀要什么发型，小麻雀说：啾啾。** —— z萱xuan萱xuan萱 《网易云音乐》
+> **管他是不是人面兽心，我们只要活着就行。** —— 太宰治 《维庸之妻》
 
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.OtterDay_ZH-CN7735013625_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-> 海獭，霍默卡奇马克湾，阿拉斯加州，美国 (© roclwyr/Getty Images)
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.HwaesongFortress_ZH-CN8225341972_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+> 华城堡的古城墙，水原，韩国 (© aomam/Getty Images)
 
 ## 📡 RSS 资讯摘要
 
-- AI圈又卷起来啦！SpaceXAI刚搞完Grok V9模型准备开源，华为也放出大招，新麒麟芯片要首发酷炫的“逻辑折叠”技术。
-- 微软提醒Win11的安全启动证书快过期了。不过别慌，就算你不去更新，电脑照样能正常开机运行，不用太焦虑哈。
-- 发现个坑！Edge浏览器最近在后台偷偷下载AI翻译模型占空间。如果你不需要，可以通过修改注册表里的组策略来彻底关掉它。
-- 带摄像头的AI耳机能取代iPhone吗？有大佬连戴了72小时做测评，结论是：新奇归新奇，但新产品确实也带来了不少新毛病。
-- 发现个Codex的隐藏神仙玩法！不仅能把网速狂飙优化
+LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 
 <details>
 <summary>点击查看原始 RSS 来源</summary>
 
 **juya AI Daily**
-- 2026-05-26
+- 2026-05-27
 
 **少数派**
-- 社区速递 142 | 派友的四月「情绪账单」、换壳重生的鼠标与仿真柠檬树
-- Hyrox 首战攻略：从新手到完赛，普通人亦可澎湃赛场
+- 客制化键盘｜近期值得一看的套件与键帽：怪诞主题、复古创新与静电容
+- 屏忆：这款开源工具，把过目就忘的日常变成「上下文」
 
 **阮一峰的网络日志**
 - 科技爱好者周刊（第 397 期）：财富正在向 AI 集中
 - 科技爱好者周刊（第 396 期）：互联网通信的替代方案
 
 **V2EX**
-- [Windows] 禁止 edge 自动下载 ai 翻译模型
-- [Wunder] edge.v2ex.com/chat 功能示例 · 总结一个有很多回复的主题
-- [投资] 要准备买入存储类了
+- [问与答] ai studio 被疯狂封 api 怎么回事
+- [程序员] Zerolang 好像还没人讨论？
+- [问与答] token 用量究竟是怎么算的？
 
 **小众软件**
-- EaseUS 年中大促火热来袭! 全线产品最高立省 70%
-- 微软提醒：Windows 11 安全启动证书快过期了｜不更新会怎样？
+- 没卡没资源？复旦NLP直接把免费GPU塞进AI，科研全自动时代来了！
+- 恍如隔世：2000买的硬盘，已经5000了
 
 **爱范儿**
-- 带摄像头的 AI 耳机能替代 iPhone 吗？我戴了 72 小时之后有了答案
-- 用 Codex 优化网速狂飙 900Mbps？实测之后我发现了新的隐藏玩法
+- 法拉利发布首款纯电车型！外形酷似理想 i6，约合人民币 435 万元
+- 47.98 万元起！新一代问界 M9 上市，余承东：地球上最强的 SUV
 
 </details>
 
@@ -46,34 +42,34 @@
 
 | 今年 | 本月 | 本周 | 今日 |
 |:---:|:---:|:---:|:---:|
-| 40.3% | 87.1% | 42.9% | 30.2% |
+| 40.5% | 90.3% | 57.1% | 30.7% |
 
 ## ⏰ 倒计时
-- 周末：还有 3 天
-- 端午节：还有 23 天
-- 2027年元旦：还有 219 天
+- 周末：还有 2 天
+- 端午节：还有 22 天
+- 2027年元旦：还有 218 天
 
 ## ☁️ 天气
 ```
-changsha: 🌦️  🌡️+76°F 🌬️↘8mph
+changsha: 🌤️  🌡️+74°F 🌬️↘4mph
 ```
 
 ## 📋 今日宜忌
-- **宜**：摸鱼、早退
-- **忌**：看余额、回领导消息
+- **宜**：追剧、逛公园
+- **忌**：开会、看余额
 
 ## 🔥 微博热搜 TOP5
-1. 雷军回应武契奇说小米车漂亮但买不起
-2. 五个女博士被投诉喝了过敏
-3. 多地和降雨赛跑全力保粮
-3. 敖瑞鹏直播变敖real鹏
-4. 我运气好因为我一直在往前走
+1. 给阿嬷的情书
+2. 外国网红中国搭便车的视频火到国外
+3. 优质网络主播中国行天津行
+3. 528中国宝宝日
+4. 杨紫韩东君真的拍了落地签
 
 ## 📼 历史上的今天
-2018年：Maryland Flood Event: A flood occurs throughout the Patapsco Valley, causing one death, destroying the entire first floors of buildings on Main Street in Ellicott City, and causing cars to overturn.
+2017年：Former Formula One driver Takuma Sato wins his first Indianapolis 500, the first Japanese and Asian driver to do so. Double world champion Fernando Alonso retires from an engine issue in his first entry of the event.
 
 ## 🍵 毒鸡汤
-> 风花雪月不过就是没了你而已
+> 不放手 为了你 倾尽所有
 
 ---
-*最后更新于 2026-05-27 07:15:30*
+*最后更新于 2026-05-28 07:22:13*
