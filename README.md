@@ -1,9 +1,9 @@
-# 📰 每日早报 2026年05月28日 周四
+# 📰 每日早报 2026年05月29日 周五
 
-> **管他是不是人面兽心，我们只要活着就行。** —— 太宰治 《维庸之妻》
+> **有些人光是遇到就已经赚到了。** —— 赵紫骅 《网易云》
 
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.HwaesongFortress_ZH-CN8225341972_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-> 华城堡的古城墙，水原，韩国 (© aomam/Getty Images)
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.SummitEverest_ZH-CN9252833251_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+> 珠穆朗玛峰峰顶，萨加玛塔国家公园，尼泊尔 (© fotoVoyager/Getty Images)
 
 ## 📡 RSS 资讯摘要
 
@@ -13,28 +13,28 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 <summary>点击查看原始 RSS 来源</summary>
 
 **juya AI Daily**
-- 2026-05-27
+- 2026-05-28
 
 **少数派**
-- 客制化键盘｜近期值得一看的套件与键帽：怪诞主题、复古创新与静电容
-- 屏忆：这款开源工具，把过目就忘的日常变成「上下文」
+- 从原理到实践：年轻人的第一篇染发及洗护指南
+- 从零手搓 AI Agent，我学到了什么？
 
 **阮一峰的网络日志**
 - 科技爱好者周刊（第 397 期）：财富正在向 AI 集中
 - 科技爱好者周刊（第 396 期）：互联网通信的替代方案
 
 **V2EX**
-- [问与答] ai studio 被疯狂封 api 怎么回事
-- [程序员] Zerolang 好像还没人讨论？
-- [问与答] token 用量究竟是怎么算的？
+- [Claude] claude 被封号后， ios 端就卡在出错页面无法换号了
+- [程序员] 做了个 macOS 菜单栏工具，实时显示 Claude Code + Codex 用量和重置倒计时
+- [Claude Code] Opus 4.8 还没用上 4.7 先降智 :)
 
 **小众软件**
+- 右键一下，直接转换和压缩文件：File Converter
 - 没卡没资源？复旦NLP直接把免费GPU塞进AI，科研全自动时代来了！
-- 恍如隔世：2000买的硬盘，已经5000了
 
 **爱范儿**
-- 法拉利发布首款纯电车型！外形酷似理想 i6，约合人民币 435 万元
-- 47.98 万元起！新一代问界 M9 上市，余承东：地球上最强的 SUV
+- 大公司的 AI 账本，没有一笔算得过来
+- 讯飞首款 AI 眼镜，用 40 克撬动 AI 工作流
 
 </details>
 
@@ -42,34 +42,34 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 
 | 今年 | 本月 | 本周 | 今日 |
 |:---:|:---:|:---:|:---:|
-| 40.5% | 90.3% | 57.1% | 30.7% |
+| 40.8% | 93.5% | 71.4% | 30.7% |
 
 ## ⏰ 倒计时
-- 周末：还有 2 天
-- 端午节：还有 22 天
-- 2027年元旦：还有 218 天
+- 周末：还有 1 天
+- 端午节：还有 21 天
+- 2027年元旦：还有 217 天
 
 ## ☁️ 天气
 ```
-changsha: 🌤️  🌡️+74°F 🌬️↘4mph
+changsha: ☁️  🌡️+75°F 🌬️↘7mph
 ```
 
 ## 📋 今日宜忌
-- **宜**：追剧、逛公园
-- **忌**：开会、看余额
+- **宜**：追剧、发呆
+- **忌**：立 flag、做重大决定
 
 ## 🔥 微博热搜 TOP5
-1. 给阿嬷的情书
-2. 外国网红中国搭便车的视频火到国外
-3. 优质网络主播中国行天津行
-3. 528中国宝宝日
-4. 杨紫韩东君真的拍了落地签
+1. 甘孜通报稻城亚丁景区违规封堵省道
+2. 解放军驱离荷兰军机现场画面
+3. 三夏大规模小麦机收全面展开
+3. vivo S60新品发布
+4. 同一个人的早上和晚上区别有多大
 
 ## 📼 历史上的今天
-2017年：Former Formula One driver Takuma Sato wins his first Indianapolis 500, the first Japanese and Asian driver to do so. Double world champion Fernando Alonso retires from an engine issue in his first entry of the event.
+2022年：Tara Air Flight 197 crashes in Nepal's Mustang District, killing 22.
 
 ## 🍵 毒鸡汤
-> 不放手 为了你 倾尽所有
+> 我想跟你分享我眼睛见到的一切，耳里听到的音乐，以及品尝到的所有美味。 最后，还想跟你分享我那颗不大的心。
 
 ---
-*最后更新于 2026-05-28 07:22:13*
+*最后更新于 2026-05-29 07:22:47*
