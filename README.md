@@ -1,6 +1,6 @@
 # 📰 每日早报 2026年06月02日 周二
 
-> **勇者愤怒，抽刃向更强者；怯者愤怒，却抽刃向更弱者。** —— 鲁迅 《华盖集·杂感》
+> **任尘世繁华，唯有守护你的一切，才是我此生唯一的使命。** —— 初启源 《次元战争·红龙》
 
 ![Bing Wallpaper](https://www.bing.com/th?id=OHR.Qinghai_ZH-CN9899656327_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 > 穿越西台吉乃尔湖的公路，青海省，中国 (© Kaicheng Xu/Getty Images)
@@ -24,9 +24,9 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 - 科技爱好者周刊（第 397 期）：财富正在向 AI 集中
 
 **V2EX**
+- [问与答] 老哥们现在 macOS 26 还有啥大 Bug 嘛 准备升级了～
 - [分享创造] 专门给 AI Agent 用的系统接口协议，不是 SSH，不是 gRPC
 - [远程工作] [招聘] ai 方向工程师
-- [问与答] 在雷鸟电视上用迅雷网盘 TV 版播放高清影视资源总是不够流畅，是什么原因？
 
 **小众软件**
 - 追了 22 年，Paint.NET 开发者终于夺回域名：不是买回来的
@@ -42,7 +42,7 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 
 | 今年 | 本月 | 本周 | 今日 |
 |:---:|:---:|:---:|:---:|
-| 41.9% | 6.7% | 28.6% | 33.9% |
+| 41.9% | 6.7% | 28.6% | 34.1% |
 
 ## ⏰ 倒计时
 - 周末：还有 4 天
@@ -69,7 +69,7 @@ changsha: 🌤️  🌡️+75°F 🌬️↖2mph
 2023年：A collision between two passenger trains and a parked freight train near the city of Balasor, Odisha in eastern India, results in 296 deaths and more than 1,200 people injured.
 
 ## 🍵 毒鸡汤
-> 你爱的人不一定爱你
+> 我，慕容云海，对着蓝天，对着白云，对着鲜花彩虹发誓，这辈子，只爱楚雨荨一个人
 
 ---
-*最后更新于 2026-06-02 08:07:59*
+*最后更新于 2026-06-02 08:10:40*
