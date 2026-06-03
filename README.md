@@ -1,9 +1,9 @@
-# 📰 每日早报 2026年06月03日 周三
+# 📰 每日早报 2026年06月04日 周四
 
-> **今日欢呼孙大圣，只缘妖雾又重来。** —— 毛泽东 《七律·和郭沫若同志》
+> **亲近你的朋友，但更要亲近你的敌人。** 《教父2》
 
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.BardenasReales_ZH-CN0480548935_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-> 骑行者，巴德纳斯雷亚莱斯自然公园与生物圈保护区，纳瓦拉，西班牙 (© Artur Debat/Getty Images)
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.PreeningEgret_ZH-CN2216012708_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+> 梳理羽毛的雪鹭，佛罗里达州中部，美国 (© Donald M. Jones/Minden Pictures)
 
 ## 📡 RSS 资讯摘要
 
@@ -24,9 +24,9 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 - 科技爱好者周刊（第 397 期）：财富正在向 AI 集中
 
 **V2EX**
-- [宽带症候群] 一年一度的 8²要来的前夜，你准备好了嘛！
-- [分享创造] 做了一个 LED 模拟屏 APP, 用于演唱会聚会等场景, 目前正在开放测试中.
-- [推广] [自荐] 个人自建 AI 中转站求分摊服务器费用 | 1 元起步 | 余额随时可退 | GPT Plus 池
+- [硬件] 有值得推荐入手的便携屏吗？
+- [MacBook Pro] mbp 新手请教，公司每月补贴 230 RMB， 36 个月一轮，推荐哪款
+- [硬件] 罗技 MX Master 3 是最适合 mac 的鼠标了吗
 
 **小众软件**
 - 腾讯云618活动上线：99元/年版境外CN2服务器补货 另有3年超低价服务器
@@ -42,34 +42,34 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 
 | 今年 | 本月 | 本周 | 今日 |
 |:---:|:---:|:---:|:---:|
-| 42.2% | 10.0% | 42.9% | 92.9% |
+| 42.5% | 13.3% | 57.1% | 32.6% |
 
 ## ⏰ 倒计时
-- 周末：还有 3 天
-- 端午节：还有 16 天
-- 2027年元旦：还有 212 天
+- 周末：还有 2 天
+- 端午节：还有 15 天
+- 2027年元旦：还有 211 天
 
 ## ☁️ 天气
 ```
-changsha: 🌫️  🌡️+81°F 🌬️↓6mph
+changsha: ☁️  🌡️+75°F 🌬️↘2mph
 ```
 
 ## 📋 今日宜忌
-- **宜**：逛公园、发呆
-- **忌**：讲道理、看余额
+- **宜**：买刮刮乐、追剧
+- **忌**：开会、早起
 
 ## 🔥 微博热搜 TOP5
-1. 女子花2万查丈夫出轨揪出辅警内鬼
-2. 主角大结局
-3. 2026高考安检新变化
-4. 馒头从空气炸锅留学回来了
-5. 男子11年前买29.7万元手机懊悔不已
+1. 国企干部公职人员离婚分割近亿财产
+2. 给阿嬷的情书火了电影人集体沉默
+3. 带入考场即构成作弊高考安检新变化
+3. 你居家我安心
+4. 刘浩存演技
 
 ## 📼 历史上的今天
-2025年：Reconstitution of the Academy of the Distrustful in the Sala Dalmases of the Historical Archive of the City of Barcelona in Barcelona.
+2025年：Eleven people are killed and 56 people are injured during a crowd crush incident outside M.Chinnaswamy Stadium in Bengaluru, India for the celebration of Royal Challengers Bengaluru's Indian Premier League victory.
 
 ## 🍵 毒鸡汤
-> 我一天一天明白你的平凡，同时却一天一天愈更加深切地爱你。你如照镜子，你不会我看得见你特别美好的所在，但是你如走到我的心里来时，你一定能知道自己是怎样好法。
+> 只要每次一想到你，生命便充满了意义。
 
 ---
-*最后更新于 2026-06-03 22:18:21*
+*最后更新于 2026-06-04 07:50:09*
