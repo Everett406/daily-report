@@ -1,9 +1,9 @@
-# 📰 每日早报 2026年06月09日 周二
+# 📰 每日早报 2026年06月10日 周三
 
-> **无聊的并不是时间，而是平庸无奇的我。** —— 樱花庄的宠物女孩​ 《樱花庄的宠物女孩》
+> **焦虑像毒瘾，让人想对死亡说你好……** 《原创》
 
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.CTNPVernazza_ZH-CN3971102271_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-> 韦尔纳扎, 五渔村, 利古里亚, 意大利 (© Kelly Cheng/Getty Images)
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.Hnausapollur_ZH-CN4075343976_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+> 赫瑙萨波鲁尔火山口, 菲亚拉巴克自然保护区, 兰德曼纳劳加尔, 冰岛 (© Juan Maria Coy Vergara/Getty Images)
 
 ## 📡 RSS 资讯摘要
 
@@ -12,29 +12,26 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 <details>
 <summary>点击查看原始 RSS 来源</summary>
 
-**juya AI Daily**
-- 2026-06-08
-
 **少数派**
-- 一图流 | Apple WWDC26 开幕式回顾
-- Liquid Glass 精调、Apple 智能大升级：WWDC26 发布会回顾
+- 社区速递 144 | 听 AI 开「营养处方」、无感耳夹耳机与磁吸支架
+- 众测招募｜灵犀 Linx 键盘功能共创计划开启
 
 **阮一峰的网络日志**
 - 科技爱好者周刊（第 399 期）：中国 AI 大厂访问记
 - 科技爱好者周刊（第 398 期）：Token 费用难以负担
 
 **V2EX**
-- [问与答] 太惨了，我的开源项目 SkylerX 申请 SignPath Foundation 失败了
-- [分享发现] 美团的黑钻会员又整幺蛾子了
-- [分享创造] 家人们，有意思的来了，做了个临时分享小秘密的工具
+- [Claude] 昨晚 12 点刚刷新 Claude 的周额度，用了 1%，然后早上就给我重置了，这算什么
+- [Apple] 升级了 iOS 27 b1，一晚上充电状态还在 Indexing，是 bug 还是正常？
+- [Claude] Anthropic 发布了 Mythos 的平替版： Fable 5
 
 **小众软件**
-- 赛博领鸡蛋：《父碍：碎瓷》GOG 限免1天｜更新： Steam 前作限免
-- 发现频道：最近10日的热门排行榜[2026年第23期]
+- Wallpaper Engine 域名丢失导致无法使用？开发者从来不曾拥有该域名！
+- GitHub Store – 把 GitHub 变成应用商店？
 
 **爱范儿**
-- iPhone 终于支持 Siri AI！但国行无缘首发，闹钟成为最大惊喜
-- 300 个 AI 和我的八块腹肌
+- 第一批 Agent 员工上岗，腾讯云想帮企业把它们安顿好
+- 坏了，苹果 AI 真成了？｜iOS 27 上手体验
 
 </details>
 
@@ -42,34 +39,34 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 
 | 今年 | 本月 | 本周 | 今日 |
 |:---:|:---:|:---:|:---:|
-| 43.8% | 30.0% | 28.6% | 30.3% |
+| 44.1% | 33.3% | 42.9% | 30.7% |
 
 ## ⏰ 倒计时
-- 周末：还有 4 天
-- 端午节：还有 10 天
-- 2027年元旦：还有 206 天
+- 周末：还有 3 天
+- 端午节：还有 9 天
+- 2027年元旦：还有 205 天
 
 ## ☁️ 天气
 ```
-Changsha: 🌫️  🌡️+66°F 🌬️↘7mph
+Changsha: ✨  🌡️+69°F 🌬️↓2mph
 ```
 
 ## 📋 今日宜忌
-- **宜**：吃火锅、发呆
-- **忌**：做重大决定、回领导消息
+- **宜**：发呆、摸鱼
+- **忌**：立 flag、称体重
 
 ## 🔥 微博热搜 TOP5
-1. iOS27 调休闹钟
-2. 郑钦文止步女王杯首轮
-3. 平壤各界群众和少年儿童身着节日盛装
-3. papi喊你来京东买超市5折好物
-4. iOS27
+1. 女子称移动159元套餐比不上39元套餐
+2. 小伙月薪3000签1850万购房合同
+3. 视频感受朝方欢送仪式热烈氛围
+3. papi酱私藏好物大公开
+4. 鹅腿阿姨卖的是鸭腿
 
 ## 📼 历史上的今天
-2010年：At least 40 people are killed and more than 70 wounded in a suicide bombing at a wedding party in Arghandab, Kandahar.
+2025年：Eleven people are killed, including the perpetrator, and eleven others are injured, in a mass shooting at a secondary school in Graz, Austria.
 
 ## 🍵 毒鸡汤
-> 我想变得有趣，变得特别，变成你眼里的一点星光。
+> 我希望关于你的所有答案都是我
 
 ---
-*最后更新于 2026-06-09 07:16:32*
+*最后更新于 2026-06-10 07:21:53*
