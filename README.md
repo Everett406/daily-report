@@ -1,9 +1,9 @@
-# 📰 每日早报 2026年06月10日 周三
+# 📰 每日早报 2026年06月11日 周四
 
-> **焦虑像毒瘾，让人想对死亡说你好……** 《原创》
+> **如果没有以后，如果平行失控。** —— 林俊杰 《交换余生》
 
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.Hnausapollur_ZH-CN4075343976_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-> 赫瑙萨波鲁尔火山口, 菲亚拉巴克自然保护区, 兰德曼纳劳加尔, 冰岛 (© Juan Maria Coy Vergara/Getty Images)
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.Limpets_ZH-CN4991771513_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+> 退潮时裸露在乌尔萨海滩海岸上的帽贝, 葡萄牙 (© Theo Bosboom/Nature Picture Library)
 
 ## 📡 RSS 资讯摘要
 
@@ -13,25 +13,25 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 <summary>点击查看原始 RSS 来源</summary>
 
 **少数派**
-- 社区速递 144 | 听 AI 开「营养处方」、无感耳夹耳机与磁吸支架
-- 众测招募｜灵犀 Linx 键盘功能共创计划开启
+- 线下活动｜周日到广州来，给你一张过去的 CD
+- 又是一年 618：可以直接抄作业的护肤搭配清单
 
 **阮一峰的网络日志**
 - 科技爱好者周刊（第 399 期）：中国 AI 大厂访问记
 - 科技爱好者周刊（第 398 期）：Token 费用难以负担
 
 **V2EX**
-- [Claude] 昨晚 12 点刚刷新 Claude 的周额度，用了 1%，然后早上就给我重置了，这算什么
-- [Apple] 升级了 iOS 27 b1，一晚上充电状态还在 Indexing，是 bug 还是正常？
-- [Claude] Anthropic 发布了 Mythos 的平替版： Fable 5
+- [程序员] 电商从 0 到 1 经验分享，一个春节日历卖了 4000 份， 21 万营业额 [重发]
+- [Solana] 20260101 → 20260609
+- [程序员] 电商从 0 到 1 经验分享，一个春节日历卖了 4000 份， 21 万营业额
 
 **小众软件**
-- Wallpaper Engine 域名丢失导致无法使用？开发者从来不曾拥有该域名！
-- GitHub Store – 把 GitHub 变成应用商店？
+- Windows 11 正式上线 Low Latency Profile：明显加速系统响应速度
+- PowerToys v0.100.0 发布，全新的快捷键指南 / 命令面板扩展库
 
 **爱范儿**
-- 第一批 Agent 员工上岗，腾讯云想帮企业把它们安顿好
-- 坏了，苹果 AI 真成了？｜iOS 27 上手体验
+- 实测Claude史上最强模型Fable 5，普通人慎用
+- 早报｜微信朋友圈搜索全面开放/Claude发布「Mythos级」模型/王传福：比亚迪5年后规模要做到全球第一
 
 </details>
 
@@ -39,34 +39,34 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 
 | 今年 | 本月 | 本周 | 今日 |
 |:---:|:---:|:---:|:---:|
-| 44.1% | 33.3% | 42.9% | 30.7% |
+| 44.4% | 36.7% | 57.1% | 31.9% |
 
 ## ⏰ 倒计时
-- 周末：还有 3 天
-- 端午节：还有 9 天
-- 2027年元旦：还有 205 天
+- 周末：还有 2 天
+- 端午节：还有 8 天
+- 2027年元旦：还有 204 天
 
 ## ☁️ 天气
 ```
-Changsha: ✨  🌡️+69°F 🌬️↓2mph
+Changsha: ✨  🌡️+72°F 🌬️←2mph
 ```
 
 ## 📋 今日宜忌
-- **宜**：发呆、摸鱼
-- **忌**：立 flag、称体重
+- **宜**：带薪聊天、吃火锅
+- **忌**：做重大决定、立 flag
 
 ## 🔥 微博热搜 TOP5
-1. 女子称移动159元套餐比不上39元套餐
-2. 小伙月薪3000签1850万购房合同
-3. 视频感受朝方欢送仪式热烈氛围
-3. papi酱私藏好物大公开
-4. 鹅腿阿姨卖的是鸭腿
+1. 好多不是歌手的明星也开演唱会
+2. 央视曝光街边免费领东西骗局
+3. 公安部网安局公布6类高发涉考网络风险
+3. 千问高考志愿大模型权威发布
+4. 女子举报丈夫与高校处长婚外情
 
 ## 📼 历史上的今天
-2025年：Eleven people are killed, including the perpetrator, and eleven others are injured, in a mass shooting at a secondary school in Graz, Austria.
+2013年：Greece's public broadcaster ERT is shut down by then-prime minister Antonis Samaras. It would be opened exactly two years later by then-prime minister Alexis Tsipras.
 
 ## 🍵 毒鸡汤
-> 我希望关于你的所有答案都是我
+> 看到你吃饭，我终于知道我奶奶看我吃饭是什么感受了☪
 
 ---
-*最后更新于 2026-06-10 07:21:53*
+*最后更新于 2026-06-11 07:40:03*
