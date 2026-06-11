@@ -1,9 +1,9 @@
-# 📰 每日早报 2026年06月11日 周四
+# 📰 每日早报 2026年06月12日 周五
 
-> **如果没有以后，如果平行失控。** —— 林俊杰 《交换余生》
+> **追逐影子的人，自己就是影子。** —— 荷马 《荷马史诗》
 
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.Limpets_ZH-CN4991771513_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-> 退潮时裸露在乌尔萨海滩海岸上的帽贝, 葡萄牙 (© Theo Bosboom/Nature Picture Library)
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.SpainBeeEater_ZH-CN4424052851_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+> 黄喉蜂虎，格拉萨莱马山自然公园，加的斯，西班牙 (© Andres M. Dominguez/Nature Picture Library)
 
 ## 📡 RSS 资讯摘要
 
@@ -13,25 +13,25 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 <summary>点击查看原始 RSS 来源</summary>
 
 **少数派**
-- 线下活动｜周日到广州来，给你一张过去的 CD
-- 又是一年 618：可以直接抄作业的护肤搭配清单
+- 家庭饮品 DIY 指南（一）：工欲善其事，必先利其器
+- 618 相机存储卡选购全攻略（2026）
 
 **阮一峰的网络日志**
 - 科技爱好者周刊（第 399 期）：中国 AI 大厂访问记
 - 科技爱好者周刊（第 398 期）：Token 费用难以负担
 
 **V2EX**
-- [程序员] 电商从 0 到 1 经验分享，一个春节日历卖了 4000 份， 21 万营业额 [重发]
-- [Solana] 20260101 → 20260609
-- [程序员] 电商从 0 到 1 经验分享，一个春节日历卖了 4000 份， 21 万营业额
+- [Apple] 微信 Beta 版已过期 商店无法下载怎么办？
+- [阅读] 2026 年五月 读设计学 心理学 整理术 小说 7 本
+- [Wunder] V2EX 的 LLM Chat 实现了一个记忆读写系统
 
 **小众软件**
-- Windows 11 正式上线 Low Latency Profile：明显加速系统响应速度
-- PowerToys v0.100.0 发布，全新的快捷键指南 / 命令面板扩展库
+- MiMo Auto 免费 API 使用指南：从 MiMo Code 中提取免费的 MiMo Auto 模型
+- 小米发布 MiMo Code，基于 OpenCode，限免 MiMo-V2.5
 
 **爱范儿**
-- 实测Claude史上最强模型Fable 5，普通人慎用
-- 早报｜微信朋友圈搜索全面开放/Claude发布「Mythos级」模型/王传福：比亚迪5年后规模要做到全球第一
+- Agent 时代，需要一台能折叠的「移动工作台」｜AIDONE 5.0 全记录
+- Codex 大降价要来了，这份官方指南手把手教你高效榨干额度
 
 </details>
 
@@ -39,34 +39,34 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 
 | 今年 | 本月 | 本周 | 今日 |
 |:---:|:---:|:---:|:---:|
-| 44.4% | 36.7% | 57.1% | 31.9% |
+| 44.7% | 40.0% | 71.4% | 32.1% |
 
 ## ⏰ 倒计时
-- 周末：还有 2 天
-- 端午节：还有 8 天
-- 2027年元旦：还有 204 天
+- 周末：还有 1 天
+- 端午节：还有 7 天
+- 2027年元旦：还有 203 天
 
 ## ☁️ 天气
 ```
-Changsha: ✨  🌡️+72°F 🌬️←2mph
+Changsha: ✨  🌡️+75°F 🌬️↖4mph
 ```
 
 ## 📋 今日宜忌
-- **宜**：带薪聊天、吃火锅
-- **忌**：做重大决定、立 flag
+- **宜**：喝奶茶、睡到自然醒
+- **忌**：讲道理、开会
 
 ## 🔥 微博热搜 TOP5
-1. 好多不是歌手的明星也开演唱会
-2. 央视曝光街边免费领东西骗局
-3. 公安部网安局公布6类高发涉考网络风险
-3. 千问高考志愿大模型权威发布
-4. 女子举报丈夫与高校处长婚外情
+1. 世界杯开幕式 吓我一跳
+2. 南非 打人
+3. 让文化遗产走进普通人生活
+3. 世界杯冠军和蒙牛有个秘密
+4. 中国队首发 labubu马宁
 
 ## 📼 历史上的今天
-2013年：Greece's public broadcaster ERT is shut down by then-prime minister Antonis Samaras. It would be opened exactly two years later by then-prime minister Alexis Tsipras.
+2025年：Air India Flight 171, a Boeing 787-8 Dreamliner, crashes shortly after takeoff into the B. J. Medical College, Ahmedabad, India, killing 241 out of 242 onboard as well as 19 on the ground. This marked the first fatal crash and hull loss of the Boeing 787 Dreamliner.
 
 ## 🍵 毒鸡汤
-> 看到你吃饭，我终于知道我奶奶看我吃饭是什么感受了☪
+> 穿过千里，万里，雾里，你是我最珍贵的所有，见过最美的风景，和我全部的英雄概气和一世荣光。
 
 ---
-*最后更新于 2026-06-11 07:40:03*
+*最后更新于 2026-06-12 07:42:11*
