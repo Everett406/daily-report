@@ -1,9 +1,9 @@
-# 📰 每日早报 2026年06月12日 周五
+# 📰 每日早报 2026年06月13日 周六
 
-> **追逐影子的人，自己就是影子。** —— 荷马 《荷马史诗》
+> **台下人走过，不见旧颜色。** —— 等什么君 《赤怜》
 
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SpainBeeEater_ZH-CN4424052851_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-> 黄喉蜂虎，格拉萨莱马山自然公园，加的斯，西班牙 (© Andres M. Dominguez/Nature Picture Library)
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.BadSunset_ZH-CN9050997938_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+> 落日，恶地国家公园，南达科他州，美国 (© Troy Harrison/Getty Images)
 
 ## 📡 RSS 资讯摘要
 
@@ -13,25 +13,25 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 <summary>点击查看原始 RSS 来源</summary>
 
 **少数派**
-- 家庭饮品 DIY 指南（一）：工欲善其事，必先利其器
-- 618 相机存储卡选购全攻略（2026）
+- 本周看什么 | 最近值得一看的 10 部作品
+- Level Read：让英语学习从「读得懂」开始，每天都进步一点点
 
 **阮一峰的网络日志**
+- 科技爱好者周刊（第 400 期）：rsync 的争论
 - 科技爱好者周刊（第 399 期）：中国 AI 大厂访问记
-- 科技爱好者周刊（第 398 期）：Token 费用难以负担
 
 **V2EX**
-- [Apple] 微信 Beta 版已过期 商店无法下载怎么办？
-- [阅读] 2026 年五月 读设计学 心理学 整理术 小说 7 本
-- [Wunder] V2EX 的 LLM Chat 实现了一个记忆读写系统
+- [分享发现] Windows 原生代理客户端
+- [iOS] 为什么感觉 IOS27 续航变好了
+- [分享创造] 38-0.fun — 一个五大联赛球员 Draft 模拟赛季小游戏
 
 **小众软件**
-- MiMo Auto 免费 API 使用指南：从 MiMo Code 中提取免费的 MiMo Auto 模型
-- 小米发布 MiMo Code，基于 OpenCode，限免 MiMo-V2.5
+- 数码荔枝618年中大促！150+ 款正版软件低至 6 折，PixPin、Typora、Bartender 6……
+- Z-Library 开始让用户拥有自己的私有图书馆，不用服务器，还分 20% 收益
 
 **爱范儿**
-- Agent 时代，需要一台能折叠的「移动工作台」｜AIDONE 5.0 全记录
-- Codex 大降价要来了，这份官方指南手把手教你高效榨干额度
+- 我们拉上 vivo，聊聊 AI 时代的折叠屏
+- 华为发布鸿蒙 7：AI 时代，追赶者正在反超
 
 </details>
 
@@ -39,34 +39,34 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 
 | 今年 | 本月 | 本周 | 今日 |
 |:---:|:---:|:---:|:---:|
-| 44.7% | 40.0% | 71.4% | 32.1% |
+| 44.9% | 43.3% | 85.7% | 30.8% |
 
 ## ⏰ 倒计时
-- 周末：还有 1 天
-- 端午节：还有 7 天
-- 2027年元旦：还有 203 天
+- 周末：今天就是周六！
+- 端午节：还有 6 天
+- 2027年元旦：还有 202 天
 
 ## ☁️ 天气
 ```
-Changsha: ✨  🌡️+75°F 🌬️↖4mph
+Changsha: 🌤️  🌡️+70°F 🌬️↙3mph
 ```
 
 ## 📋 今日宜忌
-- **宜**：喝奶茶、睡到自然醒
-- **忌**：讲道理、开会
+- **宜**：喝奶茶、带薪聊天
+- **忌**：看余额、开会
 
 ## 🔥 微博热搜 TOP5
-1. 世界杯开幕式 吓我一跳
-2. 南非 打人
-3. 让文化遗产走进普通人生活
-3. 世界杯冠军和蒙牛有个秘密
-4. 中国队首发 labubu马宁
+1. 加拿大开幕式 翻车
+2. 加拿大1比1波黑
+3. 活力中国调研行
+3. 广汽昊铂为宠粉包下了阿那亚
+4. 31岁幼师溺水身亡母亲悲痛发声
 
 ## 📼 历史上的今天
-2025年：Air India Flight 171, a Boeing 787-8 Dreamliner, crashes shortly after takeoff into the B. J. Medical College, Ahmedabad, India, killing 241 out of 242 onboard as well as 19 on the ground. This marked the first fatal crash and hull loss of the Boeing 787 Dreamliner.
+2025年：Israel initiates air strikes against Iran, initiating the Twelve Day War.
 
 ## 🍵 毒鸡汤
-> 穿过千里，万里，雾里，你是我最珍贵的所有，见过最美的风景，和我全部的英雄概气和一世荣光。
+> 你站在桥上看风景，看风景的人在楼上看你。明月装饰了你的窗子，你却装饰了别人的梦。
 
 ---
-*最后更新于 2026-06-12 07:42:11*
+*最后更新于 2026-06-13 07:23:36*
