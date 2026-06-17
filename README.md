@@ -1,9 +1,9 @@
-# 📰 每日早报 2026年06月17日 周三
+# 📰 每日早报 2026年06月18日 周四
 
-> **我们一路奋战，不是为了改变世界，而是为了不让世界改变我们。** 《熔炉》
+> **千万丈的大厦总要有片奠基石，最初的爱好无可替代。** —— 王小波 《我的精神家园》
 
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.TremolaRoad_ZH-CN8810749250_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-> 特雷莫拉公路在圣哥达山口，艾罗洛，瑞士 (© Sandro Bisaro/Getty Images)
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.Saqsaywaman_ZH-CN2584038469_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+> 萨克赛瓦曼遗址俯瞰图，库斯科，秘鲁 (© Creative-Family/Getty Images Plus)
 
 ## 📡 RSS 资讯摘要
 
@@ -13,25 +13,25 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 <summary>点击查看原始 RSS 来源</summary>
 
 **少数派**
-- 具透 | macOS 27 首个开发者测试版来了，这些是值得你关注的新特性
-- 社区速递 145 | 尝鲜激进傻快新系统、告别「电流麦」与平价人体工学椅
+- WWDC26 在现场，与 Apple 设计大奖提名开发者聊聊他们的 app
+- 模糊算法让图像更清晰？游戏里的「抗锯齿」到底在做什么
 
 **阮一峰的网络日志**
 - 科技爱好者周刊（第 400 期）：rsync 的争论
 - 科技爱好者周刊（第 399 期）：中国 AI 大厂访问记
 
 **V2EX**
-- [程序员] 618 那家 ai 模型大优惠?
-- [推广] 极客玩具， 618 先送为敬！
-- [分享创造] 原生基于 Golang 构建的编程智能体 - cwcode, 对于 Deepseek V4 pro 优化
+- [OpenAI] Codex 已经重置了，时间大概是+86 5:00
+- [问与答] 一个痛点需求： AI 多端同步
+- [macOS] Yo App Switcher（附送兑换码）
 
 **小众软件**
-- 国际足联有多草台？有人只是注册个经纪人，就进入了 2026 世界杯转播系统
-- 2026 年美加墨世界杯赛程、比分日历：支持苹果、安卓、Outlook 日历订阅｜6月16日更新小米、OPPO 兼容
+- Parallels Desktop 26 最新优惠码：618官网直降，5.5折[截止6月23日]
+- 讯飞限免 Qwen3.6 模型，支持 Claude Code、OpenClaw，承诺高并发不限量[截止6月30日]
 
 **爱范儿**
-- 我们扒遍了 iOS 27，发现苹果「官宣」了折叠 iPhone
-- 一场世界杯，怎么踢出营销新玩法？
+- 实测 GLM-5.2 ：Claude 5 关停后，它真能稳稳接住这波用户
+- 早报｜曝苹果明年推出带摄像头AirPods/DeepSeek完成500亿融资/曝微信支付「AI专属卡」最快本周上线
 
 </details>
 
@@ -39,34 +39,34 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 
 | 今年 | 本月 | 本周 | 今日 |
 |:---:|:---:|:---:|:---:|
-| 46.0% | 56.7% | 42.9% | 31.1% |
+| 46.3% | 60.0% | 57.1% | 32.2% |
 
 ## ⏰ 倒计时
-- 周末：还有 3 天
-- 端午节：还有 2 天
-- 2027年元旦：还有 198 天
+- 周末：还有 2 天
+- 端午节：还有 1 天
+- 2027年元旦：还有 197 天
 
 ## ☁️ 天气
 ```
-Changsha: ✨  🌡️+77°F 🌬️↓2mph
+Changsha: 🌤️  🌡️+83°F 🌬️↖4mph
 ```
 
 ## 📋 今日宜忌
-- **宜**：喝奶茶、追剧
-- **忌**：开会、看余额
+- **宜**：带薪聊天、早退
+- **忌**：素颜出门、做重大决定
 
 ## 🔥 微博热搜 TOP5
-1. 姆巴佩梅开二度
-2. 哈兰德进球
-3. 前5个月国民经济延续向新向优发展态势
-3. 看球上京东点烧烤冰啤住观赛房
-4. 姆巴佩法国队史射手王
+1. C罗状态
+2. 英格兰4比2克罗地亚
+3. 开局之年看中国奋进陕西谱新篇
+3. 刘宇宁喊你上京东领最后一波优惠
+4. 诸神黄昏只有C罗听进去了
 
 ## 📼 历史上的今天
-2021年：Juneteenth National Independence Day, was signed into law by President Joe Biden, to become the first federal holiday established since Martin Luther King Jr. Day in 1983.
+2023年：Titan, a submersible operated by OceanGate Expeditions, imploded while attempting to view the wreck of the Titanic, killing all five people on board including OceanGate co-founder and CEO Stockton Rush in the North Atlantic Ocean.
 
 ## 🍵 毒鸡汤
-> 不知道为啥你要隔三差五发张自拍 我真的无语 要发就天天发 这是在拯救世界
+> 报告一下，我变心了，今天的我比昨天更喜欢你了
 
 ---
-*最后更新于 2026-06-17 07:27:45*
+*最后更新于 2026-06-18 07:43:44*
