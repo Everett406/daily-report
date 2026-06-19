@@ -1,9 +1,9 @@
-# 📰 每日早报 2026年06月19日 周五
+# 📰 每日早报 2026年06月20日 周六
 
-> **任尘世繁华，唯有守护你的一切，才是我此生唯一的使命。** —— 初启源 《次元战争·红龙》
+> **反正不要钱，多少信一点** 《异常生物见闻录》
 
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.DragonBoatFestivalY26_ZH-CN3070279417_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-> 湖中的龙舟，中国 (©  Zhonghui Bao/Getty Images)
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.ArchedIceberg_ZH-CN2698040371_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+> 漂浮在南极半岛西部海域的拱形冰山, 南大洋 (© Steven Kazlowski/Nature Picture Library)
 
 ## 📡 RSS 资讯摘要
 
@@ -13,25 +13,25 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 <summary>点击查看原始 RSS 来源</summary>
 
 **少数派**
+- 本周看什么 | 最近值得一看的 8 部作品
 - 新玩意 244｜少数派的编辑们最近买了啥？
-- Nothing Phone 杂谈：活下去再谈未来，然后呢？
 
 **阮一峰的网络日志**
 - 科技爱好者周刊（第 400 期）：rsync 的争论
 - 科技爱好者周刊（第 399 期）：中国 AI 大厂访问记
 
 **V2EX**
-- [奇思妙想] 提供一个 idea:一句话生成一个网站
-- [推广] Suixiang 中转站，倍率直降 0.24 性价比高，满血 CLAUDE/GPT/GEMINI
-- [分享创造] 自制 WebSSH，可以部署在 CF Worker，可以记录命令历史记录，带 sftp
+- [macOS] Mac 网络问题求助, 关闭 FQ 软件后 无网络
+- [随想] 文章和代码，同样是杠杆，差别却很大
+- [摄影] 第二次来深圳，在铁仔山公园拍到了蓝调时刻的深中通道！
 
 **小众软件**
+- 本周赛博领鸡蛋:《ROBOBEAT》《深空梦里人》（6.19~6.25）
 - 3年后，MouseInc 作者回来了，新手势软件 Aitiy
-- 动漫女孩壁纸藏木马：卡巴斯基发现 Steam 上的 Wallpaper Engine 创意工坊遭黑客利用
 
 **爱范儿**
-- 零跑三车上市！全新 C 系列 12.48 万元起，要做新时代的「经典车」
-- 2026 最强智能眼镜发布，但「iPhone 时刻」还没到来
+- 刚刚，Codex 大更新，你在电脑的操作正在成为 AI 经验包
+- 早报｜追觅组织调整，取消未落地业务/DeepSeek识图模式上线/《GTA6》预购时间官宣
 
 </details>
 
@@ -39,34 +39,35 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 
 | 今年 | 本月 | 本周 | 今日 |
 |:---:|:---:|:---:|:---:|
-| 46.6% | 63.3% | 71.4% | 32.6% |
+| 46.8% | 66.7% | 85.7% | 29.5% |
 
 ## ⏰ 倒计时
-- 周末：还有 1 天
+- 周末：今天就是周六！
 - 端午节：还有 1 天
-- 2027年元旦：还有 196 天
+- 2027年元旦：还有 195 天
 
 ## ☁️ 天气
 ```
-Changsha: 🌦️  🌡️+81°F 🌬️↑9mph
+Changsha: 🌦️  🌡️+79°F 🌬️↘2mph
 ```
 
 ## 📋 今日宜忌
-- **宜**：带薪聊天、早退
-- **忌**：早起、素颜出门
+- **宜**：早退、逛公园
+- **忌**：看余额、早起
 
 ## 🔥 微博热搜 TOP5
-1. 加拿大vs卡塔尔
-2. 世界杯最疯狂20分钟
-3. 端午出行重点提示
-3. 节日送名酒上美团闪购
-4. 建议大家对钱要有概念
+1. 美国vs澳大利亚
+2. 心引力开场 灾难
+3. 端午假期第一天2.4亿人次跨区域流动
+4. 特朗普和高市早苗因珍珠港发生争吵
+5. 窦靖童王菲 泪痕妆
 
 ## 📼 历史上的今天
-2020年：Animal rights advocate Regan Russell is run over and killed by a transport truck outside of a pig slaughterhouse in Burlington, Ontario.
+2025年：The first EF5 tornado in 12 years occurs in Enderlin, North Dakota.
 
 ## 🍵 毒鸡汤
-> 你的容颜应该申请吉尼斯纪录。
+> 你的每一个样子，我都喜欢? 
+而刚好我喜欢的每一个样子你都有。?
 
 ---
-*最后更新于 2026-06-19 07:50:01*
+*最后更新于 2026-06-20 07:04:17*
