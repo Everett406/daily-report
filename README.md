@@ -1,9 +1,9 @@
-# 📰 每日早报 2026年06月20日 周六
+# 📰 每日早报 2026年06月21日 周日
 
-> **反正不要钱，多少信一点** 《异常生物见闻录》
+> **多巴胺不等于爱情，爱情却一定有多巴胺！** —— 不在爱里迷失 《网易热评》
 
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ArchedIceberg_ZH-CN2698040371_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-> 漂浮在南极半岛西部海域的拱形冰山, 南大洋 (© Steven Kazlowski/Nature Picture Library)
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.EggDad_ZH-CN6045387630_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+> 企鹅爸爸正在检查蛋的情况 (© McDonald Wildlife Photography Inc./Getty Images)
 
 ## 📡 RSS 资讯摘要
 
@@ -21,17 +21,17 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 - 科技爱好者周刊（第 399 期）：中国 AI 大厂访问记
 
 **V2EX**
-- [macOS] Mac 网络问题求助, 关闭 FQ 软件后 无网络
-- [随想] 文章和代码，同样是杠杆，差别却很大
-- [摄影] 第二次来深圳，在铁仔山公园拍到了蓝调时刻的深中通道！
+- [人工智能] 大家有 AI 焦虑吗？
+- [AI Agent 智能体] 使用 OpenCode + Haiku 的体验和 Cursor + Opus 的体验差距不小,是模型的差异还是工具配置的差异?
+- [酷工作] 招聘 web3 运营
 
 **小众软件**
-- 本周赛博领鸡蛋:《ROBOBEAT》《深空梦里人》（6.19~6.25）
-- 3年后，MouseInc 作者回来了，新手势软件 Aitiy
+- Setapp 本周推荐应用：Frame0
+- Universal Installer – 安卓万能 APK 安装器
 
 **爱范儿**
+- 诺奖得主转投Anthropic，谷歌48小时连失两大牛，内部信仰崩塌？
 - 刚刚，Codex 大更新，你在电脑的操作正在成为 AI 经验包
-- 早报｜追觅组织调整，取消未落地业务/DeepSeek识图模式上线/《GTA6》预购时间官宣
 
 </details>
 
@@ -39,35 +39,34 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 
 | 今年 | 本月 | 本周 | 今日 |
 |:---:|:---:|:---:|:---:|
-| 46.8% | 66.7% | 85.7% | 29.5% |
+| 47.1% | 70.0% | 100.0% | 30.3% |
 
 ## ⏰ 倒计时
-- 周末：今天就是周六！
-- 端午节：还有 1 天
-- 2027年元旦：还有 195 天
+- 周末：还有 6 天
+- 中秋节：还有 96 天
+- 2027年元旦：还有 194 天
 
 ## ☁️ 天气
 ```
-Changsha: 🌦️  🌡️+79°F 🌬️↘2mph
+Changsha: 🌦️  🌡️+75°F 🌬️←2mph
 ```
 
 ## 📋 今日宜忌
-- **宜**：早退、逛公园
-- **忌**：看余额、早起
+- **宜**：带薪聊天、早退
+- **忌**：早起、素颜出门
 
 ## 🔥 微博热搜 TOP5
-1. 美国vs澳大利亚
-2. 心引力开场 灾难
-3. 端午假期第一天2.4亿人次跨区域流动
-4. 特朗普和高市早苗因珍珠港发生争吵
-5. 窦靖童王菲 泪痕妆
+1. 德国绝杀进球
+2. 荷兰杀疯了
+3. 端午文旅消费升温
+4. 曾沛慈看到何宣林淘汰的表情
+5. 原来这么多年牛肉都切错了
 
 ## 📼 历史上的今天
-2025年：The first EF5 tornado in 12 years occurs in Enderlin, North Dakota.
+2025年：A hot air balloon catches fire mid-flight and crashes in Praia Grande, Santa Catarina, Brazil, killing 8 of the 21 on board.
 
 ## 🍵 毒鸡汤
-> 你的每一个样子，我都喜欢? 
-而刚好我喜欢的每一个样子你都有。?
+> 好多年了，你一直在我的伤口幽居。我放下过天地，从未放下过你。
 
 ---
-*最后更新于 2026-06-20 07:04:17*
+*最后更新于 2026-06-21 07:16:00*
