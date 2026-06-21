@@ -1,9 +1,9 @@
-# 📰 每日早报 2026年06月21日 周日
+# 📰 每日早报 2026年06月22日 周一
 
-> **多巴胺不等于爱情，爱情却一定有多巴胺！** —— 不在爱里迷失 《网易热评》
+> **是啊，孤独的人也许不会有归宿，也不会有什么地方喜欢他们的吧。** —— ye xu 《自创》
 
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.EggDad_ZH-CN6045387630_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-> 企鹅爸爸正在检查蛋的情况 (© McDonald Wildlife Photography Inc./Getty Images)
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.QuinaultFerns_ZH-CN6696428927_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+> 奎诺尔特雨林, 奥林匹克国家公园, 华盛顿州, 美国 (© Chris Moore/Tandem Stills + Motion)
 
 ## 📡 RSS 资讯摘要
 
@@ -13,21 +13,21 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 <summary>点击查看原始 RSS 来源</summary>
 
 **少数派**
+- AI 工作流实践：100% Vibe Coding 完成 Game Jam 游戏开发
 - 本周看什么 | 最近值得一看的 8 部作品
-- 新玩意 244｜少数派的编辑们最近买了啥？
 
 **阮一峰的网络日志**
 - 科技爱好者周刊（第 400 期）：rsync 的争论
 - 科技爱好者周刊（第 399 期）：中国 AI 大厂访问记
 
 **V2EX**
-- [人工智能] 大家有 AI 焦虑吗？
-- [AI Agent 智能体] 使用 OpenCode + Haiku 的体验和 Cursor + Opus 的体验差距不小,是模型的差异还是工具配置的差异?
-- [酷工作] 招聘 web3 运营
+- [推广] 玩转香港 PokePay 虚拟卡：申请开卡、充值全攻略+返现活动 | 零成本开卡教程
+- [问与答] 求一个国内长期稳定使用的云服务，要能开票的
+- [问与答] ChatGPT app 提示 ssl 证书错误有遇到的么？
 
 **小众软件**
-- Setapp 本周推荐应用：Frame0
-- Universal Installer – 安卓万能 APK 安装器
+- Cloudflare 开始为 AI 提供特权：人类需要注册，AI 免注册
+- Otty – 当 Claude Code 成为终端里的常驻用户后，终端应该长什么样？｜Typora 团队新作
 
 **爱范儿**
 - 诺奖得主转投Anthropic，谷歌48小时连失两大牛，内部信仰崩塌？
@@ -39,34 +39,34 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 
 | 今年 | 本月 | 本周 | 今日 |
 |:---:|:---:|:---:|:---:|
-| 47.1% | 70.0% | 100.0% | 30.3% |
+| 47.4% | 73.3% | 14.3% | 30.7% |
 
 ## ⏰ 倒计时
-- 周末：还有 6 天
-- 中秋节：还有 96 天
-- 2027年元旦：还有 194 天
+- 周末：还有 5 天
+- 中秋节：还有 95 天
+- 2027年元旦：还有 193 天
 
 ## ☁️ 天气
 ```
-Changsha: 🌦️  🌡️+75°F 🌬️←2mph
+Changsha: 🌦️  🌡️+79°F 🌬️↘5mph
 ```
 
 ## 📋 今日宜忌
-- **宜**：带薪聊天、早退
-- **忌**：早起、素颜出门
+- **宜**：喝奶茶、发呆
+- **忌**：立 flag、称体重
 
 ## 🔥 微博热搜 TOP5
-1. 德国绝杀进球
-2. 荷兰杀疯了
-3. 端午文旅消费升温
-4. 曾沛慈看到何宣林淘汰的表情
-5. 原来这么多年牛肉都切错了
+1. 乌拉圭vs佛得角
+2. 比利时0比0伊朗
+3. 龙舟经济火爆
+4. 月经弄脏火车床单女子再发声
+5. 雷军说当初不该和董明珠打赌
 
 ## 📼 历史上的今天
-2025年：A hot air balloon catches fire mid-flight and crashes in Praia Grande, Santa Catarina, Brazil, killing 8 of the 21 on board.
+2025年：The United States conducts airstrikes on three Iranian nuclear sites in Fordow, Natanz, and Isfahan.
 
 ## 🍵 毒鸡汤
-> 好多年了，你一直在我的伤口幽居。我放下过天地，从未放下过你。
+> 在我面前，你永远无过失。
 
 ---
-*最后更新于 2026-06-21 07:16:00*
+*最后更新于 2026-06-22 07:21:40*
