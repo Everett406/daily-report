@@ -1,9 +1,9 @@
-# 📰 每日早报 2026年06月24日 周三
+# 📰 每日早报 2026年06月25日 周四
 
-> **友情也好爱情也罢，如果累了，我们就回到第一天见面的时候吧** —— 佚名 《互联网》
+> **科学就是去确定未知的事物** 《星际穿越》
 
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.BFPollin_ZH-CN7654067396_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-> 蝴蝶正在黄花上授粉 (© lzh/Getty Images)
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.GrandPlace_ZH-CN8806496436_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+> 布鲁塞尔大广场上的建筑群, 比利时 (© Vladislav Zolotov/Getty Images Plus)
 
 ## 📡 RSS 资讯摘要
 
@@ -13,25 +13,25 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 <summary>点击查看原始 RSS 来源</summary>
 
 **少数派**
-- 社区速递 146 | 晒晒派友的夏季出门包、百元薄膜键盘与高性价比净化器
-- 运行在 macOS 中的「超采样」：HiDPI 与 Mac 显示溯源
+- TDS REVIEW | OPPO Enco Clip2 耳夹式开放真无线耳机体验
+- 从观众到志愿者：加入 TEDxShenzhen 需要做些什么？
 
 **阮一峰的网络日志**
 - 科技爱好者周刊（第 400 期）：rsync 的争论
 - 科技爱好者周刊（第 399 期）：中国 AI 大厂访问记
 
 **V2EX**
-- [奇怪的刘日天] 俺被部分国外的平台/线上服务驱逐了
-- [问与答] 好多传统工具在淡出视线，以后的软件可能仅仅是一个 json。
-- [Docker] Homelab 部署的服务用 latest 还是固定版本？
+- [问与答] 买了部港版 iPhone17e，结果不会自己搜信号
+- [分享发现] 排查到了 TikTok 的一种无网络问题，想看看有没有人遇到过
+- [macOS] 27 Beta2 appstoreagent 进程 占用很高的 CPU 咋办
 
 **小众软件**
-- WebDAV Lite – macOS 上的 WebDAV 服务器
-- AI 浏览器，真的好用吗？
+- 密码管理器 LastPass 受供应链攻击波及，但无密码泄露
+- 赛博领鸡蛋：音频转字幕、歌词工具，二维码读取｜两款 Vovsoft 软件限免
 
 **爱范儿**
-- 微信 AI 全网最细体验，我又爱上了刷朋友圈
-- 荣耀 600 Pro 体验：超高清是基础，现在的 Live 图还有什么玩法
+- EcoFlow 发布多款智慧能源生态新品，最重要是一个能源管理系统  OASIS 3.0
+- 1999 元的 AI 眼镜，Meta 想让你像买墨镜一样买它
 
 </details>
 
@@ -39,34 +39,35 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 
 | 今年 | 本月 | 本周 | 今日 |
 |:---:|:---:|:---:|:---:|
-| 47.9% | 80.0% | 42.9% | 30.0% |
+| 48.2% | 83.3% | 57.1% | 30.0% |
 
 ## ⏰ 倒计时
-- 周末：还有 3 天
-- 中秋节：还有 93 天
-- 2027年元旦：还有 191 天
+- 周末：还有 2 天
+- 中秋节：还有 92 天
+- 2027年元旦：还有 190 天
 
 ## ☁️ 天气
 ```
-Changsha: 🌦️  🌡️+74°F 🌬️↘5mph
+Changsha: 🌤️  🌡️+75°F 🌬️↘4mph
 ```
 
 ## 📋 今日宜忌
-- **宜**：带薪聊天、逛公园
-- **忌**：回领导消息、看余额
+- **宜**：追剧、吃火锅
+- **忌**：称体重、素颜出门
 
 ## 🔥 微博热搜 TOP5
-1. C罗成为葡萄牙世界杯射手王
-2. 葡萄牙5比0乌兹别克斯坦
-3. 高考志愿填报遵循9个字
-4. 你要知道我很少站老一辈这边的
-5. C罗梅开二度
+1. 内马尔首秀
+2. 十日终焉 预感大爆
+3. 世界最快高铁跑出中国创新加速度
+3. 移动智能 无界普惠
+4. 内马尔替补
 
 ## 📼 历史上的今天
-2023年：The Wagner Group led by Yevgeny Prigozhin launches an insurrection against the Russian government.
+2024年：Thousands of people storm Kenya's Parliament Buildings protesting the passing of the government's 2024/25 Finance Bill.
 
 ## 🍵 毒鸡汤
-> 你应该在淘宝上架，因为你是宝贝呀
+> 要不要去札幌。
+那个意思等于，我喜欢你。
 
 ---
-*最后更新于 2026-06-24 07:12:47*
+*最后更新于 2026-06-25 07:11:57*
