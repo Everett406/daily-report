@@ -1,9 +1,9 @@
-# 📰 每日早报 2026年06月25日 周四
+# 📰 每日早报 2026年06月26日 周五
 
-> **科学就是去确定未知的事物** 《星际穿越》
+> **我决起而飞，抢榆枋而止。** 《庄子·内篇·逍遥游》
 
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.GrandPlace_ZH-CN8806496436_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-> 布鲁塞尔大广场上的建筑群, 比利时 (© Vladislav Zolotov/Getty Images Plus)
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.ThamesSummer_ZH-CN5292532714_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+> 泰晤士河, 伦敦, 英格兰 (© Daniel Lange/Getty Images)
 
 ## 📡 RSS 资讯摘要
 
@@ -13,25 +13,25 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 <summary>点击查看原始 RSS 来源</summary>
 
 **少数派**
-- TDS REVIEW | OPPO Enco Clip2 耳夹式开放真无线耳机体验
-- 从观众到志愿者：加入 TEDxShenzhen 需要做些什么？
+- 新玩意 245｜少数派的编辑们最近买了啥？
+- 给记忆一个归处：我为什么开始使用 Apple 手记
 
 **阮一峰的网络日志**
 - 科技爱好者周刊（第 400 期）：rsync 的争论
 - 科技爱好者周刊（第 399 期）：中国 AI 大厂访问记
 
 **V2EX**
-- [问与答] 买了部港版 iPhone17e，结果不会自己搜信号
-- [分享发现] 排查到了 TikTok 的一种无网络问题，想看看有没有人遇到过
-- [macOS] 27 Beta2 appstoreagent 进程 占用很高的 CPU 咋办
+- [路由器] 用啥设备做软路由的停电续航长一些
+- [问与答] 每月大概消耗 1000 美元的 Token 有什么折扣渠道吗？主要是 DeepSeek
+- [推广] [Easymax] 聚合 APi 入驻，只做满血 5.5 和 cc---回帖送 5u 体验
 
 **小众软件**
-- 密码管理器 LastPass 受供应链攻击波及，但无密码泄露
-- 赛博领鸡蛋：音频转字幕、歌词工具，二维码读取｜两款 Vovsoft 软件限免
+- 微软更新 Surface 产品线，推出 8GB 内存版本
+- 谷歌账号全面开放更改用户名 @gmail.com
 
 **爱范儿**
-- EcoFlow 发布多款智慧能源生态新品，最重要是一个能源管理系统  OASIS 3.0
-- 1999 元的 AI 眼镜，Meta 想让你像买墨镜一样买它
+- 网翎发布了卫星通信终端边缘智算系统 OneLinQ Edge 和新上网机，想把「连得上」变成「用得好」
+- 大疆定义了 Pocket，而 Pocket 4P 定义了「口袋电影机」
 
 </details>
 
@@ -39,35 +39,34 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 
 | 今年 | 本月 | 本周 | 今日 |
 |:---:|:---:|:---:|:---:|
-| 48.2% | 83.3% | 57.1% | 30.0% |
+| 48.5% | 86.7% | 71.4% | 30.8% |
 
 ## ⏰ 倒计时
-- 周末：还有 2 天
-- 中秋节：还有 92 天
-- 2027年元旦：还有 190 天
+- 周末：还有 1 天
+- 中秋节：还有 91 天
+- 2027年元旦：还有 189 天
 
 ## ☁️ 天气
 ```
-Changsha: 🌤️  🌡️+75°F 🌬️↘4mph
+Changsha: 🌫️  🌡️+77°F 🌬️↘6mph
 ```
 
 ## 📋 今日宜忌
-- **宜**：追剧、吃火锅
-- **忌**：称体重、素颜出门
+- **宜**：早退、喝奶茶
+- **忌**：开会、素颜出门
 
 ## 🔥 微博热搜 TOP5
-1. 内马尔首秀
-2. 十日终焉 预感大爆
-3. 世界最快高铁跑出中国创新加速度
-3. 移动智能 无界普惠
-4. 内马尔替补
+1. 德国 报复韩国
+2. 厄瓜多尔2比1德国
+3. 九图了解防汛安全科普知识
+4. 肖战杨紫白玉兰顶峰相见
+5. 厄瓜多尔vs德国
 
 ## 📼 历史上的今天
-2024年：Thousands of people storm Kenya's Parliament Buildings protesting the passing of the government's 2024/25 Finance Bill.
+2024年：Julian Assange, founder of WikiLeaks, returns to Australia after pleading guilty to one charge of espionage in a Saipan court and subsequently being released by the United States Department of Justice.
 
 ## 🍵 毒鸡汤
-> 要不要去札幌。
-那个意思等于，我喜欢你。
+> 将大拇指偷偷藏在拳头里，想紧紧握拳也握不住。那根偷偷藏起来的大拇指才叫爱。
 
 ---
-*最后更新于 2026-06-25 07:11:57*
+*最后更新于 2026-06-26 07:23:49*
