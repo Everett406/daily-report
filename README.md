@@ -1,9 +1,9 @@
-# 📰 每日早报 2026年06月26日 周五
+# 📰 每日早报 2026年06月27日 周六
 
-> **我决起而飞，抢榆枋而止。** 《庄子·内篇·逍遥游》
+> **来人间一趟 你要看看太阳。** —— 薯味博饼 《海底》
 
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ThamesSummer_ZH-CN5292532714_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-> 泰晤士河, 伦敦, 英格兰 (© Daniel Lange/Getty Images)
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.BoneyardBeach_ZH-CN5540590570_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+> 博尼亚德海滩上的漂流木, 亨廷岛, 南卡罗来纳州, 美国 (© Frances/Adobe Stock)
 
 ## 📡 RSS 资讯摘要
 
@@ -13,25 +13,25 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 <summary>点击查看原始 RSS 来源</summary>
 
 **少数派**
-- 新玩意 245｜少数派的编辑们最近买了啥？
-- 给记忆一个归处：我为什么开始使用 Apple 手记
+- 本周看什么 | 最近值得一看的 10 部作品
+- 探索快捷指令的上限：用网页视图创建丰富界面与交互
 
 **阮一峰的网络日志**
+- 科技爱好者周刊（第 401 期）：如何赚到10亿美元
 - 科技爱好者周刊（第 400 期）：rsync 的争论
-- 科技爱好者周刊（第 399 期）：中国 AI 大厂访问记
 
 **V2EX**
-- [路由器] 用啥设备做软路由的停电续航长一些
-- [问与答] 每月大概消耗 1000 美元的 Token 有什么折扣渠道吗？主要是 DeepSeek
-- [推广] [Easymax] 聚合 APi 入驻，只做满血 5.5 和 cc---回帖送 5u 体验
+- [程序员] 微信是否真的在实时监控用户的聊天？
+- [投资] 接上篇，顺着钱流的方向看整个 AI 产业链
+- [分享创造] 用 Node.js 写了个工业级 Modbus 协议栈，想听听大家的看法
 
 **小众软件**
-- 微软更新 Surface 产品线，推出 8GB 内存版本
-- 谷歌账号全面开放更改用户名 @gmail.com
+- 苹果将砍掉 M6 高端芯片，直接跳到 M7
+- Win11Debloat 中文版 – 微软欠我的性能该还了：一键卸载 90+ 款 Windows 11 预装软件[2026.6.24更新]
 
 **爱范儿**
-- 网翎发布了卫星通信终端边缘智算系统 OneLinQ Edge 和新上网机，想把「连得上」变成「用得好」
-- 大疆定义了 Pocket，而 Pocket 4P 定义了「口袋电影机」
+- 对话网翎 CEO 刘宇：《镖人》剧组用的卫星通讯，我希望多数人也用得到丨多样性公司
+- 我在 MWC 上找到了折叠屏最该有的样子
 
 </details>
 
@@ -39,34 +39,34 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 
 | 今年 | 本月 | 本周 | 今日 |
 |:---:|:---:|:---:|:---:|
-| 48.5% | 86.7% | 71.4% | 30.8% |
+| 48.8% | 90.0% | 85.7% | 30.1% |
 
 ## ⏰ 倒计时
-- 周末：还有 1 天
-- 中秋节：还有 91 天
-- 2027年元旦：还有 189 天
+- 周末：今天就是周六！
+- 中秋节：还有 90 天
+- 2027年元旦：还有 188 天
 
 ## ☁️ 天气
 ```
-Changsha: 🌫️  🌡️+77°F 🌬️↘6mph
+Changsha: 🌫️  🌡️+76°F 🌬️↘4mph
 ```
 
 ## 📋 今日宜忌
-- **宜**：早退、喝奶茶
-- **忌**：开会、素颜出门
+- **宜**：早退、买刮刮乐
+- **忌**：开会、加班
 
 ## 🔥 微博热搜 TOP5
-1. 德国 报复韩国
-2. 厄瓜多尔2比1德国
-3. 九图了解防汛安全科普知识
-4. 肖战杨紫白玉兰顶峰相见
-5. 厄瓜多尔vs德国
+1. 挪威1比4法国
+2. 哈兰德姆巴佩王不见王
+3. 第38届大众电影百花奖
+3. 许巍x捷途自由者7PLUS
+4. 藏海传 挂零
 
 ## 📼 历史上的今天
-2024年：Julian Assange, founder of WikiLeaks, returns to Australia after pleading guilty to one charge of espionage in a Saipan court and subsequently being released by the United States Department of Justice.
+2024年：U.S. President Joe Biden debates former U.S. President Donald Trump. Biden's perceived poor performance leads to his withdrawal from the election on July 21.
 
 ## 🍵 毒鸡汤
-> 将大拇指偷偷藏在拳头里，想紧紧握拳也握不住。那根偷偷藏起来的大拇指才叫爱。
+> 字在纸上写出爱的感受，画在相框中表现爱的模样，而你的歌声唱出了爱的轮廓。
 
 ---
-*最后更新于 2026-06-26 07:23:49*
+*最后更新于 2026-06-27 07:13:53*
