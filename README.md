@@ -1,9 +1,9 @@
-# 📰 每日早报 2026年06月27日 周六
+# 📰 每日早报 2026年06月28日 周日
 
-> **来人间一趟 你要看看太阳。** —— 薯味博饼 《海底》
+> **飒爽英姿闯江湖，诗酒茶话莫孤独。** —— 是二智呀 《飒》
 
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.BoneyardBeach_ZH-CN5540590570_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-> 博尼亚德海滩上的漂流木, 亨廷岛, 南卡罗来纳州, 美国 (© Frances/Adobe Stock)
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.SaguaroSun_ZH-CN5820504732_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+> 温德盖特山口附近的巨柱仙人掌, 麦克道尔山脉, 亚利桑那州, 美国 (© Eric Mischke/Getty Images)
 
 ## 📡 RSS 资讯摘要
 
@@ -13,25 +13,25 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 <summary>点击查看原始 RSS 来源</summary>
 
 **少数派**
+- 俄西双城游记：莫斯科时代折叠，圣彼得堡文化巡礼
 - 本周看什么 | 最近值得一看的 10 部作品
-- 探索快捷指令的上限：用网页视图创建丰富界面与交互
 
 **阮一峰的网络日志**
 - 科技爱好者周刊（第 401 期）：如何赚到10亿美元
 - 科技爱好者周刊（第 400 期）：rsync 的争论
 
 **V2EX**
-- [程序员] 微信是否真的在实时监控用户的聊天？
-- [投资] 接上篇，顺着钱流的方向看整个 AI 产业链
-- [分享创造] 用 Node.js 写了个工业级 Modbus 协议栈，想听听大家的看法
+- [Kindle] 老 kindle oasis（一代）电量问题
+- [推广] [aitokensflux] 主打 cx-Pro20 / cc-Max20， GPT 0.2 倍率，进群私聊机器人 /cdk 每天领 5 美元，活动到 7 月 3 日
+- [宽带症候群] sing-box 规则转换
 
 **小众软件**
+- 播播机（LitPlayer） – 安卓视频播放器，支持TV端
 - 苹果将砍掉 M6 高端芯片，直接跳到 M7
-- Win11Debloat 中文版 – 微软欠我的性能该还了：一键卸载 90+ 款 Windows 11 预装软件[2026.6.24更新]
 
 **爱范儿**
-- 对话网翎 CEO 刘宇：《镖人》剧组用的卫星通讯，我希望多数人也用得到丨多样性公司
-- 我在 MWC 上找到了折叠屏最该有的样子
+- 刚刚，GPT-5.6 正式发布，史上最强但被自己坑惨了
+- 早报｜GPT-5.6正式亮相，但你可能还用不了/微软将上调Xbox主机价格/大疆回应Pocket 4P开售秒空
 
 </details>
 
@@ -39,34 +39,34 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 
 | 今年 | 本月 | 本周 | 今日 |
 |:---:|:---:|:---:|:---:|
-| 48.8% | 90.0% | 85.7% | 30.1% |
+| 49.0% | 93.3% | 100.0% | 29.8% |
 
 ## ⏰ 倒计时
-- 周末：今天就是周六！
-- 中秋节：还有 90 天
-- 2027年元旦：还有 188 天
+- 周末：还有 6 天
+- 中秋节：还有 89 天
+- 2027年元旦：还有 187 天
 
 ## ☁️ 天气
 ```
-Changsha: 🌫️  🌡️+76°F 🌬️↘4mph
+Changsha: ✨  🌡️+76°F 🌬️↖3mph
 ```
 
 ## 📋 今日宜忌
-- **宜**：早退、买刮刮乐
-- **忌**：开会、加班
+- **宜**：买刮刮乐、摸鱼
+- **忌**：早起、做重大决定
 
 ## 🔥 微博热搜 TOP5
-1. 挪威1比4法国
-2. 哈兰德姆巴佩王不见王
-3. 第38届大众电影百花奖
-3. 许巍x捷途自由者7PLUS
-4. 藏海传 挂零
+1. 少了尊重
+2. 克罗地亚vs加纳
+3. 第四届链博会多项指标创新高
+4. 笔趣阁APP
+5. 蔡依林封后
 
 ## 📼 历史上的今天
-2024年：U.S. President Joe Biden debates former U.S. President Donald Trump. Biden's perceived poor performance leads to his withdrawal from the election on July 21.
+2016年：A terrorist attack in Turkey's Istanbul Atatürk Airport kills 42 people and injures more than 230 others.
 
 ## 🍵 毒鸡汤
-> 字在纸上写出爱的感受，画在相框中表现爱的模样，而你的歌声唱出了爱的轮廓。
+> 未经允许擅自特别喜欢你，不好意思了。
 
 ---
-*最后更新于 2026-06-27 07:13:53*
+*最后更新于 2026-06-28 07:09:35*
