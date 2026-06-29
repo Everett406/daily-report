@@ -1,9 +1,9 @@
-# 📰 每日早报 2026年06月29日 周一
+# 📰 每日早报 2026年06月30日 周二
 
-> **时间差不多咯。** 《周处除三害》
+> **善恶终有报，天道好轮回。不信抬头看，苍天饶过谁。** 《江湖夜雨十年灯》
 
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.BoraBoraLagoon_ZH-CN9234363590_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-> 波拉波拉岛及其泻湖, 南太平洋, 法属波利尼西亚 (© Frederick Millett/Shutterstock)
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.MasaiGiraffe_ZH-CN1665123897_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+> 马赛马拉国家保护区日落时分的长颈鹿, 肯尼亚 (© danm/Getty Images)
 
 ## 📡 RSS 资讯摘要
 
@@ -13,25 +13,25 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 <summary>点击查看原始 RSS 来源</summary>
 
 **少数派**
-- 兜兜转转四款笔记软件，我终于为思考找到了安身之所
-- 俄西双城游记：莫斯科时代折叠，圣彼得堡文化巡礼
+- 派评 | 近期值得关注的 App
+- 在格鲁吉亚的大地上：徒步篇
 
 **阮一峰的网络日志**
 - 科技爱好者周刊（第 401 期）：如何赚到10亿美元
 - 科技爱好者周刊（第 400 期）：rsync 的争论
 
 **V2EX**
-- [问与答] 我聚合站内大家分享的免费项目然后进行宣传会不会有问题
-- [macOS] 介绍一下我使用 karabiner 和 hammerspoon 的经验
-- [分享创造] 给 Fcitx5 写了个语音输入插件， VAD 自动分割，不用按键
+- [Claude Code] [开源]Janus — 为 AI 编程助手打造的外部认知操作系统
+- [问与答] 亲戚家里的孩子要去加拿大上学，送个什么礼物合适呢（偏数码类的，预算 1-3k 左右）？
+- [求职] 求职-梦魇兽-Flutter 工程师-接受远程、成都
 
 **小众软件**
-- IP Crawl – 发现你身边的公共摄像头？
-- PowerTop – 在 macOS 菜单栏上实时监控电量、功耗
+- DeepSeek V4 调价预告：高峰时段价格翻倍，正式版7月中旬发布
+- 69 年内存价格史（1957–2026）：每 GB 内存价格下降 3210 亿倍
 
 **爱范儿**
-- 29.99 万元起，全新猛士 M817 上市：把智能、越野和家庭出行放进一台车里
-- 底盘也开始「算」了：华为途灵平台到底在解决什么？
+- 大晓机器人的赛博机器狗，开始在上海和天津「打全工」了
+- 因为这个功能，我都不想合上屏幕了｜vivo X Fold6 评测
 
 </details>
 
@@ -39,34 +39,34 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 
 | 今年 | 本月 | 本周 | 今日 |
 |:---:|:---:|:---:|:---:|
-| 49.3% | 96.7% | 14.3% | 30.0% |
+| 49.6% | 100.0% | 28.6% | 29.4% |
 
 ## ⏰ 倒计时
-- 周末：还有 5 天
-- 中秋节：还有 88 天
-- 2027年元旦：还有 186 天
+- 周末：还有 4 天
+- 中秋节：还有 87 天
+- 2027年元旦：还有 185 天
 
 ## ☁️ 天气
 ```
-Changsha: 🌦️  🌡️+79°F 🌬️↖4mph
+Changsha: 🌫️  🌡️+79°F 🌬️↘3mph
 ```
 
 ## 📋 今日宜忌
-- **宜**：吃火锅、追剧
-- **忌**：开会、立 flag
+- **宜**：睡到自然醒、买刮刮乐
+- **忌**：讲道理、素颜出门
 
 ## 🔥 微博热搜 TOP5
-1. 四川宜宾地震
-2. 南非vs加拿大
-3. 神23乘组太空出差满月
-4. 宜宾5.5级地震震源深度6公里
-5. Gucci全球首席营销官发肖战
+1. 巴西绝杀
+2. 德国vs巴拉圭
+3. 这些7月新规影响你我
+3. 智界V9共赴人生V时刻
+4. 巴西2比1日本
 
 ## 📼 历史上的今天
-2014年：The Islamic State of Iraq and the Levant self-declares its caliphate in Syria and northern Iraq.
+2023年：A Tajik citizen with ISIS connections, wanted in Tajikistan for murder and kidnapping, kills two people at Chișinău International Airport in Moldova, after being denied entry to the country.
 
 ## 🍵 毒鸡汤
-> 春风十里 五十里 一百里 体测八百米 海底两万里 德芙巧克力 香草味八喜 可可布朗尼 榴莲菠萝蜜 芝士玉米粒 鸡汁土豆泥 黑椒牛里脊 黄焖辣子鸡 红烧排骨酱醋鱼，不如你，全都不如你。
+> 彩虹是七色的，而你确实绝色
 
 ---
-*最后更新于 2026-06-29 07:11:29*
+*最后更新于 2026-06-30 07:03:54*
