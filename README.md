@@ -1,9 +1,9 @@
-# 📰 每日早报 2026年07月02日 周四
+# 📰 每日早报 2026年07月03日 周五
 
-> **一颗红心两只手，世世代代跟党走。** —— 路遥 《平凡的世界》
+> **这两个过早的品尝了人世沧桑的孩子一见如故。** —— J.K.罗琳 《神奇动物在哪里》
 
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.TempleEsna_ZH-CN9834689523_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-> 埃斯纳神庙穹顶天花板, 埃及 (© Nick Brundle Photography/Getty Images)
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.FirefliesJapan_ZH-CN0071253415_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+> 小溪上方的萤火虫，冈山县，日本 (© tdub303/Getty Images)
 
 ## 📡 RSS 资讯摘要
 
@@ -13,25 +13,25 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 <summary>点击查看原始 RSS 来源</summary>
 
 **少数派**
-- 声擎×少数派｜「角落新声」征文活动
-- [送码] 白描 App 的 9 周年：推出鸿蒙版，白描 PDF 共创首发
+- iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息
+- 共创试读 | 给童年一份礼物：从是什么到为什么，找到合适的掌机
 
 **阮一峰的网络日志**
 - Dario Amodei：AI 开源是伪命题
 - 科技爱好者周刊（第 401 期）：如何赚到10亿美元
 
 **V2EX**
-- [OpenAI] Codex 送重置次数了
-- [推广] 🔥DMIT 洛杉矶/日本/香港优化线路机 PRO 和 EB，（正价套餐）补货--涨价了，机器的 cpu 是 AMD EPYC7003
-- [Claude] Fable 现已重新开放
+- [分享创造] 最近发现一个挺上头的小游戏系列： Escape Road（警车追逐）
+- [分享发现] 3 个 claude max 全挂，在美国自建中转自己用有人尝试过吗？
+- [分享创造] TransOne： macOS 原生菜单栏翻译工具
 
 **小众软件**
-- 谷歌开始提高免费 Gemini API 配额，部分模型已达每分钟 100 万 Token，但不是全部
-- 女真文、小篆两种中国古文字，共约 1.3 万字符，正式加入全球文字编码标准 Unicode 18.0
+- Listary V7 Beta 发布了，新增主动推荐、新预览面板、新主题色、全新引擎等功能。
+- azmth – 实时查看你头顶飞过的卫星（包括所有星链卫星和星链列车）
 
 **爱范儿**
-- 大规模封号后，Claude 突然发布更便宜的新模型
-- 从疯狂翻表到群里直接@AI：飞书来了个新同事，把脏活累活全包了
+- 法拉利大师操刀设计，预售 14.38 万起！小鹏 MONA L03 大脚步冲进市场
+- 54000 元，买一个会叠衣服的机器人，值吗？
 
 </details>
 
@@ -39,34 +39,34 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 
 | 今年 | 本月 | 本周 | 今日 |
 |:---:|:---:|:---:|:---:|
-| 50.1% | 6.5% | 57.1% | 30.6% |
+| 50.4% | 9.7% | 71.4% | 30.2% |
 
 ## ⏰ 倒计时
-- 周末：还有 2 天
-- 中秋节：还有 85 天
-- 2027年元旦：还有 183 天
+- 周末：还有 1 天
+- 中秋节：还有 84 天
+- 2027年元旦：还有 182 天
 
 ## ☁️ 天气
 ```
-Changsha: 🌦️  🌡️+77°F 🌬️↖4mph
+Changsha: 🌦️  🌡️+79°F 🌬️↖2mph
 ```
 
 ## 📋 今日宜忌
-- **宜**：发呆、喝奶茶
-- **忌**：加班、回领导消息
+- **宜**：带薪聊天、喝奶茶
+- **忌**：做重大决定、讲道理
 
 ## 🔥 微博热搜 TOP5
-1. 比利时 内讧
-2. 比利时让2追3
-3. 小小红船已变身巍巍巨轮
-4. 胃癌晚期特效药99万一针多活2.43个月
-5. 陈晓被打耳光路透
+1. 葡萄牙vs克罗地亚
+2. 西班牙3比0奥地利
+3. 我国发展动能持续迸发
+3. 娜娜子枫神仙搭子
+4. 亚马尔全场最佳
 
 ## 📼 历史上的今天
-2024年：A stampede during a religious event in Uttar Pradesh, India, leaves at least 121 people dead and 150 others injured.
+2013年：President of Egypt Mohamed Morsi is removed from office by the military after four days of protests all over the country calling for his resignation, to which he did not respond. The president of the Supreme Constitutional Court of Egypt, Adly Mansour, is declared acting president until further elections are held.
 
 ## 🍵 毒鸡汤
-> 有一次和哥哥出去玩 后来我被警察抓走了 哥哥被雕塑馆工作人员带走了
+> 我的眼泪不值钱，江河淮海任我填
 
 ---
-*最后更新于 2026-07-02 07:20:52*
+*最后更新于 2026-07-03 07:14:41*
