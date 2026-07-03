@@ -1,9 +1,9 @@
-# 📰 每日早报 2026年07月03日 周五
+# 📰 每日早报 2026年07月04日 周六
 
-> **这两个过早的品尝了人世沧桑的孩子一见如故。** —— J.K.罗琳 《神奇动物在哪里》
+> **伤害别人的人，要有被别人伤害的觉悟。** 《罪恶王冠》
 
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.FirefliesJapan_ZH-CN0071253415_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-> 小溪上方的萤火虫，冈山县，日本 (© tdub303/Getty Images)
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.KaysersbergVillage_ZH-CN0445080679_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+> 凯泽斯堡，阿尔萨斯，法国 (© Federica Gentile/Getty Images)
 
 ## 📡 RSS 资讯摘要
 
@@ -13,25 +13,25 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 <summary>点击查看原始 RSS 来源</summary>
 
 **少数派**
-- iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息
-- 共创试读 | 给童年一份礼物：从是什么到为什么，找到合适的掌机
+- 住久了没意思（四）：作为最「复合」的空间，客厅要为真实生活让路
+- 本周看什么 | 最近值得一看的 11 部作品
 
 **阮一峰的网络日志**
+- 科技爱好者周刊（第 402 期）：我在智念 AI 的日子（小说）
 - Dario Amodei：AI 开源是伪命题
-- 科技爱好者周刊（第 401 期）：如何赚到10亿美元
 
 **V2EX**
-- [分享创造] 最近发现一个挺上头的小游戏系列： Escape Road（警车追逐）
-- [分享发现] 3 个 claude max 全挂，在美国自建中转自己用有人尝试过吗？
-- [分享创造] TransOne： macOS 原生菜单栏翻译工具
+- [分享发现] Mac 端最强动态壁纸 APP： Backdrop
+- [程序员] 推荐一个我自己开发的自用的 AI Agent 通知工具吧
+- [程序员] Vibe Coding 时上下文最先满的竟是自己？
 
 **小众软件**
-- Listary V7 Beta 发布了，新增主动推荐、新预览面板、新主题色、全新引擎等功能。
-- azmth – 实时查看你头顶飞过的卫星（包括所有星链卫星和星链列车）
+- 将 PDF 变成打印件：虚假扫描｜make-look-scanned
+- Immich v3 发布，开源、高性能自托管相册，GitHub 收获 105k 星
 
 **爱范儿**
-- 法拉利大师操刀设计，预售 14.38 万起！小鹏 MONA L03 大脚步冲进市场
-- 54000 元，买一个会叠衣服的机器人，值吗？
+- 对话乐享科技 CEO 郭人杰：具身智能有希望诞生苹果级别的公司，我们有机会成为这家丨多样性公司
+- 奕境汽车发布了「天穹智盾」安全架构，把安全问题都想全了
 
 </details>
 
@@ -39,34 +39,34 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 
 | 今年 | 本月 | 本周 | 今日 |
 |:---:|:---:|:---:|:---:|
-| 50.4% | 9.7% | 71.4% | 30.2% |
+| 50.7% | 12.9% | 85.7% | 30.0% |
 
 ## ⏰ 倒计时
-- 周末：还有 1 天
-- 中秋节：还有 84 天
-- 2027年元旦：还有 182 天
+- 周末：今天就是周六！
+- 中秋节：还有 83 天
+- 2027年元旦：还有 181 天
 
 ## ☁️ 天气
 ```
-Changsha: 🌦️  🌡️+79°F 🌬️↖2mph
+Changsha: ☀️  🌡️+78°F 🌬️↖4mph
 ```
 
 ## 📋 今日宜忌
-- **宜**：带薪聊天、喝奶茶
-- **忌**：做重大决定、讲道理
+- **宜**：早退、发呆
+- **忌**：立 flag、素颜出门
 
 ## 🔥 微博热搜 TOP5
-1. 葡萄牙vs克罗地亚
-2. 西班牙3比0奥地利
-3. 我国发展动能持续迸发
-3. 娜娜子枫神仙搭子
-4. 亚马尔全场最佳
+1. 澳大利亚vs埃及
+2. 孙颖莎vs梅谢芙
+3. 多重硬核成就彰显高质量发展底气
+4. 邓为拎了6袋迪奥送花少嘉宾
+5. 把会删Word空白页写进简历
 
 ## 📼 历史上的今天
-2013年：President of Egypt Mohamed Morsi is removed from office by the military after four days of protests all over the country calling for his resignation, to which he did not respond. The president of the Supreme Constitutional Court of Egypt, Adly Mansour, is declared acting president until further elections are held.
+2025年：The Oasis Live '25 tour began in Principality Stadium, Cardiff, ending a 16 year hiatus.
 
 ## 🍵 毒鸡汤
-> 我的眼泪不值钱，江河淮海任我填
+> 一直觉得一个人生活，直到遇见你，我想和你生个孩子……
 
 ---
-*最后更新于 2026-07-03 07:14:41*
+*最后更新于 2026-07-04 07:11:32*
