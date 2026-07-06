@@ -1,9 +1,9 @@
-# 📰 每日早报 2026年07月06日 周一
+# 📰 每日早报 2026年07月07日 周二
 
-> **后天的努力很重要，所以今天和明天先睡觉。** —— 卡卡米莹 《网络》
+> **只要你不混乱，时间永远够用。** 《网络》
 
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SyracuseItaly_ZH-CN1001695972_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-> 锡拉库萨的日落，西西里岛，意大利 (© Balate Dorin/Getty Images)
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.MountainToucanOrchids_ZH-CN1400221431_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+> 板嘴山巨嘴鸟与兰花，厄瓜多尔 (© Murray Cooper/Minden Pictures)
 
 ## 📡 RSS 资讯摘要
 
@@ -13,21 +13,25 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 <summary>点击查看原始 RSS 来源</summary>
 
 **少数派**
-- 背单词更要背释义，FenyiDic 让你记住「熟悉的陌生人」
-- [送码] 聆听用户建议，1Capture 新增多项实用截图功能
+- 派评 | 近期值得关注的 App
+- iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它
+
+**阮一峰的网络日志**
+- 科技爱好者周刊（第 402 期）：我在智念 AI 的日子（小说）
+- Dario Amodei：AI 开源是伪命题
 
 **V2EX**
-- [问与答] 明天 GPT-5.6 有望发布吗？
-- [宽带症候群] 广东联通智播套餐分享
-- [推广] 在推广节点领了一个多月的赛博鸡蛋，做了个 AI 中转站排名网站。支持排名、评价、打分、安全审计，还收录了不少免费的公益站点
+- [iPhone] iOS 27 beta3
+- [Claude] poe 上的 fable5，可以稳定的保持多久的记忆，有没有大佬知道啊
+- [分享创造] GitHub 上连载小说，不知道有没有人在看，于是写了个 SVGStat
 
 **小众软件**
-- CCleaner 之后，有人重新做了一款开源清理工具：FluentCleaner
-- [已开源]将《命令与征服：将军：零点行动》原生移植到 macOS、iPhone、iPad
+- 哔哩漫游项目收到律师函，已删库
+- 微软承认：Windows 11 这个 Bug，最高能吃掉 500GB 硬盘空间｜请检查你是否受到影响
 
 **爱范儿**
-- 史上最强的 MacBook 要来了，苹果要 All in AI
-- 早报｜大疆影石专利战火烧回国内/阿里内部全面禁用Claude Code/茉莉奶白被判赔LV 1030万后，月薪4万招法务
+- 预售 25.98 万元起！全新坦克 300 轴距加长，舒适性大提升
+- 纯电 C 级、燃油小 G，奔驰史上最大新车潮要来了
 
 </details>
 
@@ -35,34 +39,34 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 
 | 今年 | 本月 | 本周 | 今日 |
 |:---:|:---:|:---:|:---:|
-| 51.2% | 19.4% | 14.3% | 29.6% |
+| 51.5% | 22.6% | 28.6% | 30.1% |
 
 ## ⏰ 倒计时
-- 周末：还有 5 天
-- 中秋节：还有 81 天
-- 2027年元旦：还有 179 天
+- 周末：还有 4 天
+- 中秋节：还有 80 天
+- 2027年元旦：还有 178 天
 
 ## ☁️ 天气
 ```
-Changsha: 🌫️  🌡️+79°F 🌬️↖5mph
+Changsha: 🌦️  🌡️+77°F 🌬️↑8mph
 ```
 
 ## 📋 今日宜忌
-- **宜**：摸鱼、逛公园
-- **忌**：看余额、素颜出门
+- **宜**：逛公园、早退
+- **忌**：称体重、开会
 
 ## 🔥 微博热搜 TOP5
-1. 巴西VS挪威
-2. 内马尔哭了
-3. 数说中国经济6月成绩单
-4. 哈兰德梅开二度
-5. 哈兰德
+1. C罗最后一舞遗憾落幕
+2. 葡萄牙0比1西班牙
+3. 暴雨天牢记这些保命知识
+4. C罗哭了
+5. 还我佛得角
 
 ## 📼 历史上的今天
-2022年：The Georgia Guidestones, a monument in the United States, are heavily damaged in a bombing, and are dismantled later the same day.
+2022年：Boris Johnson announces his resignation as leader of the Conservative Party following days of pressure from the Members of Parliament (MPs) during the July 2022 United Kingdom government crisis.
 
 ## 🍵 毒鸡汤
-> 能让我狂奔的 ，除了大雨就只有你了
+> p图技术再练练吧 根本没本人好看
 
 ---
-*最后更新于 2026-07-06 07:06:35*
+*最后更新于 2026-07-07 07:13:17*
