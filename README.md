@@ -1,9 +1,9 @@
-# 📰 每日早报 2026年07月10日 周五
+# 📰 每日早报 2026年07月11日 周六
 
-> **为什么我的眼里常含泪水？因为我对这土地爱的深沉。** 《我爱这土地》
+> **焉得谖草？言树之背。** 《伯兮-先秦》
 
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.VictoriaBeach_ZH-CN8892195426_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-> 陆地与海洋的鸟瞰图，维多利亚州，澳大利亚 (© Nearmap/Getty Images)
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.AurayBrittany_ZH-CN5549157888_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+> 圣古斯坦港, 欧赖, 布列塔尼, 法国 (© Rolf E. Staerk/Shutterstock)
 
 ## 📡 RSS 资讯摘要
 
@@ -13,25 +13,25 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 <summary>点击查看原始 RSS 来源</summary>
 
 **少数派**
-- TDS REVIEW | 小米耳夹式耳机体验
-- iOS 27 Beta 2 & 3 值得关注的新特性
+- 本周看什么 | 最近值得一看的 8 部作品
+- 安达卢西亚的日与夜：格拉纳达漫游指南
 
 **阮一峰的网络日志**
+- 科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功
 - 科技爱好者周刊（第 402 期）：我在智念 AI 的日子（小说）
-- Dario Amodei：AI 开源是伪命题
 
 **V2EX**
-- [程序员] 一觉醒来， codex 成为历史了，改 CHATGPT 了
-- [分享发现] ChatGPT Codex 重置了， GPT-5.6 Sol 也推送了
-- [Claude] Claude 撞额度也会完成当前对话了
+- [iPhone] iPhone 系统级语音识别异常： Siri、听写及多个第三方语音输入全部失效，目前 Apple 已确认问题正在处理中
+- [分享创造] vibe 了一个中文输入法，完全离线, apk 文件才 1.3m
+- [分享创造] Muse Image AI
 
 **小众软件**
-- 自言卡 – 每天在 Windows 桌面显示一条你自己写的话
-- Terraink – 创建地图海报：把去过的地方，变成一张可以挂在墙上的地图
+- Catime 开发者，真跑去种地了？
+- 本周赛博领鸡蛋：《新星群岛》《纹身大亨》《公主农夫》（7.10~7.16）
 
 **爱范儿**
-- 租电 27.48 万元起！去掉了第三排的蔚来 ES8 大五座版，能装下 21 个行李箱
-- 腾势 Z 亮相古德伍德，定价超 130.35 万， 背后还藏着比亚迪全面布局欧洲的野心
+- 百度搭子重新定义 Agent「托付半径」
+- 奇瑞风云 A9 预售，11.59 万元起，想做同级最美纯电轿车
 
 </details>
 
@@ -39,34 +39,34 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 
 | 今年 | 本月 | 本周 | 今日 |
 |:---:|:---:|:---:|:---:|
-| 52.3% | 32.3% | 71.4% | 30.4% |
+| 52.6% | 35.5% | 85.7% | 29.4% |
 
 ## ⏰ 倒计时
-- 周末：还有 1 天
-- 中秋节：还有 77 天
-- 2027年元旦：还有 175 天
+- 周末：今天就是周六！
+- 中秋节：还有 76 天
+- 2027年元旦：还有 174 天
 
 ## ☁️ 天气
 ```
-Changsha: 🌤️  🌡️+81°F 🌬️↖6mph
+Changsha: ✨  🌡️+84°F 🌬️↖2mph
 ```
 
 ## 📋 今日宜忌
-- **宜**：发呆、带薪聊天
-- **忌**：回领导消息、讲道理
+- **宜**：逛公园、带薪聊天
+- **忌**：加班、做重大决定
 
 ## 🔥 微博热搜 TOP5
-1. 法国2比0摩洛哥
-2. 台风巴威又改路线了
-3. 广西加油共渡难关
-3. 看球上淘宝闪购拼团大力省
-4. 李荣浩演唱会天津站取消
+1. 西班牙VS比利时
+2. 巴威台风眼消失
+3. 长征十号乙火箭回收现场视频
+3. 启境GT7提车即享华为乾崑ADS5
+4. 工资一样的朋友存款比我多28万
 
 ## 📼 历史上的今天
-2019年：The final Volkswagen Beetle rolls off the line in Puebla, Mexico; the last of 5,961 "Special Edition" cars will be exhibited in a museum.
+2021年：Virgin Galactic launches its founder, Richard Branson, into space, the first company ever to do so.
 
 ## 🍵 毒鸡汤
-> 我的心思很好猜,除了你就是发大财
+> 你爱的人不一定爱你
 
 ---
-*最后更新于 2026-07-10 07:17:56*
+*最后更新于 2026-07-11 07:03:12*
