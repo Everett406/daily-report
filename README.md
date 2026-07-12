@@ -1,9 +1,9 @@
-# 📰 每日早报 2026年07月12日 周日
+# 📰 每日早报 2026年07月13日 周一
 
-> **所谓辉煌的人生，不过是欲望的囚徒。** —— 叔本华 《网络》
+> **人只会看到自己想看到的、听到自己想听到的，我也并不例外。** —— 大老师 《我的青春恋爱物语果然有问题》
 
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.KatahdinWWNM_ZH-CN5496444375_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-> 卡塔丁森林和水域国家纪念地，缅因州，美国 (© Cavan Images/Offset/Shutterstock)
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.NavajoSandstone_ZH-CN5009673011_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+> 羚羊峡谷，纳瓦霍族保留地，亚利桑那州，美国 (© Mark Skalny/Getty Images)
 
 ## 📡 RSS 资讯摘要
 
@@ -13,25 +13,25 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 <summary>点击查看原始 RSS 来源</summary>
 
 **少数派**
+- 6月音乐精选：不得不听的 17 张……没错 17 张专辑！
 - 暴雨和洪涝的季节，这些技巧助你从容自保
-- 本周看什么 | 最近值得一看的 8 部作品
 
 **阮一峰的网络日志**
 - 科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功
 - 科技爱好者周刊（第 402 期）：我在智念 AI 的日子（小说）
 
 **V2EX**
-- [全球工单系统] 淘宝桌面版 cli 搜索一次就掉线，抓包发现是自己的推荐接口把自己搞崩了
-- [程序员] 专科大二，喜欢底层开发(?)，但有点迷茫想听听建议...
-- [问与答] 如何让 codex 创造性地给我一些选择让我选，它默认直接做出的代码修改总是不符合我的要求。
+- [Android] 索尼手机不再继续配 4K 屏了，有没有推荐替代品？
+- [程序员] 我开发了一个 AI 程序化建模的工具
+- [分享发现] YOLO 原来是“赢了会所嫩模”的英文缩写
 
 **小众软件**
-- MapToPoster JS – 低调又有范儿的地图海报
-- SumatraPDF Plus 增强版：完美中文排版、全渲染暗黑模式、双击查词、大文件加速
+- Koofr 云存储：免费 10GB 空间，支持 WebDAV、Rclone｜终身订阅 1TB 特价129刀【再次】
+- Cloudflare Drop：无需账号，直接发布静态网页
 
 **爱范儿**
+- 腾讯 WorkBuddy 入门指南：更适合国人体质的 Codex，真的能替我干活
 - 早报｜苹果起诉OpenAI/努比亚倪飞披露AI智能体手机细节/小米澎程N90升降车顶曝光
-- 百度搭子重新定义 Agent「托付半径」
 
 </details>
 
@@ -39,34 +39,34 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 
 | 今年 | 本月 | 本周 | 今日 |
 |:---:|:---:|:---:|:---:|
-| 52.9% | 38.7% | 100.0% | 28.9% |
+| 53.2% | 41.9% | 14.3% | 28.9% |
 
 ## ⏰ 倒计时
-- 周末：还有 6 天
-- 中秋节：还有 76 天
-- 2027年元旦：还有 173 天
+- 周末：还有 5 天
+- 中秋节：还有 75 天
+- 2027年元旦：还有 172 天
 
 ## ☁️ 天气
 ```
-Changsha: ☀️  🌡️+88°F 🌬️↘9mph
+Changsha: ☀️  🌡️+82°F 🌬️↑2mph
 ```
 
 ## 📋 今日宜忌
-- **宜**：发呆、吃火锅
-- **忌**：讲道理、看余额
+- **宜**：吃火锅、早退
+- **忌**：立 flag、加班
 
 ## 🔥 微博热搜 TOP5
-1. 挪威vs英格兰
-2. 台风巴威二次登陆
-3. 全国电力应急支援能力大幅提升
-3. 比星期四还疯狂的是哪天
-4. 哈兰德推人 进球无效
+1. 突然觉得带孩子很轻松
+2. 火鸡面被台风孤立了
+3. 夏粮增产20亿斤背后的科技密码
+4. 冉莹颖说把北京贵阳美国的房子都卖了
+5. 周深现场把伴舞开了
 
 ## 📼 历史上的今天
-2024年：Gazpromavia Flight 9608 crashes in Russia's Kolomensky District near Kolomna, killing three.
+2024年：Former president of the United States Donald Trump is injured in an assassination attempt while speaking at an election campaign rally near Butler, Pennsylvania.
 
 ## 🍵 毒鸡汤
-> 你上辈子一定是碳酸饮料吧，为什么我一看到你就开心的冒泡
+> 你去学游泳吧，这样我们就能永浴爱河啦。
 
 ---
-*最后更新于 2026-07-12 06:55:47*
+*最后更新于 2026-07-13 06:56:02*
