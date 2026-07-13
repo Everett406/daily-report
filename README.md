@@ -1,9 +1,9 @@
-# 📰 每日早报 2026年07月13日 周一
+# 📰 每日早报 2026年07月14日 周二
 
-> **人只会看到自己想看到的、听到自己想听到的，我也并不例外。** —— 大老师 《我的青春恋爱物语果然有问题》
+> **承君此诺，必守一生。** 《仙剑奇侠传四》
 
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.NavajoSandstone_ZH-CN5009673011_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-> 羚羊峡谷，纳瓦霍族保留地，亚利桑那州，美国 (© Mark Skalny/Getty Images)
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.LemonShark_ZH-CN4650331008_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+> 柠檬鲨幼崽在红树林中，伊柳塞拉岛，巴哈马 (© Shane Gross/Nature Picture Library)
 
 ## 📡 RSS 资讯摘要
 
@@ -13,25 +13,25 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 <summary>点击查看原始 RSS 来源</summary>
 
 **少数派**
-- 6月音乐精选：不得不听的 17 张……没错 17 张专辑！
-- 暴雨和洪涝的季节，这些技巧助你从容自保
+- 派评 | 近期值得关注的 App
+- 具透 Plus：Android 17 的应用内存限制；谈谈 macOS 和 Linux 如何运行可执行文件
 
 **阮一峰的网络日志**
 - 科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功
 - 科技爱好者周刊（第 402 期）：我在智念 AI 的日子（小说）
 
 **V2EX**
-- [Android] 索尼手机不再继续配 4K 屏了，有没有推荐替代品？
-- [程序员] 我开发了一个 AI 程序化建模的工具
-- [分享发现] YOLO 原来是“赢了会所嫩模”的英文缩写
+- [OpenAI] OpenAI 大善人，又送了一次手动重置卡，已收到！但是要注意一个问题！
+- [程序员] 开源了一个 Hugging Face 桌面客户端:断点续传下载、支持 hf-mirror、缓存可视化清理,全平台零遥测
+- [推广] Kronos AI：把 OHLCV 历史转成可审阅的 K 线预测路径
 
 **小众软件**
-- Koofr 云存储：免费 10GB 空间，支持 WebDAV、Rclone｜终身订阅 1TB 特价129刀【再次】
-- Cloudflare Drop：无需账号，直接发布静态网页
+- 批量重命名、格式转换、数据提取、合并拆分…这款全能办公工具一个搞定，太顶了！
+- 发现频道：最近10日的热门排行榜[2026年第28期]
 
 **爱范儿**
-- 腾讯 WorkBuddy 入门指南：更适合国人体质的 Codex，真的能替我干活
-- 早报｜苹果起诉OpenAI/努比亚倪飞披露AI智能体手机细节/小米澎程N90升降车顶曝光
+- 68 万元起！腾势 Z 开启国内预售，海外网友已吵翻
+- 英伟达 AIPC 中国首秀，笔记本里装下一座「曼哈顿」
 
 </details>
 
@@ -39,34 +39,34 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 
 | 今年 | 本月 | 本周 | 今日 |
 |:---:|:---:|:---:|:---:|
-| 53.2% | 41.9% | 14.3% | 28.9% |
+| 53.4% | 45.2% | 28.6% | 29.2% |
 
 ## ⏰ 倒计时
-- 周末：还有 5 天
-- 中秋节：还有 75 天
-- 2027年元旦：还有 172 天
+- 周末：还有 4 天
+- 中秋节：还有 73 天
+- 2027年元旦：还有 171 天
 
 ## ☁️ 天气
 ```
-Changsha: ☀️  🌡️+82°F 🌬️↑2mph
+Changsha: 🌤️  🌡️+89°F 🌬️↖6mph
 ```
 
 ## 📋 今日宜忌
-- **宜**：吃火锅、早退
-- **忌**：立 flag、加班
+- **宜**：喝奶茶、早退
+- **忌**：回领导消息、开会
 
 ## 🔥 微博热搜 TOP5
-1. 突然觉得带孩子很轻松
-2. 火鸡面被台风孤立了
-3. 夏粮增产20亿斤背后的科技密码
-4. 冉莹颖说把北京贵阳美国的房子都卖了
-5. 周深现场把伴舞开了
+1. 超强厄尔尼诺真要来了
+2. 遭仅退款损失20万老板有单也不敢接
+3. 未来五年这样提高国民健康水平
+4. 台风位置
+5. 黄瓜这种情况比砒霜还毒
 
 ## 📼 历史上的今天
-2024年：Former president of the United States Donald Trump is injured in an assassination attempt while speaking at an election campaign rally near Butler, Pennsylvania.
+2019年： A GippsAero GA8 Airvan crashes in Umeå, Sweden, killing all nine aboard.
 
 ## 🍵 毒鸡汤
-> 你去学游泳吧，这样我们就能永浴爱河啦。
+> 哪怕置身人海茫茫，可一旦望进你的眼，便不觉嘈杂，只觉心欢❤️
 
 ---
-*最后更新于 2026-07-13 06:56:02*
+*最后更新于 2026-07-14 07:00:32*
