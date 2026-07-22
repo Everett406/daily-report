@@ -1,9 +1,9 @@
-# 📰 每日早报 2026年07月22日 周三
+# 📰 每日早报 2026年07月23日 周四
 
-> **嗯呐......软绵绵的人偶，来治愈你们的哟。** —— 娜娜奇 《来自深渊》
+> **因为你喜欢海，所以我一直浪。** 《君》
 
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.CoralAwareness_ZH-CN1621627126_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-> 珊瑚礁与海滩在拉贾安帕特，印度尼西亚 (© SergeUWPhoto/Shutterstock)
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.PinkDahlia_ZH-CN2259107800_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+> 粉红色大丽花 (© Harald Biebel/Getty Images)
 
 ## 📡 RSS 资讯摘要
 
@@ -13,25 +13,25 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 <summary>点击查看原始 RSS 来源</summary>
 
 **少数派**
-- 社区速递 150｜派友热议磁吸配件、拯救呼吸通气鼻贴与国产三折叠自行车
-- 装上 Fedora 的 Surface Pro：一台老设备的新可能
+- Parti：一个零门槛联机游戏平台，凭什么不需要服务器？
+- 滤镜背后的色彩科学：LUT 是什么？
 
 **阮一峰的网络日志**
 - 科技爱好者周刊（第 404 期）：你需要知道的 AI 内存知识
 - 科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功
 
 **V2EX**
-- [分享创造] crPDF 1.6.0 windows 版本 已上架 微软应用市场
-- [微信] 有人用澳门 WeChat 的 WeChat Out 功能吗
-- [OpenAI] Codex 重置了
+- [推广] 🔥Vmiss US.LA.TRI 全线补货了（测评的是 10CAD/月 的机器）最便宜的三网各自优化 CN2GIA 9929 CMIN2
+- [Wunder] Persona 新增可定制选项 input_mode: 对话 | 处理内容
+- [分享创造] 算术小游戏，紧张刺激，欢迎来玩
 
 **小众软件**
-- VideoProc 年中4折：N合一超强下载、图像增强、视频处理，工具箱全家桶一次带走
-- BaseRT：专为 Apple Silicon 优化，让 Mac 本地大模型快 6.4 倍
+- 远程控制安卓工具 Scrcpy 4.1 发布，新增 VP8 / VP9 视频编码支持，让更多安卓设备可以投屏
+- 嫌 Listary 很久不更新，搞了个开源替代品：SwiftList
 
 **爱范儿**
-- 1500 元的 Codex 键盘卖断货，这小哥反手自己造了一台
-- 定价 13.33 万元，萤火虫 halo 寻光系列发布首款车型，比高配版还贵 7500 元
+- 29.98 万元起、800mm 涉水，泰钽 700 还想让 NOA 帮你越野
+- 后驱纯电+五连杆+两个座位，smart #2 背负 fortwo 续作名号重返市场
 
 </details>
 
@@ -39,34 +39,34 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 
 | 今年 | 本月 | 本周 | 今日 |
 |:---:|:---:|:---:|:---:|
-| 55.6% | 71.0% | 42.9% | 29.3% |
+| 55.9% | 74.2% | 57.1% | 29.8% |
 
 ## ⏰ 倒计时
-- 周末：还有 3 天
+- 周末：还有 2 天
 - 未知假期：还有 ? 天
-- 2027年元旦：还有 163 天
+- 2027年元旦：还有 162 天
 
 ## ☁️ 天气
 ```
-Changsha: 🌤️  🌡️+77°F 🌬️↖5mph
+Changsha: ☁️  🌡️+81°F 🌬️↑6mph
 ```
 
 ## 📋 今日宜忌
-- **宜**：带薪聊天、逛公园
-- **忌**：加班、讲道理
+- **宜**：早退、吃火锅
+- **忌**：早起、加班
 
 ## 🔥 微博热搜 TOP5
-1. 樊振东缺席乒超本不该被过度聚焦
-2. 电影功夫女足票房破16亿
-3. 梦想启程且歌且行
-4. 朋友圈和微博的差别belike
-5. 王源好明显的震颤
+1. 为什么要说尽量少跟AI倾诉聊天
+2. 闫闯
+3. 2026数字丝路发展论坛
+3. 三星折叠屏薄到离谱了
+4. 突然讨厌朋友的原因找到了
 
 ## 📼 历史上的今天
-2019年：Chandrayaan-2, the second lunar exploration mission developed by Indian Space Research Organisation after Chandrayaan-1 is launched from Satish Dhawan Space Centre in a GSLV Mark III M1. It consists of a lunar orbiter, and also included the Vikram lander, and the Pragyan lunar rover.
+2018年：A wildfire in East Attica kills at least 102 people. It is the deadliest wildfire in the history of Greece.
 
 ## 🍵 毒鸡汤
-> 我实在喜欢你那一身诗劲，我爱你像爱一首诗一样。
+> 你是在黑暗中都不忘发光的人，我又怎能不奔向你呢？
 
 ---
-*最后更新于 2026-07-22 07:02:27*
+*最后更新于 2026-07-23 07:09:48*
