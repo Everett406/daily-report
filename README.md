@@ -1,9 +1,9 @@
-# 📰 每日早报 2026年07月24日 周五
+# 📰 每日早报 2026年07月25日 周六
 
-> **Hello World!** 《其他》
+> **莫等闲，白了少年头，空悲切。** —— 岳飞 《满江红》
 
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.GalapagosFlamingos_ZH-CN1152519387_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-> 美洲红鹳群在伊莎贝拉岛，加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Nature Picture Library)
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.GaliciaBeach_ZH-CN1246611659_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+> 大教堂海滩，加利西亚，西班牙 (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)
 
 ## 📡 RSS 资讯摘要
 
@@ -13,25 +13,25 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 <summary>点击查看原始 RSS 来源</summary>
 
 **少数派**
-- 新玩意 247｜少数派的编辑们最近买了啥？
-- 小小云台，稳住「口袋电影机」：DJI Pocket 4P 漫谈
+- 本周看什么 | 最近值得一看的 13 部作品
+- 角落新声｜数字与实体、有线与无线：我的多场景有声角落构建
 
 **阮一峰的网络日志**
+- 科技爱好者周刊（第 405 期）：资源，社会公平与算力
 - 科技爱好者周刊（第 404 期）：你需要知道的 AI 内存知识
-- 科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功
 
 **V2EX**
-- [分享创造] 把一堆兑换码变成一张 Markdown 图片，每人打开领一条
-- [酷工作] [创业组队] 远程 · 实物大宗商品贸易 AI Agent（团队在瑞士），已有试点客户，找技术合伙人
-- [问与答] [创业组队] 瑞士日内瓦 · 实物大宗商品贸易 AI Agent，已有试点客户，找技术合伙人
+- [OpenAI] 最近用的中转又拉闸了，想自己搞一个号了
+- [VPS] ColoCrossing - Specials - 洛杉矶假日特惠补货
+- [问与答] Qoder CN + qwen 8 max preview 还是差点意思
 
 **小众软件**
-- OpenLogi – 开源罗技鼠标管理工具，替代 Logitech Options+
-- 抢先看：Windows 11 重新设计的运行对话框、文件属性界面
+- 本周赛博领鸡蛋（7.24~7.39）：预言奇谈 / Foretales
+- OpenClaw 官方安卓客户端，为什么评分只有 1.9？
 
 **爱范儿**
-- First 超短片，把镜头对准了 AI 够不着的地方
-- 苹果全家桶「年年焕新」来了，到底划不划算？
+- Codex 键盘第一波上手来了，有人反手让 Codex 破解了它
+- 16.98 万元起，华为乾崑六件套上车，奕派 M8 挤进拥挤的大六座市场
 
 </details>
 
@@ -39,34 +39,34 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 
 | 今年 | 本月 | 本周 | 今日 |
 |:---:|:---:|:---:|:---:|
-| 56.2% | 77.4% | 71.4% | 29.3% |
+| 56.4% | 80.6% | 85.7% | 29.6% |
 
 ## ⏰ 倒计时
-- 周末：还有 1 天
+- 周末：今天就是周六！
 - 未知假期：还有 ? 天
-- 2027年元旦：还有 161 天
+- 2027年元旦：还有 160 天
 
 ## ☁️ 天气
 ```
-Changsha: 🌤️  🌡️+83°F 🌬️↑7mph
+Changsha: ✨  🌡️+83°F 🌬️↖4mph
 ```
 
 ## 📋 今日宜忌
-- **宜**：买刮刮乐、带薪聊天
-- **忌**：开会、讲道理
+- **宜**：吃火锅、发呆
+- **忌**：开会、立 flag
 
 ## 🔥 微博热搜 TOP5
-1. 重庆山体崩塌11死50失联
-2. 丘成桐希望王虹邓煜回国任教
-3. 中国汽车加速全球化布局
-3. 贴地飞行领克07GT上市14.58万起
-4. 左眼跳财右眼跳相信科学
+1. 詹姆斯加盟76人
+2. 方星海涉嫌严重违纪违法
+3. 我国首条穿越长江高铁隧道贯通
+3. 郁可唯为奕派M8车主交付
+4. 林依轮复刻白鹿周生如故红衣造型
 
 ## 📼 历史上的今天
-2025年：Angara Airlines Flight 2311 crashes on approach to Tynda Airport, killing all 48 people on board.
+2019年：National extreme heat records set this day in the UK, Belgium, The Netherlands and Germany during the July 2019 European heat wave.
 
 ## 🍵 毒鸡汤
-> 在一起，鸡毛蒜皮也是故事
+> 你逆光而来 配得上这世间所有的好
 
 ---
-*最后更新于 2026-07-24 07:02:09*
+*最后更新于 2026-07-25 07:06:51*
