@@ -1,9 +1,9 @@
-# 📰 每日早报 2026年07月25日 周六
+# 📰 每日早报 2026年07月26日 周日
 
-> **莫等闲，白了少年头，空悲切。** —— 岳飞 《满江红》
+> **博学而笃志，切问而近思。** 《论语·子张》
 
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.GaliciaBeach_ZH-CN1246611659_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-> 大教堂海滩，加利西亚，西班牙 (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.RedMangroveSunrise_ZH-CN7940335392_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+> 红树上的日出在小猪群岛，洪都拉斯 (© Mac Stone/Tandem Stills + Motion)
 
 ## 📡 RSS 资讯摘要
 
@@ -13,25 +13,25 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 <summary>点击查看原始 RSS 来源</summary>
 
 **少数派**
+- 看不见、摸得着的家居要素：聊聊湿度管理的方法与实践
 - 本周看什么 | 最近值得一看的 13 部作品
-- 角落新声｜数字与实体、有线与无线：我的多场景有声角落构建
 
 **阮一峰的网络日志**
 - 科技爱好者周刊（第 405 期）：资源，社会公平与算力
 - 科技爱好者周刊（第 404 期）：你需要知道的 AI 内存知识
 
 **V2EX**
-- [OpenAI] 最近用的中转又拉闸了，想自己搞一个号了
-- [VPS] ColoCrossing - Specials - 洛杉矶假日特惠补货
-- [问与答] Qoder CN + qwen 8 max preview 还是差点意思
+- [OpenAI] Codex 又又又又又又又又又又又又又又又又又又又又又又又又又又又又重置了
+- [Apple] Apple Fitness+ 拼车 95RMB 一年
+- [生活] # 一辆摩托车 -- 我的人生塌了！
 
 **小众软件**
+- IKEA Complexity Index：为 2 万件宜家家具计算“安装难度分”
 - 本周赛博领鸡蛋（7.24~7.39）：预言奇谈 / Foretales
-- OpenClaw 官方安卓客户端，为什么评分只有 1.9？
 
 **爱范儿**
+- 早报｜Claude Opus 5发布,半价追平Fable 5/小鹏人形机器人开启小批量试产/曝英伟达将上调显卡价格
 - Codex 键盘第一波上手来了，有人反手让 Codex 破解了它
-- 16.98 万元起，华为乾崑六件套上车，奕派 M8 挤进拥挤的大六座市场
 
 </details>
 
@@ -39,34 +39,34 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 
 | 今年 | 本月 | 本周 | 今日 |
 |:---:|:---:|:---:|:---:|
-| 56.4% | 80.6% | 85.7% | 29.6% |
+| 56.7% | 83.9% | 100.0% | 29.1% |
 
 ## ⏰ 倒计时
-- 周末：今天就是周六！
+- 周末：还有 6 天
 - 未知假期：还有 ? 天
-- 2027年元旦：还有 160 天
+- 2027年元旦：还有 159 天
 
 ## ☁️ 天气
 ```
-Changsha: ✨  🌡️+83°F 🌬️↖4mph
+Changsha: ☀️  🌡️+83°F 🌬️↖4mph
 ```
 
 ## 📋 今日宜忌
-- **宜**：吃火锅、发呆
-- **忌**：开会、立 flag
+- **宜**：喝奶茶、逛公园
+- **忌**：早起、称体重
 
 ## 🔥 微博热搜 TOP5
-1. 詹姆斯加盟76人
-2. 方星海涉嫌严重违纪违法
-3. 我国首条穿越长江高铁隧道贯通
-3. 郁可唯为奕派M8车主交付
-4. 林依轮复刻白鹿周生如故红衣造型
+1. 台风红霞已加强为强台风
+2. 房企回应被LV起诉四叶雕花侵权
+3. 中国小写的c惊艳了世界
+4. 张雅琪 中餐厅
+5. 存款有100万的人舍不得花30万买车
 
 ## 📼 历史上的今天
-2019年：National extreme heat records set this day in the UK, Belgium, The Netherlands and Germany during the July 2019 European heat wave.
+2016年：Solar Impulse 2 becomes the first solar-powered aircraft to circumnavigate the Earth.
 
 ## 🍵 毒鸡汤
-> 你逆光而来 配得上这世间所有的好
+> 我会在你身边，请不要担心，请不要走远。
 
 ---
-*最后更新于 2026-07-25 07:06:51*
+*最后更新于 2026-07-26 06:59:13*
