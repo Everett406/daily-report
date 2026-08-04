@@ -1,9 +1,9 @@
-# 📰 每日早报 2026年08月04日 周二
+# 📰 每日早报 2026年08月05日 周三
 
-> **莫叹明月笑多情，天涯尽头看流光飞去。** —— 董贞 《相思引》
+> **不敢打开信封啊。因为，打开了就结束了啊。** —— 三千院凪 《旋风管家》
 
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.AdorableOwlet_ZH-CN6929234033_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-> 佛罗里达穴鸮幼鸟，开普科拉尔，佛罗里达州，美国 (© mlorenzphotography/Getty Images)
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.FezMorocco_ZH-CN7662339428_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+> 非斯皇宫装饰华丽的大门，摩洛哥 (© cgst26/Shutterstock)
 
 ## 📡 RSS 资讯摘要
 
@@ -13,25 +13,25 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 <summary>点击查看原始 RSS 来源</summary>
 
 **少数派**
-- 派评 | 近期值得关注的 App
-- 把折叠屏外屏做成手机后：iKKO MindOne Pro 体验
+- 敬畏热度、保持热情：如何在夏季坚持跑步
+- 家庭饮品 DIY 指南（三）：常用固体物料推荐
 
 **阮一峰的网络日志**
 - 科技爱好者周刊（第 406 期）：道可，道非，常道
 - 科技爱好者周刊（第 405 期）：资源，社会公平与算力
 
 **V2EX**
-- [Google Gemini] AI 生成的研究笔记，我会把“引用回查”单独当一道 review gate
-- [程序员] coding agent 的 5 个回合 vs 1 次 command_run：完整例子
-- [程序员] 想收集下大家是怎么使用 codex 这类工具开发(新/老)软件的
+- [VPS] oracle 免费 ARM 主机请及时
+- [分享创造] 少一点 LLM 来回，多一点单回合命令： Agent 做调研时更靠谱的一种思路
+- [VPS] 甲骨文正式开砍 免费额度减半
 
 **小众软件**
-- 发现频道：10款大家发现的好评软件[2026年第31期]
-- InstallerX Revived – 支持降级安装，现代安卓 APK 安装器
+- 流氓软件克星：右键菜单、自启动、计划任务、服务、浏览器插件、文件关联残留
+- Windows 10 默认壁纸，原来和 XP 壁纸一样都来自真实世界
 
 **爱范儿**
-- 实测千问办公：阿里这个 AI 专家，真的能帮你带货
-- 对话卓驭 CEO 沈劭劼：汽车在被撞前 0.01 秒退出智驾肯定是不行的
+- 深度｜开源大模型的「奥本海默时刻」
+- 中国奥委会与李宁品牌联合发布了亚运会中国代表团领奖装备，背后有中国航天的技术
 
 </details>
 
@@ -39,34 +39,34 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 
 | 今年 | 本月 | 本周 | 今日 |
 |:---:|:---:|:---:|:---:|
-| 59.2% | 12.9% | 28.6% | 29.8% |
+| 59.5% | 16.1% | 42.9% | 29.7% |
 
 ## ⏰ 倒计时
-- 周末：还有 4 天
+- 周末：还有 3 天
 - 未知假期：还有 ? 天
-- 2027年元旦：还有 150 天
+- 2027年元旦：还有 149 天
 
 ## ☁️ 天气
 ```
-Changsha: 🌦️  🌡️+79°F 🌬️←3mph
+Changsha: ☁️  🌡️+76°F 🌬️↘8mph
 ```
 
 ## 📋 今日宜忌
-- **宜**：追剧、发呆
-- **忌**：素颜出门、早起
+- **宜**：带薪聊天、发呆
+- **忌**：看余额、立 flag
 
 ## 🔥 微博热搜 TOP5
-1. DeepSeek一天消耗了8万亿
-2. 捅死男友女子父母多次给男方父母道歉下跪
-3. 新型电力系统建设十五五规划发布
-4. 人类真的太小看自己的惰性和薄情了
-5. 邹市明已连续数月零收入
+1. 泰航拒绝20多名中国乘客登机
+2. 笔试第一称被第二名花钱劝弃考
+3. 卫星互联网低轨23组卫星发射成功
+3. 尊界时代旗舰MPV正式发布
+4. 网友将余承东头像做成竹知了
 
 ## 📼 历史上的今天
-2020年：Beirut Port explosion: At least 220 people are killed and over 5,000 are wounded when 2,700 tons of ammonium nitrate explodes in Beirut, Lebanon.
+2024年：Following the non-cooperation movement against the government of Bangladesh, Bangladeshi prime minister Sheikh Hasina resigns and flees the country, ending her rule of 15 consecutive years and a total of almost two decades. The date is also known as 36 July.
 
 ## 🍵 毒鸡汤
-> 想把西瓜最中间的一块儿，果盘里最大的一颗草莓，肉松面包上的一层肉松，蛋糕上最大的一块儿巧克力，天上最亮的一颗星，全都送给你
+> 我也不知道她是在跑向终点还是在跑进我的心，后者的话，她早就赢了。
 
 ---
-*最后更新于 2026-08-04 07:08:45*
+*最后更新于 2026-08-05 07:08:00*
