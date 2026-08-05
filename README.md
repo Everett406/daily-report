@@ -1,9 +1,9 @@
-# 📰 每日早报 2026年08月05日 周三
+# 📰 每日早报 2026年08月06日 周四
 
-> **不敢打开信封啊。因为，打开了就结束了啊。** —— 三千院凪 《旋风管家》
+> **倘若只是为了驱赶心中的寂寞，找谁都可以的。** 《秒速5厘米》
 
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.FezMorocco_ZH-CN7662339428_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-> 非斯皇宫装饰华丽的大门，摩洛哥 (© cgst26/Shutterstock)
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.MaraCrossing_ZH-CN8816902094_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+> 马赛马拉迁徙的角马群横渡马拉河, 肯尼亚 (© Manoj Shah/Getty Images)
 
 ## 📡 RSS 资讯摘要
 
@@ -13,25 +13,25 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 <summary>点击查看原始 RSS 来源</summary>
 
 **少数派**
-- 敬畏热度、保持热情：如何在夏季坚持跑步
-- 家庭饮品 DIY 指南（三）：常用固体物料推荐
+- 196 张盗版碟，和我的游戏启蒙史
+- Bookology：从藏书到笔记，打造你的私人阅读档案
 
 **阮一峰的网络日志**
 - 科技爱好者周刊（第 406 期）：道可，道非，常道
 - 科技爱好者周刊（第 405 期）：资源，社会公平与算力
 
 **V2EX**
-- [VPS] oracle 免费 ARM 主机请及时
-- [分享创造] 少一点 LLM 来回，多一点单回合命令： Agent 做调研时更靠谱的一种思路
-- [VPS] 甲骨文正式开砍 免费额度减半
+- [OpenAI] 土区涨价后第二次续费还是 499， XDN 你们是吗？你们采用的什么付款方式？
+- [旅行] 哥本哈根、斯德哥尔摩、赫尔辛基十天行
+- [分享创造] [分享创造] PickZ（chrome 插件） —— 选中即翻译/总结/改写/解释的轻量 AI 悬浮助手
 
 **小众软件**
+- 抢先注册 Cloudflare 钱包：让 AI Agent 完成自动交易
 - 流氓软件克星：右键菜单、自启动、计划任务、服务、浏览器插件、文件关联残留
-- Windows 10 默认壁纸，原来和 XP 壁纸一样都来自真实世界
 
 **爱范儿**
-- 深度｜开源大模型的「奥本海默时刻」
-- 中国奥委会与李宁品牌联合发布了亚运会中国代表团领奖装备，背后有中国航天的技术
+- 华为全场景新品齐发，尊界 V800 领航版售价破百万，埃尔法们的加价生意不好做了
+- MacBook Air 快断货了，等等党不能再等了
 
 </details>
 
@@ -39,34 +39,34 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 
 | 今年 | 本月 | 本周 | 今日 |
 |:---:|:---:|:---:|:---:|
-| 59.5% | 16.1% | 42.9% | 29.7% |
+| 59.7% | 19.4% | 57.1% | 29.6% |
 
 ## ⏰ 倒计时
-- 周末：还有 3 天
+- 周末：还有 2 天
 - 未知假期：还有 ? 天
-- 2027年元旦：还有 149 天
+- 2027年元旦：还有 148 天
 
 ## ☁️ 天气
 ```
-Changsha: ☁️  🌡️+76°F 🌬️↘8mph
+Changsha: 🌫️  🌡️+76°F 🌬️↘4mph
 ```
 
 ## 📋 今日宜忌
-- **宜**：带薪聊天、发呆
-- **忌**：看余额、立 flag
+- **宜**：睡到自然醒、吃火锅
+- **忌**：讲道理、早起
 
 ## 🔥 微博热搜 TOP5
-1. 泰航拒绝20多名中国乘客登机
-2. 笔试第一称被第二名花钱劝弃考
-3. 卫星互联网低轨23组卫星发射成功
-3. 尊界时代旗舰MPV正式发布
-4. 网友将余承东头像做成竹知了
+1. 梅姨真实姓名首曝光
+2. 李亚鹏向地铁吐血女孩捐99999元
+3. 预拨3.3亿元支持8省市抢险救灾
+3. 享界G9预售43.98万起
+4. 老祖宗怎么可以聪明成这样
 
 ## 📼 历史上的今天
-2024年：Following the non-cooperation movement against the government of Bangladesh, Bangladeshi prime minister Sheikh Hasina resigns and flees the country, ending her rule of 15 consecutive years and a total of almost two decades. The date is also known as 36 July.
+2015年：A suicide bomb attack kills at least 15 people at a mosque in the Saudi city of Abha.
 
 ## 🍵 毒鸡汤
-> 我也不知道她是在跑向终点还是在跑进我的心，后者的话，她早就赢了。
+> 身似浮云，心如飞絮，气若游丝，空一缕馀香在此，盼千金游子何之。
 
 ---
-*最后更新于 2026-08-05 07:08:00*
+*最后更新于 2026-08-06 07:05:55*
