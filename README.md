@@ -1,9 +1,9 @@
-# 📰 每日早报 2026年08月07日 周五
+# 📰 每日早报 2026年08月08日 周六
 
-> **时间是存在者的时间。** —— 海德格尔 《存在与时间》
+> **重要的不是经验，是选择。** 《蔚蓝档案》
 
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.LimeKiln_ZH-CN5664152522_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-> 圣胡安岛石灰窑灯塔，华盛顿州，美国 (© Edmund Lowe Photography/Shutterstock)
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.StocktonInfinity_ZH-CN5941379745_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+> 蒂斯河畔斯托克顿无限桥，英格兰 (© Bahadir Yeniceri/Shutterstock)
 
 ## 📡 RSS 资讯摘要
 
@@ -13,25 +13,25 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 <summary>点击查看原始 RSS 来源</summary>
 
 **少数派**
-- 新玩意 248｜少数派的编辑们最近买了啥？
-- TDS REVIEW | vivo TWS 5 Pro 降噪真无线耳机体验
+- 本周看什么 | 最近值得一看的 10 部作品
+- [限时优惠] 数据分析：用好 Excel 中的数据透视表
 
 **阮一峰的网络日志**
 - 科技爱好者周刊（第 407 期）：国家为什么需要开源软件？
 - 科技爱好者周刊（第 406 期）：道可，道非，常道
 
 **V2EX**
-- [生活] 独居居家办公一般吃什么？
-- [分享创造] 兄弟们，我做了一个壁纸网站 - 青山
-- [分享发现] 个人心得 cwcode + deepseek V4 flash 0731 >= Claude code + Opus 4.8
+- [程序员] 如何 vibe 成本那么低，什么才是护城河？或者我们需要护城河吗？
+- [分享创造] [分享创造] 给没有显卡的棋友：一个可直接接 KaTrain 的云端 KataGo 服务
+- [问与答] dsv4 flash vs k3
 
 **小众软件**
-- 微软：人工智能初学者课程，一共12周、24节课
-- NIGHTRUN – 无需操作系统，用 U 盘启动的的本地大模型客户端
+- 黑客的第一课：Linux 基础课程中文译本来了，都能看懂
+- 本周赛博领鸡蛋（8.7~8.13）：《Beacon Pines》、《我们曾在这里》、《巴别号漫游指南》
 
 **爱范儿**
-- 早报｜OpenAI首款音箱细节曝光:主打「有生命感」的交互/DeepSeek预告将大幅涨价/Switch 2累计销量达2368万台
-- Wan 3.0 有了自己的镜头美学
+- 最后一辆 W16 布加迪，成为了拥有 1600 马力的艺术品
+- 在 ChinaJoy ，我看到了第一台「科技潮玩」机器人
 
 </details>
 
@@ -39,34 +39,34 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 
 | 今年 | 本月 | 本周 | 今日 |
 |:---:|:---:|:---:|:---:|
-| 60.0% | 22.6% | 71.4% | 39.6% |
+| 60.3% | 25.8% | 85.7% | 28.0% |
 
 ## ⏰ 倒计时
-- 周末：还有 1 天
+- 周末：今天就是周六！
 - 未知假期：还有 ? 天
-- 2027年元旦：还有 147 天
+- 2027年元旦：还有 146 天
 
 ## ☁️ 天气
 ```
-Changsha: 🌤️  🌡️+84°F 🌬️↘9mph
+Changsha: ☀️  🌡️+80°F 🌬️↘9mph
 ```
 
 ## 📋 今日宜忌
-- **宜**：摸鱼、睡到自然醒
-- **忌**：早起、做重大决定
+- **宜**：带薪聊天、摸鱼
+- **忌**：早起、看余额
 
 ## 🔥 微博热搜 TOP5
-1. 央视网评银行午休
-2. 粉笔公告自曝决策失误
-3. 买火车票新增新生预约功能
-3. 上美团外卖第一时间喝到秋奶
-4. 立秋
+1. 原来戴泳帽真的会影响颜值
+2. 胡彦斌歌王
+3. 6组数据看我国外贸延续良好增长态势
+4. 歌手总决赛 孙燕姿吴青峰太伟大了
+5. 看完鸟类正脸秒懂证件照
 
 ## 📼 历史上的今天
-2020年：Air India Express Flight 1344 overshoots the runway at Calicut International Airport in the Malappuram district of Kerala, India, and crashes, killing 21 of the 190 people on board.
+2024年：Nobel laureate Muhammad Yunus takes oath as Chief Adviser to form an interim government in Bangladesh.
 
 ## 🍵 毒鸡汤
-> 你长得像我家一个亲戚，我妈的儿媳妇
+> 满天星辰，抵不过你看我的一眼
 
 ---
-*最后更新于 2026-08-07 09:30:58*
+*最后更新于 2026-08-08 06:42:44*
