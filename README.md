@@ -1,9 +1,9 @@
-# 📰 每日早报 2026年08月06日 周四
+# 📰 每日早报 2026年08月07日 周五
 
-> **倘若只是为了驱赶心中的寂寞，找谁都可以的。** 《秒速5厘米》
+> **时间是存在者的时间。** —— 海德格尔 《存在与时间》
 
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.MaraCrossing_ZH-CN8816902094_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-> 马赛马拉迁徙的角马群横渡马拉河, 肯尼亚 (© Manoj Shah/Getty Images)
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.LimeKiln_ZH-CN5664152522_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+> 圣胡安岛石灰窑灯塔，华盛顿州，美国 (© Edmund Lowe Photography/Shutterstock)
 
 ## 📡 RSS 资讯摘要
 
@@ -13,25 +13,25 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 <summary>点击查看原始 RSS 来源</summary>
 
 **少数派**
-- 196 张盗版碟，和我的游戏启蒙史
-- Bookology：从藏书到笔记，打造你的私人阅读档案
+- 新玩意 248｜少数派的编辑们最近买了啥？
+- TDS REVIEW | vivo TWS 5 Pro 降噪真无线耳机体验
 
 **阮一峰的网络日志**
+- 科技爱好者周刊（第 407 期）：国家为什么需要开源软件？
 - 科技爱好者周刊（第 406 期）：道可，道非，常道
-- 科技爱好者周刊（第 405 期）：资源，社会公平与算力
 
 **V2EX**
-- [OpenAI] 土区涨价后第二次续费还是 499， XDN 你们是吗？你们采用的什么付款方式？
-- [旅行] 哥本哈根、斯德哥尔摩、赫尔辛基十天行
-- [分享创造] [分享创造] PickZ（chrome 插件） —— 选中即翻译/总结/改写/解释的轻量 AI 悬浮助手
+- [生活] 独居居家办公一般吃什么？
+- [分享创造] 兄弟们，我做了一个壁纸网站 - 青山
+- [分享发现] 个人心得 cwcode + deepseek V4 flash 0731 >= Claude code + Opus 4.8
 
 **小众软件**
-- 抢先注册 Cloudflare 钱包：让 AI Agent 完成自动交易
-- 流氓软件克星：右键菜单、自启动、计划任务、服务、浏览器插件、文件关联残留
+- 微软：人工智能初学者课程，一共12周、24节课
+- NIGHTRUN – 无需操作系统，用 U 盘启动的的本地大模型客户端
 
 **爱范儿**
-- 华为全场景新品齐发，尊界 V800 领航版售价破百万，埃尔法们的加价生意不好做了
-- MacBook Air 快断货了，等等党不能再等了
+- 早报｜OpenAI首款音箱细节曝光:主打「有生命感」的交互/DeepSeek预告将大幅涨价/Switch 2累计销量达2368万台
+- Wan 3.0 有了自己的镜头美学
 
 </details>
 
@@ -39,34 +39,34 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 
 | 今年 | 本月 | 本周 | 今日 |
 |:---:|:---:|:---:|:---:|
-| 59.7% | 19.4% | 57.1% | 29.6% |
+| 60.0% | 22.6% | 71.4% | 39.6% |
 
 ## ⏰ 倒计时
-- 周末：还有 2 天
+- 周末：还有 1 天
 - 未知假期：还有 ? 天
-- 2027年元旦：还有 148 天
+- 2027年元旦：还有 147 天
 
 ## ☁️ 天气
 ```
-Changsha: 🌫️  🌡️+76°F 🌬️↘4mph
+Changsha: 🌤️  🌡️+84°F 🌬️↘9mph
 ```
 
 ## 📋 今日宜忌
-- **宜**：睡到自然醒、吃火锅
-- **忌**：讲道理、早起
+- **宜**：摸鱼、睡到自然醒
+- **忌**：早起、做重大决定
 
 ## 🔥 微博热搜 TOP5
-1. 梅姨真实姓名首曝光
-2. 李亚鹏向地铁吐血女孩捐99999元
-3. 预拨3.3亿元支持8省市抢险救灾
-3. 享界G9预售43.98万起
-4. 老祖宗怎么可以聪明成这样
+1. 央视网评银行午休
+2. 粉笔公告自曝决策失误
+3. 买火车票新增新生预约功能
+3. 上美团外卖第一时间喝到秋奶
+4. 立秋
 
 ## 📼 历史上的今天
-2015年：A suicide bomb attack kills at least 15 people at a mosque in the Saudi city of Abha.
+2020年：Air India Express Flight 1344 overshoots the runway at Calicut International Airport in the Malappuram district of Kerala, India, and crashes, killing 21 of the 190 people on board.
 
 ## 🍵 毒鸡汤
-> 身似浮云，心如飞絮，气若游丝，空一缕馀香在此，盼千金游子何之。
+> 你长得像我家一个亲戚，我妈的儿媳妇
 
 ---
-*最后更新于 2026-08-06 07:05:55*
+*最后更新于 2026-08-07 09:30:58*
