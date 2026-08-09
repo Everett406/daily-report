@@ -1,9 +1,9 @@
-# 📰 每日早报 2026年08月09日 周日
+# 📰 每日早报 2026年08月10日 周一
 
-> **把人生苦乐，活通透。** —— 王健美 《山风山风等等我》
+> **可怜之人必有可恨之处，可恨之人必有可悲之苦。** 《民间俗语》
 
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.JMTjibaou_ZH-CN6992670356_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-> 让-马里·吉巴乌文化中心，新喀里多尼亚 (© Fabien Astre/Alamy)
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.SandPath_ZH-CN7820825668_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+> 约书亚树国家公园，加利福尼亚州，美国 (© JJ Landscapes/Getty Images)
 
 ## 📡 RSS 资讯摘要
 
@@ -13,21 +13,21 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 <summary>点击查看原始 RSS 来源</summary>
 
 **少数派**
+- 我做了一个 Quote/0 看板，把 F1 赛程、积分和结果留在桌面
 - 就内容创作而言，说话还是替代不了打字
-- 本周看什么 | 最近值得一看的 10 部作品
 
 **阮一峰的网络日志**
 - 科技爱好者周刊（第 407 期）：国家为什么需要开源软件？
 - 科技爱好者周刊（第 406 期）：道可，道非，常道
 
 **V2EX**
-- [全球工单系统] UU 远程更新遗留历史程序文件占用 C 盘空间
-- [OpenAI] 别急着 羊毛了，先看看 mirasim 的隐私协议
-- [OpenAI] 起来薅羊毛了。
+- [程序员] 现在装个电脑真的贵的离谱啊.
+- [推广] ModelGate.app 上线 Claude Opus 5 & Fable 5｜ Claude 0.28 倍率， GPT / Gemini 0.18 倍率
+- [推广] SuperGrok 标准版和 Heavy 到底怎么选？我现在反而不建议一上来就买最高档
 
 **小众软件**
+- Windows 11 最近悄悄安装了OneDrive照片，还不能卸载？
 - 让网页视频也能投到电视上播放：Castor
-- SepiaPod – 25年前 iPod Classic 复古音乐播放器，iPhone 限免
 
 **爱范儿**
 - 早报｜微信上线「撤回的撤回」/苹果上调多款设备以旧换新回收价/曝字节开始预训练10万亿参数大模型
@@ -39,34 +39,34 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 
 | 今年 | 本月 | 本周 | 今日 |
 |:---:|:---:|:---:|:---:|
-| 60.5% | 29.0% | 100.0% | 27.4% |
+| 60.8% | 32.3% | 14.3% | 27.6% |
 
 ## ⏰ 倒计时
-- 周末：还有 6 天
+- 周末：还有 5 天
 - 未知假期：还有 ? 天
-- 2027年元旦：还有 145 天
+- 2027年元旦：还有 144 天
 
 ## ☁️ 天气
 ```
-Changsha: 🌤️  🌡️+77°F 🌬️↘11mph
+Changsha: 🌤️  🌡️+75°F 🌬️↘16mph
 ```
 
 ## 📋 今日宜忌
-- **宜**：喝奶茶、逛公园
-- **忌**：开会、加班
+- **宜**：睡到自然醒、摸鱼
+- **忌**：早起、开会
 
 ## 🔥 微博热搜 TOP5
-1. 台风白海豚
-2. 只有小时候发烧才有这种感觉
-3. 本周这些数据最值得关注
-4. 长期穿碳板鞋的受害者出现了
-5. 发现父母开始看自己脸色了
+1. 白海豚快速减弱
+2. 上海地铁停运
+3. 中国制造硬核瞬间
+4. 沈腾 影帝
+5. 百花奖
 
 ## 📼 历史上的今天
-2024年：Voepass Linhas Aéreas Flight 2283 crashes near Vinhedo, São Paulo, killing all 62 people on board.
+2024年：  Israel strikes Al-Tabaeen school in eastern Gaza City, killing at least 80 Palestinians.
 
 ## 🍵 毒鸡汤
-> 别人睡不着数星星数羊，可我只想数你
+> 因为有你，所以有了后来
 
 ---
-*最后更新于 2026-08-09 06:35:16*
+*最后更新于 2026-08-10 06:36:55*
