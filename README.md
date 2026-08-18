@@ -1,9 +1,9 @@
-# 📰 每日早报 2026年08月18日 周二
+# 📰 每日早报 2026年08月19日 周三
 
-> **总会有始料不及的运气和忽如其来的惊喜！** —— 佚名 《互联网》
+> **人生总是那么痛苦吗?还是只有小时候是这样?** —— 玛蒂达 《这个杀手不太冷》
 
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.Palmanova_ZH-CN0378401592_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-> 弗留利要塞城市帕尔马诺瓦航拍图，意大利 (© Riccardo Saponi/Getty Images)
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.WhyteCliffP_ZH-CN0573407830_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+> 怀特克利夫公园，西温哥华，加拿大 (© Aolin Chen/Getty Images)
 
 ## 📡 RSS 资讯摘要
 
@@ -13,25 +13,25 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 <summary>点击查看原始 RSS 来源</summary>
 
 **少数派**
-- 派评 | 近期值得关注的 App
-- 分享我知识管理 12 年来最重要的经验：INL 结构
+- 社区速递 154 | AI 代码助手大乱斗、租房电钻组合与神奇实体卡片故事机
+- 线下活动 | 爵士律动唤醒动漫回忆：炒饭 Fried Rice 音乐分享签售会
 
 **阮一峰的网络日志**
 - 科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识
 - 科技爱好者周刊（第 407 期）：国家为什么需要开源软件？
 
 **V2EX**
-- [Claude] i-have-adhd 这个 skills 真爽，建议常驻
-- [问与答] Codex 登录问题，提示 Sign-in could not be completed
-- [程序员] 半夜睡不着吐槽一下，不知道为啥越来越写不出提示词了
+- [微信] 有使用腾讯身份认证器微信小程序的吗
+- [分享创造] DSH 插件-把回复第一行对齐到页面顶部
+- [Claude] Claude Code 周限额明天开始就要减 1/3 了
 
 **小众软件**
-- 在 Windows 上运行 Linux 到底有多简单？
-- 发现频道：10款大家发现的好评软件[2026年第33期]
+- 让 Al Agent 看懂所有文档：将任何文档转换为统一的 Markdown 格式
+- Flow – 在线开源 ePub 阅读器｜如何制作 ePub 格式电子书
 
 **爱范儿**
-- 22.39 万元起，岚图追光 S 上市，大回环是噱头，运动底盘才是正题
-- 《牛来》爆火之后，我更理解为什么 AI 视频需要自己的 Blender
+- 网易传媒发布了「蜜蜂AI」 ：想探索 AI 与年轻化社区的新连接
+- 一台诞生于 AI 时代的电脑，该是什么样？
 
 </details>
 
@@ -39,34 +39,34 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 
 | 今年 | 本月 | 本周 | 今日 |
 |:---:|:---:|:---:|:---:|
-| 63.0% | 58.1% | 28.6% | 27.1% |
+| 63.3% | 61.3% | 42.9% | 27.0% |
 
 ## ⏰ 倒计时
-- 周末：还有 4 天
+- 周末：还有 3 天
 - 未知假期：还有 ? 天
-- 2027年元旦：还有 136 天
+- 2027年元旦：还有 135 天
 
 ## ☁️ 天气
 ```
-Changsha: 🌫️  🌡️+76°F 🌬️↘5mph
+Changsha: 🌫️  🌡️+77°F 🌬️↓6mph
 ```
 
 ## 📋 今日宜忌
-- **宜**：睡到自然醒、喝奶茶
-- **忌**：素颜出门、做重大决定
+- **宜**：买刮刮乐、逛公园
+- **忌**：立 flag、看余额
 
 ## 🔥 微博热搜 TOP5
-1. 多方回应女子杭州酒局遭伤害
-2. 大批AI博主停更了
-3. 前7个月国民经济总体平稳向新向优
-4. 榴莲价格彻底崩了
-5. 曹骏初舞台人气票数倒挂
+1. 朱镕基同志生平
+2. 七夕
+3. 9部门发文活跃县域消费
+3. 启境GX7首发一键纯平大床
+4. 做事千万不要有状态洁癖
 
 ## 📼 历史上的今天
-2019年：One hundred activists, officials, and other concerned citizens in Iceland hold a funeral for Okjökull glacier, which has completely melted after having once covered six square miles (15.5 km2).
+2017年：Tens of thousands of farmed non-native Atlantic salmon are accidentally released into the wild in Washington waters in the 2017 Cypress Island Atlantic salmon pen break.
 
 ## 🍵 毒鸡汤
-> 更好的有很多很多，但刚刚好的只有你一个
+> 我要做你床头的小熊 为你打败梦里的恶龙
 
 ---
-*最后更新于 2026-08-18 06:29:44*
+*最后更新于 2026-08-19 06:29:33*
