@@ -1,9 +1,9 @@
-# 📰 每日早报 2026年08月19日 周三
+# 📰 每日早报 2026年08月20日 周四
 
-> **人生总是那么痛苦吗?还是只有小时候是这样?** —— 玛蒂达 《这个杀手不太冷》
+> **好好学习，天天向上。** —— 毛泽东 《毛主席语录》
 
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.WhyteCliffP_ZH-CN0573407830_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-> 怀特克利夫公园，西温哥华，加拿大 (© Aolin Chen/Getty Images)
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.LynnCanalOrca_ZH-CN0719217908_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+> 林恩运河中浮出水面的虎鲸，奇尔卡特山脉附近，阿拉斯加州，美国 (© John Hyde/Alamy)
 
 ## 📡 RSS 资讯摘要
 
@@ -13,25 +13,25 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 <summary>点击查看原始 RSS 来源</summary>
 
 **少数派**
-- 社区速递 154 | AI 代码助手大乱斗、租房电钻组合与神奇实体卡片故事机
-- 线下活动 | 爵士律动唤醒动漫回忆：炒饭 Fried Rice 音乐分享签售会
+- iOS 27 测试版近期动向，还有 Apple 产品新消息
+- 《控制》新作体验：新怪谈游戏的祖师爷，又杀回来了
 
 **阮一峰的网络日志**
 - 科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识
 - 科技爱好者周刊（第 407 期）：国家为什么需要开源软件？
 
 **V2EX**
-- [微信] 有使用腾讯身份认证器微信小程序的吗
-- [分享创造] DSH 插件-把回复第一行对齐到页面顶部
-- [Claude] Claude Code 周限额明天开始就要减 1/3 了
+- [投资] 盈透发来年度账户信息更新邮件
+- [职场话题] 离职、换公司、转入临近赛道！
+- [程序员] Picot（Pi agent GUI）
 
 **小众软件**
+- 史前动物博物馆：和孩子一起看双语 3D 小博物馆，18 只恐龙
 - 让 Al Agent 看懂所有文档：将任何文档转换为统一的 Markdown 格式
-- Flow – 在线开源 ePub 阅读器｜如何制作 ePub 格式电子书
 
 **爱范儿**
-- 网易传媒发布了「蜜蜂AI」 ：想探索 AI 与年轻化社区的新连接
-- 一台诞生于 AI 时代的电脑，该是什么样？
+- 预售 21.99 万元起，全新一代智己 L6 把全线控底盘带进 20 万级，还有一个高定限量版
+- 制糖工厂发布「绿魔」细雳线 Pro：2m 主动式高速贴贴线，重塑专业体验
 
 </details>
 
@@ -39,34 +39,34 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 
 | 今年 | 本月 | 本周 | 今日 |
 |:---:|:---:|:---:|:---:|
-| 63.3% | 61.3% | 42.9% | 27.0% |
+| 63.6% | 64.5% | 57.1% | 27.1% |
 
 ## ⏰ 倒计时
-- 周末：还有 3 天
+- 周末：还有 2 天
 - 未知假期：还有 ? 天
-- 2027年元旦：还有 135 天
+- 2027年元旦：还有 134 天
 
 ## ☁️ 天气
 ```
-Changsha: 🌫️  🌡️+77°F 🌬️↓6mph
+Changsha: ☁️  🌡️+76°F 🌬️↘9mph
 ```
 
 ## 📋 今日宜忌
-- **宜**：买刮刮乐、逛公园
-- **忌**：立 flag、看余额
+- **宜**：买刮刮乐、追剧
+- **忌**：讲道理、素颜出门
 
 ## 🔥 微博热搜 TOP5
-1. 朱镕基同志生平
-2. 七夕
-3. 9部门发文活跃县域消费
-3. 启境GX7首发一键纯平大床
-4. 做事千万不要有状态洁癖
+1. 12306回应买票占座放零食这座位能让吗
+2. 女子凌晨倒掉24瓶爱心水被拍下
+3. 这6张网与你我生活息息相关
+4. 空枪 李嘉诚儿子绑架案
+5. 难怪瘦的时候容易觉得疼
 
 ## 📼 历史上的今天
-2017年：Tens of thousands of farmed non-native Atlantic salmon are accidentally released into the wild in Washington waters in the 2017 Cypress Island Atlantic salmon pen break.
+2020年：Joe Biden gives his acceptance speech virtually for the 2020 Democratic presidential nomination at the 2020 Democratic National Convention.
 
 ## 🍵 毒鸡汤
-> 我要做你床头的小熊 为你打败梦里的恶龙
+> 人间真的太大了，我探头看了一下，最后还是乖乖缩回你心间里了
 
 ---
-*最后更新于 2026-08-19 06:29:33*
+*最后更新于 2026-08-20 06:29:56*
