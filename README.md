@@ -1,9 +1,9 @@
-# 📰 每日早报 2026年08月22日 周六
+# 📰 每日早报 2026年08月23日 周日
 
-> **月落溪水泛几层 思绪千万种，只叹情深难逃宿命。** —— 蓝乐 《几度秋》
+> **冰雪不曾怀有怜悯。** —— 圣聆初雪 《明日方舟》
 
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.CommonBlue_ZH-CN8521430009_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-> 普通蓝灰蝶，德文郡，英格兰 (© Ross Hoddinott/Nature Picture Library)
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.EndofHeatY26_ZH-CN8936468848_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+> 在处暑时节的村庄田野与寺庙佛塔，江阴市，江苏省，中国 (© jia yu/Getty Images)
 
 ## 📡 RSS 资讯摘要
 
@@ -13,25 +13,25 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 <summary>点击查看原始 RSS 来源</summary>
 
 **少数派**
+- 线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展
 - 本周看什么 | 最近值得一看的 10 部作品
-- TDS REVIEW | Nothing Ear (3a) 降噪真无线耳机体验
 
 **阮一峰的网络日志**
 - 科技爱好者周刊（第 409 期）：程序员的职业未来
 - 科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识
 
 **V2EX**
-- [问与答] 扫拖机器人 哪款比较好？
-- [Claude Code] CLAUDE_CODE_THRIFTY_SONIC=0
-- [问与答] 求推荐 MP3：开机自动连接上次配对过的蓝牙耳机
+- [问与答] 客户托管 2696v4 128g v100 32g*2 跑生图模型 性能咋样？
+- [开源软件] [开源]我做了个还算不成熟的内容聚合社区 Atoman，欢迎体验
+- [程序员] Windows 下 Agents 并行开发的环境配置建议
 
 **小众软件**
+- Windows 11 时间点还原默认开启，真后悔药：可恢复系统与用户文件数据
 - 26/27 英超赛程日历，临时上线！
-- 本周赛博领鸡蛋（8.21~8.27）：《卡牌末日》《阿尔比恩在线》《沙漠房车漫游》
 
 **爱范儿**
-- 19.68 万元起，华为乾崑双智上车，全新深蓝 G318 想从山野开回城市
-- 捷尼赛思 GV90 正式亮相，全尺寸对开门量产，比劳斯莱斯更激进
+- Windows 是 AI PC 路上的绊脚石
+- 早报｜摄像头AirPods或配备拍摄指示灯/问界儿童车售价1.58万元/LV否认「起诉国家知识产权局遭驳回」
 
 </details>
 
@@ -39,34 +39,34 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 
 | 今年 | 本月 | 本周 | 今日 |
 |:---:|:---:|:---:|:---:|
-| 64.1% | 71.0% | 85.7% | 27.1% |
+| 64.4% | 74.2% | 100.0% | 26.9% |
 
 ## ⏰ 倒计时
-- 周末：今天就是周六！
+- 周末：还有 6 天
 - 未知假期：还有 ? 天
-- 2027年元旦：还有 132 天
+- 2027年元旦：还有 131 天
 
 ## ☁️ 天气
 ```
-Changsha: 🌫️  🌡️+77°F 🌬️↘8mph
+Changsha: ☁️  🌡️+77°F 🌬️↘9mph
 ```
 
 ## 📋 今日宜忌
-- **宜**：带薪聊天、喝奶茶
-- **忌**：看余额、素颜出门
+- **宜**：买刮刮乐、发呆
+- **忌**：回领导消息、开会
 
 ## 🔥 微博热搜 TOP5
-1. 官方通报旅客买票占座放零食事件
-2. 世界杯决赛禁赛处罚出炉
-3. 多元消费场景激发经济澎湃活力
-3. 捷途旅行者7双车开启小订
-4. 张丹丹 灵活就业本身就是一种福利
+1. 人民日报谈火车零食占座
+2. 披荆斩棘淘汰
+3. 世界人形机器人运动会亮点
+3. 沈腾范丞丞胡先煦的新乐事来了
+4. 桃酥是没有一滴水的
 
 ## 📼 历史上的今天
-2012年：Ethnic clashes over grazing rights for cattle in Kenya's Tana River District result in more than 52 deaths.
+2023年：A business jet carrying key leadership members of the Russian private military company Wagner Group crashes, killing all ten people on board.
 
 ## 🍵 毒鸡汤
-> 你眼中有星海浩渺，山河千里。而我眼中有你。
+> 生活本苦涩，皆因你而甜
 
 ---
-*最后更新于 2026-08-22 06:30:12*
+*最后更新于 2026-08-23 06:27:31*
