@@ -1,9 +1,9 @@
-# 📰 每日早报 2026年08月24日 周一
+# 📰 每日早报 2026年08月25日 周二
 
-> **火车是往前开的，去哪并不重要，重要的是窗外的风景。** —— 吕子乔 《爱情公寓》
+> **愿为西南风，长逝入君怀。** —— 曹植 《明月上高楼》
 
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.BKBridge_ZH-CN3870511222_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-> 布鲁克林大桥，纽约市，美国 (© shayes17/Getty Images)
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.RedwoodPark_ZH-CN9513051062_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+> 红木国家与州立公园的日出，加利福尼亚州，美国 (© HadelProductions/Getty Images)
 
 ## 📡 RSS 资讯摘要
 
@@ -13,25 +13,25 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 <summary>点击查看原始 RSS 来源</summary>
 
 **少数派**
-- AI 时代的 Surface Pro 7 改造指南：看板、轻量工作站与 Linux 笔记本
-- 让 PC 与 HomePod 互联：音频串流工具 WinAirCast
+- 派评 | 近期值得关注的 App
+- Windows On ARM 原生应用少？你可以试试这些改造方法
 
 **阮一峰的网络日志**
 - 科技爱好者周刊（第 409 期）：程序员的职业未来
 - 科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识
 
 **V2EX**
-- [分享创造] 做了个小工具：让 iTerm2 tab 跟随 Claude Code / Codex 状态自动变色
-- [分享创造] KimiCodeBar Windows 版：在系统托盘盯着 Kimi Code 的额度，快烧完图标会变红（安装包 4MB）
-- [分享发现] 智谱免费一个月龙虾,快来养虾！
+- [酷工作] go 高级开发工程师 工作地点上海五角场
+- [酷工作] 海外 BD-湾区 Sunnyvale， base 在上海来湾区出差也可（但要有这边客户资源）
+- [分享发现] Openai 成功打击中转站 MVP 结算画面（新链接）
 
 **小众软件**
+- 发现频道：10款大家发现的好评软件[2026年第34期]
 - Menuist：让 Mac 右键菜单更好用
-- ntfsmac – 适用于苹果 M 芯片，开源 NTFS 读写工具（无需内核扩展或SIP修改)
 
 **爱范儿**
-- AI 即将接管流量，而广告正在疯狂「末日反扑」
-- Windows 是 AI PC 路上的绊脚石
+- 折叠 iPhone 细节曝光，苹果想折叠的不只是屏幕
+- 小米发布玄戒 AI 芯片「全家桶」，还官宣了小米「阔折叠」
 
 </details>
 
@@ -39,34 +39,34 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 
 | 今年 | 本月 | 本周 | 今日 |
 |:---:|:---:|:---:|:---:|
-| 64.7% | 77.4% | 14.3% | 26.9% |
+| 64.9% | 80.6% | 28.6% | 27.2% |
 
 ## ⏰ 倒计时
-- 周末：还有 5 天
+- 周末：还有 4 天
 - 未知假期：还有 ? 天
-- 2027年元旦：还有 130 天
+- 2027年元旦：还有 129 天
 
 ## ☁️ 天气
 ```
-Changsha: ☁️  🌡️+76°F 🌬️↘10mph
+获取失败: HTTP Error 500: Internal Server Error
 ```
 
 ## 📋 今日宜忌
-- **宜**：买刮刮乐、睡到自然醒
-- **忌**：开会、讲道理
+- **宜**：喝奶茶、吃火锅
+- **忌**：看余额、早起
 
 ## 🔥 微博热搜 TOP5
-1. 亲密关系和婚育制度绑定太深
-2. 买票占座规则明确了然后呢
-3. 2万件中央救灾物资支持广西
-3. 支付宝答题全国统考正式开始
-4. 张韶涵演唱会突发心脏不适
+1. 官方确认帮扶老人遭索赔店主不担责
+2. 穷人到哪儿旅游都像回家了
+3. 中国智造这样点亮未来
+4. 湖北长阳通报韩红基金会救护车
+5. 郭二娃死刑
 
 ## 📼 历史上的今天
-2023年：Japan officially begins discharging treated radioactive water from the Fukushima Daiichi Nuclear Power Plant into the Pacific Ocean, sparking international concerns and condemnation.
+2017年：Conflict in Rakhine State (2016-present): One hundred seventy people are killed in at least 26 separate attacks carried out by the Arakan Rohingya Salvation Army, leading to the governments of Myanmar and Malaysia designating the group as a terrorist organisation.
 
 ## 🍵 毒鸡汤
-> 你特别好，我喜欢你。
+> 这个夏天，我有了喜欢的人♡
 
 ---
-*最后更新于 2026-08-24 06:27:37*
+*最后更新于 2026-08-25 06:32:09*
