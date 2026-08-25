@@ -1,9 +1,9 @@
-# 📰 每日早报 2026年08月25日 周二
+# 📰 每日早报 2026年08月26日 周三
 
-> **愿为西南风，长逝入君怀。** —— 曹植 《明月上高楼》
+> **没有什么背叛，只不过是忠诚过期了而已。** —— 帕洛斯 《凹凸世界》
 
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.RedwoodPark_ZH-CN9513051062_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-> 红木国家与州立公园的日出，加利福尼亚州，美国 (© HadelProductions/Getty Images)
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.AurorasIceland_ZH-CN9781322454_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+> 基尔丘山上空的极光，冰岛 (© Cavan Images/Alamy)
 
 ## 📡 RSS 资讯摘要
 
@@ -13,25 +13,25 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 <summary>点击查看原始 RSS 来源</summary>
 
 **少数派**
-- 派评 | 近期值得关注的 App
-- Windows On ARM 原生应用少？你可以试试这些改造方法
+- 社区速递 155 | 适马千元人像神头与七月派友剁手清单
+- 台湾打工换宿｜用人与人的喜好串起淡水的地图
 
 **阮一峰的网络日志**
 - 科技爱好者周刊（第 409 期）：程序员的职业未来
 - 科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识
 
 **V2EX**
-- [酷工作] go 高级开发工程师 工作地点上海五角场
-- [酷工作] 海外 BD-湾区 Sunnyvale， base 在上海来湾区出差也可（但要有这边客户资源）
-- [分享发现] Openai 成功打击中转站 MVP 结算画面（新链接）
+- [宽带症候群] 陕西电信宽带被白名单限速症状
+- [OpenAI] Tibo 今天重置后，增加了 5 小时限额，这算是给个甜枣再敲你一棒
+- [宽带症候群] 花了好几天让 ai 帮我把旧安卓手机改造成了软路由！
 
 **小众软件**
+- 电脑用久了，到底会留下多少没用的东西？
 - 发现频道：10款大家发现的好评软件[2026年第34期]
-- Menuist：让 Mac 右键菜单更好用
 
 **爱范儿**
-- 折叠 iPhone 细节曝光，苹果想折叠的不只是屏幕
-- 小米发布玄戒 AI 芯片「全家桶」，还官宣了小米「阔折叠」
+- 27.98 万元起，泰钽 700 正式上市，越野 NOA 开上挂壁公路
+- 刚刚，新款 Mac mini 发布！价格大涨2500元，苹果第一次为 AI 造电脑
 
 </details>
 
@@ -39,34 +39,34 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 
 | 今年 | 本月 | 本周 | 今日 |
 |:---:|:---:|:---:|:---:|
-| 64.9% | 80.6% | 28.6% | 27.2% |
+| 65.2% | 83.9% | 42.9% | 27.3% |
 
 ## ⏰ 倒计时
-- 周末：还有 4 天
+- 周末：还有 3 天
 - 未知假期：还有 ? 天
-- 2027年元旦：还有 129 天
+- 2027年元旦：还有 128 天
 
 ## ☁️ 天气
 ```
-获取失败: HTTP Error 500: Internal Server Error
+Changsha: 🌦️  🌡️+78°F 🌬️↓2mph
 ```
 
 ## 📋 今日宜忌
-- **宜**：喝奶茶、吃火锅
-- **忌**：看余额、早起
+- **宜**：买刮刮乐、带薪聊天
+- **忌**：素颜出门、开会
 
 ## 🔥 微博热搜 TOP5
-1. 官方确认帮扶老人遭索赔店主不担责
-2. 穷人到哪儿旅游都像回家了
-3. 中国智造这样点亮未来
-4. 湖北长阳通报韩红基金会救护车
-5. 郭二娃死刑
+1. 过得好的人最明显的标志
+2. 杀害在韩女生嫌疑人曾自称男友报警
+3. 6张网建设进度条刷新
+4. 中国公民尽快撤离斯威士兰
+5. 刘亦菲掉提金鹰奖最佳女主
 
 ## 📼 历史上的今天
-2017年：Conflict in Rakhine State (2016-present): One hundred seventy people are killed in at least 26 separate attacks carried out by the Arakan Rohingya Salvation Army, leading to the governments of Myanmar and Malaysia designating the group as a terrorist organisation.
+2023年：Exactly 5 years after the 2018 Jacksonville Landing shooting, there is another shooting in Jacksonville, Florida, leaving 3 people dead.
 
 ## 🍵 毒鸡汤
-> 这个夏天，我有了喜欢的人♡
+> 你眼里的星星只让我一个人看，好吗？
 
 ---
-*最后更新于 2026-08-25 06:32:09*
+*最后更新于 2026-08-26 06:32:52*
