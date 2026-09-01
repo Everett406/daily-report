@@ -1,9 +1,9 @@
-# 📰 每日早报 2026年09月01日 周二
+# 📰 每日早报 2026年09月02日 周三
 
-> **看看当年那些人是否记得我们。** 《我的纸飞机》
+> **齿轮也有齿轮的志气！** —— 联邦军队长 《机动战士高达独角兽》
 
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.HorseHairShroom_ZH-CN2241458451_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-> 马鬃小皮伞，白俄罗斯 (© Máté/Nature Picture Library)
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.SuffolkHuts_ZH-CN2463818981_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+> 传统海滩小屋，索思沃尔德，萨福克遗产海岸，英格兰 (© stevendocwra/Getty Images)
 
 ## 📡 RSS 资讯摘要
 
@@ -13,25 +13,25 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 <summary>点击查看原始 RSS 来源</summary>
 
 **少数派**
-- 本月玩什么｜Big Walk、潜龙谍影 大师合辑 Vol. 2
-- 派评 | 近期值得关注的 App
+- 社区速递 156 | 满血全功能磁吸转换头与手机 AI 通话的真实体验
+- 线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会
 
 **阮一峰的网络日志**
 - 科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制
 - 科技爱好者周刊（第 409 期）：程序员的职业未来
 
 **V2EX**
-- [Mac mini] 64g 的 mac 真的有能跑能用的 ai 本地大模型么
-- [程序员] 只有国内注册的公司，海外收款用什么方案好？
-- [Codex] 大家还用 superpowers 吗？ Codex plus 里面结束一个 worktree 合并回 main 并推送，就这个简单的任务自动调用 superpowers 消耗了 7%的 5h 额度
+- [酷工作] 旧金山湾区职位： Agent Product Engineer, Full-stack
+- [问与答] 关于黄果短剧的一些想法
+- [推广] 整理了免费的大模型 API 的靠谱渠道,包括 DeepSeek V4， GLM 5.x 等 30+ 模型
 
 **小众软件**
+- 墨萃 · InkGist – 帮你处理看不完，舍不得关的标签页
 - OpenClaw 2.0 正式发布：史上规模最大的一次更新：933 位贡献者，16000 个拉取请求
-- Steam 12TB 游戏数据泄漏：横跨 10 年，大量未公开内容曝光
 
 **爱范儿**
-- 像素级抄袭小米？13 万的极狐阿尔法 T7 边翻车边庆功
-- 早报｜库克卸任苹果CEO,内部告别信曝光/《牛来》密钥延期,冲刺国庆档/网易云音乐鸿蒙版开放测试
+- 3899 元！戴森发布 AI 牙刷：有水牙线不够，还要塞个摄像头
+- 地表最强四缸守不住了！丰田 GR 硬刚 AMG，500 马力小跑车即将入场
 
 </details>
 
@@ -39,34 +39,36 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 
 | 今年 | 本月 | 本周 | 今日 |
 |:---:|:---:|:---:|:---:|
-| 66.8% | 3.3% | 28.6% | 38.2% |
+| 67.1% | 6.7% | 42.9% | 33.0% |
 
 ## ⏰ 倒计时
-- 周末：还有 4 天
+- 周末：还有 3 天
 - 未知假期：还有 ? 天
-- 2027年元旦：还有 122 天
+- 2027年元旦：还有 121 天
 
 ## ☁️ 天气
 ```
-Changsha: 🌦️  🌡️+70°F 🌬️↓13mph
+Changsha: 🌦️  🌡️+67°F 🌬️↓14mph
 ```
 
 ## 📋 今日宜忌
-- **宜**：买刮刮乐、摸鱼
-- **忌**：立 flag、素颜出门
+- **宜**：吃火锅、睡到自然醒
+- **忌**：开会、加班
 
 ## 🔥 微博热搜 TOP5
-1. 多款手机正式涨价
-2. 库克正式卸任苹果CEO
-3. 20项措施推动消费扩容升级
-3. 舞蹈新风暴封神瞬间
-4. 一个超好用的情绪控制技巧
+1. 美国银行副总裁时代广场被刺身亡
+2. 曝花少2没有母带了
+3. 吉隆口岸上游堰塞湖已完全泄洪
+4. 花少2被爆料大量未播细节
+5. 手机涨价 卖不动
 
 ## 📼 历史上的今天
-2008年：Iraq War: The United States Armed Forces transfers control of Anbar Province to the Iraqi Armed Forces.
+2024年：At least 129 inmates are killed and 59 more injured in an attempted prison break at Makala Prison in Kinshasa, Democratic Republic of the Congo.
 
 ## 🍵 毒鸡汤
-> 看山不是山，看海不是海，看你是我宝贝
+> 我喜欢你
+礼尚往来，
+你也得喜欢我
 
 ---
-*最后更新于 2026-09-01 09:09:34*
+*最后更新于 2026-09-02 07:54:43*
