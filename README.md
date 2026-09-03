@@ -1,9 +1,9 @@
-# 📰 每日早报 2026年09月03日 周四
+# 📰 每日早报 2026年09月04日 周五
 
-> **夜来幽梦忽还乡。小轩窗。正梳妆。相顾无言，惟有泪千行。** —— 苏轼 《江城子·乙卯正月二十日夜记梦》
+> **把温柔和心软留给值得的人。** —— 网络 《网络》
 
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.AZWilderness_ZH-CN2664566131_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-> 郊狼丘，朱红悬崖国家纪念区，亚利桑那州，美国 (© James Hager/Getty Images)
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.Westerheversand_ZH-CN0517707643_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+> 韦斯特黑弗的韦斯特黑弗桑德灯塔，石勒苏益格-荷尔斯泰因州，德国 (© bluejayphoto/Getty Images)
 
 ## 📡 RSS 资讯摘要
 
@@ -13,25 +13,25 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 <summary>点击查看原始 RSS 来源</summary>
 
 **少数派**
-- 折叠屏 iPhone、新款 HomePod…… Apple 发布会有哪些看点？
-- 一日一技 | 借助 PowerShell 自定义 Windows 更新暂停时间
+- 新玩意 251｜少数派的编辑们最近买了啥？
+- TDS REVIEW | 无印良品 MUJI 头戴式蓝牙降噪耳机体验
 
 **阮一峰的网络日志**
 - 科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制
 - 科技爱好者周刊（第 409 期）：程序员的职业未来
 
 **V2EX**
-- [酷工作] 深圳的程序员请看看，感谢；快 40 岁的 Java 大头兵，可以做全栈，有机会找到工作不
-- [分享创造] [分享创造] WebTagr — 粘贴网址， 2 秒扒出它的流量密码（免费）
-- [健身] 俺用 ChatGPT 当私教
+- [AI SaaS 产品推荐] 接了 xAI 的 Grok Imagine 生图模型，按张计费：普通 0.03 元，高质量 0.06 元
+- [OpenAI] plus 赶紧升级到 pro， 20X 赶紧改为 5X，不然亏大了
+- [OpenAI] 厉害了 Tibo 每天都送重置卡 直到 Astra 全量铺开
 
 **小众软件**
-- Cleanshot X 5.0 大更新：屏幕录制工作室模式（Studio Mode）
-- 美国服务器 VMRack 选购指南：洛杉矶机房的优势
+- Radicle – 免费去中心化代码托管，GitHub、GitLab 的替代品
+- 高性价比（廉价）SSD VPS 提供商 CloudCone 补货，最低 96 元人民币/年
 
 **爱范儿**
-- Gemini 3.8 Flash 光速发布：干活挺勤快，就是没开窍
-- 50.98 万元！新理想 MEGA 发布：前两排零重力座椅，加入后轮转向，还要推出右舵版
+- 刚刚，GPT-6 震撼发布！人类进入 AGI 大分工时代
+- 730 马力+三把锁！传祺越 7 预售 17.18 万元起
 
 </details>
 
@@ -39,34 +39,34 @@ LLM 总结失败（已重试3次）: HTTP Error 401: Unauthorized
 
 | 今年 | 本月 | 本周 | 今日 |
 |:---:|:---:|:---:|:---:|
-| 67.4% | 10.0% | 57.1% | 33.1% |
+| 67.7% | 13.3% | 71.4% | 32.9% |
 
 ## ⏰ 倒计时
-- 周末：还有 2 天
+- 周末：还有 1 天
 - 未知假期：还有 ? 天
-- 2027年元旦：还有 120 天
+- 2027年元旦：还有 119 天
 
 ## ☁️ 天气
 ```
-Changsha: 🌦️  🌡️+63°F 🌬️↘16mph
+Changsha: 🌦️  🌡️+68°F 🌬️↓15mph
 ```
 
 ## 📋 今日宜忌
-- **宜**：买刮刮乐、吃火锅
-- **忌**：看余额、称体重
+- **宜**：喝奶茶、追剧
+- **忌**：讲道理、回领导消息
 
 ## 🔥 微博热搜 TOP5
-1. 微信新功能专治各种看不见
-2. 花少8 真正意义上的纯陌生人
-3. 开局之年看山西
-4. 难怪陈意涵花少2能一直忍着不闹脾气
-5. 好讨厌需要靠争抢来的东西
+1. 郑钦文首胜普丁塞娃
+2. 人人影视变正版了
+3. 中埃两大文明双向奔赴
+3. 问界M9Ultimate展车进店
+4. 小米手环11
 
 ## 📼 历史上的今天
-2017年：North Korea conducts its sixth and most powerful nuclear test.
+2024年：A 14-year-old gunman kills four people and injures seven in a mass shooting at Apalachee High School near Winder, Georgia.
 
 ## 🍵 毒鸡汤
-> 同是万物生长的命理，为何你就这么好看
+> 我喜欢你天地可鉴，也拜托你喜欢我一点点，不要永远做个小气鬼
 
 ---
-*最后更新于 2026-09-03 07:56:44*
+*最后更新于 2026-09-04 07:53:09*
