@@ -113,10 +113,41 @@ def fetch_history():
     return None, "暂无记录"
 
 
+BROWSER_UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+              "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36")
+
+
 def fetch_news_60s(max_items=10):
-    d = req_json("https://60s.viki.moe/v2/60s", timeout=10)
-    news = d.get("data", {}).get("news", [])[:max_items]
-    return [re.sub(r"\s+", " ", n).strip() for n in news if n.strip()]
+    """多节点容灾：主站被封时自动切换镜像（Actions runner IP 常被拒）"""
+    endpoints = [
+        "https://60s.viki.moe/v2/60s",
+        "https://60s-api.viki.moe/v2/60s",
+        "https://news.topurl.cn/api",
+    ]
+    last_err = None
+    for url in endpoints:
+        try:
+            d = req_json(url, timeout=10)
+            data = d.get("data") or {}
+            news = data.get("news")
+            if not news and isinstance(data.get("newsList"), list) and data["newsList"]:
+                news = data["newsList"][0].get("news")
+            items = []
+            for n in (news or []):
+                text = n if isinstance(n, str) else (n.get("news") or n.get("title") or "")
+                text = re.sub(r"\s+", " ", text).strip()
+                if text:
+                    items.append(text)
+                if len(items) >= max_items:
+                    break
+            if items:
+                return items
+        except Exception as e:
+            last_err = e
+            print(f"[WARN] news endpoint {url}: {e}")
+    if last_err:
+        raise last_err
+    return []
 
 
 def fetch_weibo(max_items=10):
@@ -141,7 +172,7 @@ def fetch_poison():
 
 
 def fetch_holiday():
-    d = req_json("https://timor.tech/api/holiday/next")
+    d = req_json("https://timor.tech/api/holiday/next", headers={"User-Agent": BROWSER_UA})
     h = d.get("holiday") or {}
     return h.get("name") or "", h.get("rest")
 
