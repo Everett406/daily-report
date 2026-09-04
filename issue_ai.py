@@ -77,11 +77,13 @@ def main():
     with open(event_path, "r", encoding="utf-8") as f:
         event = json.load(f)
 
+    event_name = event.get("event_name", "")
     issue = event.get("issue", {})
     comment = event.get("comment")
     issue_number = issue.get("number")
     issue_title = issue.get("title", "")
     issue_body = issue.get("body") or ""
+    issue_author = issue.get("user", {}).get("login", "")
 
     if not issue_number:
         print("[SKIP] No issue number")
@@ -90,6 +92,11 @@ def main():
     # 如果是评论事件，且评论者是 bot 自己，直接退出防止循环
     if comment and comment.get("user", {}).get("login") == "github-actions[bot]":
         print("[SKIP] Bot comment, ignore to prevent loop")
+        return
+
+    # bot 自己创建的 Issue（每日早报/语录推送等）不回复，避免 AI 自言自语
+    if event_name == "issues" and issue_author == "github-actions[bot]":
+        print(f"[SKIP] Issue #{issue_number} was created by bot, ignore")
         return
 
     # 读取配置

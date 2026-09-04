@@ -15,6 +15,7 @@
     {"name": "小众软件", "url": "https://www.appinn.com/feed/", "max": 2},
     {"name": "爱范儿", "url": "https://www.ifanr.com/feed", "max": 2}
   ],
+  "news_60s": true,
   "bing_wallpaper": true,
   "hitokoto": true,
   "weather": true,

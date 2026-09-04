@@ -20,6 +20,10 @@ permissions:
   contents: write
   issues: write
 
+concurrency:
+  group: hackernews
+  cancel-in-progress: false
+
 jobs:
   generate-hn-report:
     runs-on: ubuntu-latest
@@ -50,9 +54,6 @@ jobs:
           git diff --staged --quiet || git commit -m "🚀 Hacker News 精选更新: $(date +%Y-%m-%d)"
           git push
 
-      - name: Wait for push to complete
-        run: sleep 10
-
       - name: Create Issue with summary
         if: github.event.inputs.create_issue != 'false'
         uses: actions/github-script@v7
@@ -76,16 +77,18 @@ jobs:
               }).filter(Boolean).join('\n');
             }
             
-            // 构建简洁的 Issue 内容
-            const issueBody = `## 🚀 今日 Hacker News 精选
-
-${top5Summary}
-
----
-
-📄 [查看完整报告](https://github.com/${{ github.repository }}/blob/main/HACKERNEWS.md)
-
-⏰ 更新时间: ${new Date().toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' })}`;
+            // 构建简洁的 Issue 内容（数组 join，避免 YAML 多行块问题）
+            const issueBody = [
+              '## 🚀 今日 Hacker News 精选',
+              '',
+              top5Summary,
+              '',
+              '---',
+              '',
+              `📄 [查看完整报告](https://github.com/${context.repo.owner}/${context.repo.repo}/blob/main/HACKERNEWS.md)`,
+              '',
+              `⏰ 更新时间: ${new Date().toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' })}`
+            ].join('\n');
             
             await github.rest.issues.create({
               owner: context.repo.owner,
