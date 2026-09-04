@@ -118,7 +118,30 @@ BROWSER_UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
 
 
 def fetch_news_60s(max_items=10):
-    """多节点容灾：主站被封时自动切换镜像（Actions runner IP 常被拒）"""
+    """60秒读懂世界。
+    首选 GitHub 静态数据仓库（Actions runner 上 100% 可达，viki.moe 在线 API 会 403 机房 IP）；
+    本地/国内环境再走在线 API 兜底。"""
+    now = get_bj_now()
+    # 静态仓库按北京时间日期存档，清晨更新前取昨天的
+    dates = [now.strftime("%Y-%m-%d"), (now - timedelta(days=1)).strftime("%Y-%m-%d")]
+    for ds in dates:
+        try:
+            d = req_json(f"https://raw.githubusercontent.com/vikiboss/60s-static-host/main/static/60s/{ds}.json", timeout=10)
+            news = d.get("news") or []
+            items = []
+            for n in news:
+                text = n if isinstance(n, str) else (n.get("title") or "")
+                text = re.sub(r"\s+", " ", text).strip()
+                if text:
+                    items.append(text)
+                if len(items) >= max_items:
+                    break
+            if items:
+                return items
+        except Exception as e:
+            print(f"[WARN] 60s static {ds}: {e}")
+
+    # 在线 API 兜底（本地/国内环境可用，Actions 上可能被 403）
     endpoints = [
         "https://60s.viki.moe/v2/60s",
         "https://60s-api.viki.moe/v2/60s",
