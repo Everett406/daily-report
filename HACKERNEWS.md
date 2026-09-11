@@ -1,4 +1,4 @@
-# 🚀 Hacker News 精选 | 2026年09月10日
+# 🚀 Hacker News 精选 | 2026年09月11日
 
 > 自动抓取 Hacker News Top 故事，批量翻译标题生成中文精选
 
@@ -6,25 +6,25 @@
 
 ## 🔥 热门 Top 5
 
-### 1. [iPhone Duo](https://www.apple.com/iphone-duo/)
-- **原文**: iPhone Duo
-- **来源**: apple.com | 👍 890 | 💬 1688
+### 1. [YuE2 · Frontier Music with Symbolic Planning](https://map-yue2.github.io/)
+- **原文**: YuE2 · Frontier Music with Symbolic Planning
+- **来源**: map-yue2.github.io | 👍 28 | 💬 13
 
-### 2. [Shopify acquires Tailwind](https://tailwindcss.com/blog/tailwind-is-joining-shopify)
-- **原文**: Shopify acquires Tailwind
-- **来源**: tailwindcss.com | 👍 891 | 💬 352
+### 2. [Shopify is moving from React Native back to Swift and Kotlin](https://shopify.engineering/back-to-native)
+- **原文**: Shopify is moving from React Native back to Swift and Kotlin
+- **来源**: shopify.engineering | 👍 780 | 💬 529
 
-### 3. [What do Visa and Mastercard do? An intro to card networks](https://tautology.town/2026/06/01/card-networks.html)
-- **原文**: What do Visa and Mastercard do? An intro to card networks
-- **来源**: tautology.town | 👍 372 | 💬 224
+### 3. [Google will buy half the electricity of a nuclear power plant](https://www.bbc.com/news/articles/c8r6y4me2g6o)
+- **原文**: Google will buy half the electricity of a nuclear power plant
+- **来源**: bbc.com | 👍 70 | 💬 44
 
-### 4. [AirPods 5](https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/)
-- **原文**: AirPods 5
-- **来源**: apple.com | 👍 377 | 💬 305
+### 4. [More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201)
+- **原文**: More questions about whether researchers can trust OpenAI with unpublished math
+- **来源**: mathstodon.xyz | 👍 670 | 💬 631
 
-### 5. [Growing proof that autonomous cars save lives](https://spectrum.ieee.org/are-self-driving-cars-safe)
-- **原文**: Growing proof that autonomous cars save lives
-- **来源**: spectrum.ieee.org | 👍 210 | 💬 407
+### 5. [OpenAI Agents API](https://developers.openai.com/api/docs/guides/agents-api/overview)
+- **原文**: OpenAI Agents API
+- **来源**: developers.openai.com | 👍 132 | 💬 85
 
 ---
 
@@ -32,21 +32,26 @@
 
 ### AI
 
-- [Shopify acquires Tailwind](https://tailwindcss.com/blog/tailwind-is-joining-shopify) (891👍)
-- [AirPods 5](https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/) (377👍)
-- [GPT-6 Astra, looped transformers, and hidden reasoning](https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and) (349👍)
+- [More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201) (670👍)
+- [OpenAI Agents API](https://developers.openai.com/api/docs/guides/agents-api/overview) (132👍)
+- [Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra](https://cognition.com/blog/swe-2) (353👍)
+
+### 技术
+
+- [Google will buy half the electricity of a nuclear power plant](https://www.bbc.com/news/articles/c8r6y4me2g6o) (70👍)
+- [The Deathray: A simple way for an untrusted site to freeze a Mac](https://auberon.xyz/blog/posts/deathray/) (82👍)
 
 ### 其他
 
-- [iPhone Duo](https://www.apple.com/iphone-duo/) (890👍)
-- [What do Visa and Mastercard do? An intro to card networks](https://tautology.town/2026/06/01/card-networks.html) (372👍)
-- [Growing proof that autonomous cars save lives](https://spectrum.ieee.org/are-self-driving-cars-safe) (210👍)
+- [YuE2 · Frontier Music with Symbolic Planning](https://map-yue2.github.io/) (28👍)
+- [Shopify is moving from React Native back to Swift and Kotlin](https://shopify.engineering/back-to-native) (780👍)
+- [Don't let anyone take away your big box of cables](https://blog.jim-nielsen.com/2026/hands-off-my-cables/) (328👍)
 
 ---
 
 ## 📊 统计
 
-- **抓取时间**: 2026-09-10 09:50:49
+- **抓取时间**: 2026-09-11 09:49:25
 - **故事总数**: 15
 - **已翻译标题**: 0/15
 - **数据来源**: [Hacker News](https://news.ycombinator.com)
