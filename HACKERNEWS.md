@@ -1,4 +1,4 @@
-# 🚀 Hacker News 精选 | 2026年09月11日
+# 🚀 Hacker News 精选 | 2026年09月12日
 
 > 自动抓取 Hacker News Top 故事，批量翻译标题生成中文精选
 
@@ -6,25 +6,25 @@
 
 ## 🔥 热门 Top 5
 
-### 1. [YuE2 · Frontier Music with Symbolic Planning](https://map-yue2.github.io/)
-- **原文**: YuE2 · Frontier Music with Symbolic Planning
-- **来源**: map-yue2.github.io | 👍 28 | 💬 13
+### 1. [A misalignment of AI in mathematics](https://mathandai.org/)
+- **原文**: A misalignment of AI in mathematics
+- **来源**: mathandai.org | 👍 645 | 💬 686
 
-### 2. [Shopify is moving from React Native back to Swift and Kotlin](https://shopify.engineering/back-to-native)
-- **原文**: Shopify is moving from React Native back to Swift and Kotlin
-- **来源**: shopify.engineering | 👍 780 | 💬 529
+### 2. [I spent $220 on Google app ads and 60% of the installs were robots](https://dayzlegame.com/blog/google-ads-bot-farm/)
+- **原文**: I spent $220 on Google app ads and 60% of the installs were robots
+- **来源**: dayzlegame.com | 👍 297 | 💬 167
 
-### 3. [Google will buy half the electricity of a nuclear power plant](https://www.bbc.com/news/articles/c8r6y4me2g6o)
-- **原文**: Google will buy half the electricity of a nuclear power plant
-- **来源**: bbc.com | 👍 70 | 💬 44
+### 3. [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/)
+- **原文**: OpenAI agents carried out an undisclosed attack on RubyGems
+- **来源**: rubyhack.ai | 👍 329 | 💬 193
 
-### 4. [More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201)
-- **原文**: More questions about whether researchers can trust OpenAI with unpublished math
-- **来源**: mathstodon.xyz | 👍 670 | 💬 631
+### 4. [A Design Space Exploration of Async/Await](https://cel.cs.brown.edu/blog/design-space-async-await/)
+- **原文**: A Design Space Exploration of Async/Await
+- **来源**: cel.cs.brown.edu | 👍 147 | 💬 30
 
-### 5. [OpenAI Agents API](https://developers.openai.com/api/docs/guides/agents-api/overview)
-- **原文**: OpenAI Agents API
-- **来源**: developers.openai.com | 👍 132 | 💬 85
+### 5. [GrapheneOS' rewritten Messages app is released](https://github.com/GrapheneOS/Messaging/releases/tag/13)
+- **原文**: GrapheneOS' rewritten Messages app is released
+- **来源**: github.com | 👍 198 | 💬 123
 
 ---
 
@@ -32,26 +32,26 @@
 
 ### AI
 
-- [More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201) (670👍)
-- [OpenAI Agents API](https://developers.openai.com/api/docs/guides/agents-api/overview) (132👍)
-- [Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra](https://cognition.com/blog/swe-2) (353👍)
+- [A misalignment of AI in mathematics](https://mathandai.org/) (645👍)
+- [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/) (329👍)
+- [A Design Space Exploration of Async/Await](https://cel.cs.brown.edu/blog/design-space-async-await/) (147👍)
 
 ### 技术
 
-- [Google will buy half the electricity of a nuclear power plant](https://www.bbc.com/news/articles/c8r6y4me2g6o) (70👍)
-- [The Deathray: A simple way for an untrusted site to freeze a Mac](https://auberon.xyz/blog/posts/deathray/) (82👍)
+- [I spent $220 on Google app ads and 60% of the installs were robots](https://dayzlegame.com/blog/google-ads-bot-farm/) (297👍)
+- [Λ Snap – An inviting programming language for kids and adults for CS study](https://snap.berkeley.edu/) (113👍)
 
 ### 其他
 
-- [YuE2 · Frontier Music with Symbolic Planning](https://map-yue2.github.io/) (28👍)
-- [Shopify is moving from React Native back to Swift and Kotlin](https://shopify.engineering/back-to-native) (780👍)
-- [Don't let anyone take away your big box of cables](https://blog.jim-nielsen.com/2026/hands-off-my-cables/) (328👍)
+- [GrapheneOS' rewritten Messages app is released](https://github.com/GrapheneOS/Messaging/releases/tag/13) (198👍)
+- [Project Blinkenlights](https://blinkenlights.de/en/) (48👍)
+- [Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues](https://github.com/mirza-rizvi/ResolveHQ) (29👍)
 
 ---
 
 ## 📊 统计
 
-- **抓取时间**: 2026-09-11 09:49:25
+- **抓取时间**: 2026-09-12 09:54:48
 - **故事总数**: 15
 - **已翻译标题**: 0/15
 - **数据来源**: [Hacker News](https://news.ycombinator.com)
