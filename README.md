@@ -1,9 +1,9 @@
-# 📰 每日早报 2026年09月13日 周日
+# 📰 每日早报 2026年09月14日 周一
 
-> **I AK IOI** 《ypy&zyd&ym&ygy》
+> **明霄升海平，飞彩镌流年。** —— 原神 《原神》
 
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.MisurinaPeak_ZH-CN3877105161_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-> 米苏里纳群峰，多洛米蒂山脉，威尼托大区，意大利 (© Vithun Khamsong/Getty Images)
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.KochiaChina_ZH-CN4719995421_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+> 地肤田，中国 (© lingqi xie/Getty Images)
 
 ## 🌍 今日要闻
 
@@ -28,20 +28,20 @@
 <summary>点击查看原始 RSS 来源</summary>
 
 **少数派**
-- 与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南
-- 本周看什么 | 最近值得一看的 7 部作品
+- 派早报：美国 AI 高管呼吁放缓研发，特朗普反对
+- 搭建自己的 HomeLab（一）：聊聊我的硬件清单
 
 **阮一峰的网络日志**
 - 科技爱好者周刊（第 412 期）：禁止 issue，只用 PR
 - 科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影
 
 **V2EX**
-- [加密货币] 长期出 U 谷歌时价
-- [阅读] 用 chatGPT 撸了一个穿越历史小说，庄子题材的
-- [分享发现] 半夜寂寞,买了个飞机杯,到手感觉亏大了，我日！拍断大腿！
+- [分享创造] [开源] Neo Chat（1.8k Star），把 AI 的真正力量，交还到你手中，一款本地优先的全能型 AI 工作台。
+- [问与答] Windows 内存占用的问题，任务管理器 vs 资源管理器 显示不一样？
+- [Claude] [推广] QuietDog API｜ CCMax、Kiro 号池中转，倍率分别为 0.5 / 0.25
 
 **小众软件**
-- 微软 9 月创纪录修复 974 个漏洞，仅 4 天又曝出 10 个新问题
+- 微软 9 月创纪录修复 974 个漏洞，仅 4 天又曝出 11 个新问题
 - 告别iCloud月费，更赢免费注册码！这款神器让iPhone数据管理既省心又省钱
 
 **爱范儿**
@@ -54,38 +54,38 @@
 
 | 今年 | 本月 | 本周 | 今日 |
 |:---:|:---:|:---:|:---:|
-| ███████░░░ 70.1% | ████░░░░░░ 43.3% | ██████████ 100.0% | ███░░░░░░░ 32.8% |
+| ███████░░░ 70.4% | █████░░░░░ 46.7% | █░░░░░░░░░ 14.3% | ███░░░░░░░ 33.4% |
 
 ## ⏰ 倒计时
-- 周末：还有 6 天
-- 中秋节：还有 13 天
-- 2027年元旦：还有 110 天
+- 周末：还有 5 天
+- 中秋节：还有 12 天
+- 2027年元旦：还有 109 天
 
 ## ☁️ 天气
-`长沙市 ☀️ 晴 · 22.9°C · 湿度76% · 风速8.3km/h`
+`长沙市 ☀️ 晴 · 24.6°C · 湿度73% · 风速8.5km/h`
 
 ## 🔥 微博热搜 TOP10
 
-1. AI短剧 成瘾
-2. 莱巴金娜美网夺冠登顶世界第一
-3. 金砖合作打造互联互通贸易通道
-4. 莱巴金娜美网2比1萨巴伦卡
-5. 养得起父母却担心没人养我
-6. 赵雷当爸爸了
-7. 吃得越狠老得越慢
-8. 孙心然美网青少年冠军
-9. 莱巴金娜首盘6比4萨巴伦卡
-10. 弹壳说唱巅峰对决总冠军
+1. 恩佐 曼城
+2. 中国足球小将西班牙捧杯
+3. 我国硬核成果上新了
+4. 英国
+5. 大学生生活费才3000
+6. 井柏然孙千体面
+7. 英超承认哈兰德进球有效是误判
+8. 5种不舒服高度警惕脑出血
+9. 美网男单决赛 难看
+10. 兰香如故
 
 ## 📼 历史上的今天
-2013年：Taliban insurgents attack the United States consulate in Herat, Afghanistan, with two members of the Afghan National Police reported dead and about 20 civilians injured.
+2022年：Death of Queen Elizabeth II: The Queen's coffin is taken from Buckingham Palace, placed on a gun carriage of The King's Troop Royal Horse Artillery and moved in a procession to Westminster Hall for her lying in state over the next four days with the queue of mourners stretching for miles along the River Thames.
 
 ## 📋 今日宜忌
-- **宜**：喝奶茶、追剧
-- **忌**：称体重、早起
+- **宜**：逛公园、买刮刮乐
+- **忌**：早起、开会
 
 ## 🍵 毒鸡汤
-> 想把这世间的甜蜜美好都给你，苦痛磨难我来吞。
+> 在你面前我经常会笑，可朋友们都知道我是个不开心的人。
 
 ---
-*最后更新于 2026-09-13 07:53:03（北京时间）*
+*最后更新于 2026-09-14 08:00:26（北京时间）*
