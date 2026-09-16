@@ -1,4 +1,4 @@
-# 🚀 Hacker News 精选 | 2026年09月15日
+# 🚀 Hacker News 精选 | 2026年09月16日
 
 > 自动抓取 Hacker News Top 故事，批量翻译标题生成中文精选
 
@@ -6,25 +6,25 @@
 
 ## 🔥 热门 Top 5
 
-### 1. [iOS 27, iPadOS 27, and macOS 27](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/)
-- **原文**: iOS 27, iPadOS 27, and macOS 27
-- **来源**: apple.com | 👍 385 | 💬 440
+### 1. [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
+- **原文**: Introducing System One Models and Jev
+- **来源**: typesafe.ai | 👍 792 | 💬 261
 
-### 2. [Pion, an agent designed to run any company autonomously](https://andonlabs.com/blog/why-we-built-pion)
-- **原文**: Pion, an agent designed to run any company autonomously
-- **来源**: andonlabs.com | 👍 295 | 💬 321
+### 2. [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme)
+- **原文**: Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations
+- **来源**: github.com | 👍 1328 | 💬 183
 
-### 3. [Charts built for Chat](https://dbtcharts.com/blog/charts-built-for-chat/)
-- **原文**: Charts built for Chat
-- **来源**: dbtcharts.com | 👍 102 | 💬 34
+### 3. [An Update on Wayback Machine Access](https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/)
+- **原文**: An Update on Wayback Machine Access
+- **来源**: blog.archive.org | 👍 392 | 💬 214
 
-### 4. [Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS](https://github.com/JamesRyanATX/fcbnerd)
-- **原文**: Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS
-- **来源**: github.com | 👍 37 | 💬 4
+### 4. [German Rheinmetall open-sources its Battlesuite connected weapon system protcol](https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html)
+- **原文**: German Rheinmetall open-sources its Battlesuite connected weapon system protcol
+- **来源**: rheinmetall.github.io | 👍 131 | 💬 40
 
-### 5. [4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls](https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/)
-- **原文**: 4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls
-- **来源**: arkeonews.net | 👍 19 | 💬 4
+### 5. [Gemini 3.8 Live and 3.8 Live Extended Thinking](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/)
+- **原文**: Gemini 3.8 Live and 3.8 Live Extended Thinking
+- **来源**: blog.google | 👍 307 | 💬 190
 
 ---
 
@@ -32,25 +32,27 @@
 
 ### AI
 
-- [OpenAI bots knew about the RubyGems caching vulnerability](https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/) (379👍)
-- [Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)](https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/) (33👍)
-- [Why don't machine learning research agents overfit?](https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit) (107👍)
+- [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev) (792👍)
+- [Gemini 3.8 Live and 3.8 Live Extended Thinking](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/) (307👍)
+- [Learning to solve hard problems in RL for LLMs by never giving up](https://mnoukhov.github.io/posts/ngu/) (39👍)
 
-### 创业
+### 技术
 
-- [Pion, an agent designed to run any company autonomously](https://andonlabs.com/blog/why-we-built-pion) (295👍)
+- [We got admin access to Baseten's production GitHub in 25 minutes](https://www.strix.ai/blog/baseten-harbor-github-pat-takeover) (221👍)
+- [Building a Linux GPU Driver for the M4 Mac Mini in One Month](https://codyho.dev/blog/gpu-driver/) (167👍)
+- [WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages](https://github.com/GraafHenk/numberwang) (108👍)
 
 ### 其他
 
-- [iOS 27, iPadOS 27, and macOS 27](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/) (385👍)
-- [Charts built for Chat](https://dbtcharts.com/blog/charts-built-for-chat/) (102👍)
-- [Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS](https://github.com/JamesRyanATX/fcbnerd) (37👍)
+- [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme) (1328👍)
+- [An Update on Wayback Machine Access](https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/) (392👍)
+- [German Rheinmetall open-sources its Battlesuite connected weapon system protcol](https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html) (131👍)
 
 ---
 
 ## 📊 统计
 
-- **抓取时间**: 2026-09-15 10:12:32
+- **抓取时间**: 2026-09-16 10:04:57
 - **故事总数**: 15
 - **已翻译标题**: 0/15
 - **数据来源**: [Hacker News](https://news.ycombinator.com)
