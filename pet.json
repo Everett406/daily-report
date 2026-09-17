@@ -1,15 +1,15 @@
 {
   "name": "",
   "level": 3,
-  "exp": 30,
-  "hunger": 65,
-  "happiness": 66,
+  "exp": 50,
+  "hunger": 55,
+  "happiness": 70,
   "health": 100,
   "created_at": "2026-05-24T14:24:44.217699",
-  "last_fed": "2026-09-16T08:04:54.578557+08:00",
-  "total_commits": 33,
+  "last_fed": "2026-09-17T08:15:24.087472+08:00",
+  "total_commits": 35,
   "evolution_stage": "egg",
   "personality": "温顺",
   "favorite_food": "Bug",
-  "mood": "开心"
+  "mood": "兴奋"
 }
