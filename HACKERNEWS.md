@@ -1,4 +1,4 @@
-# 🚀 Hacker News 精选 | 2026年09月17日
+# 🚀 Hacker News 精选 | 2026年09月18日
 
 > 自动抓取 Hacker News Top 故事，批量翻译标题生成中文精选
 
@@ -6,25 +6,25 @@
 
 ## 🔥 热门 Top 5
 
-### 1. [Nvidia announces native GPU programming in Rust](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/)
-- **原文**: Nvidia announces native GPU programming in Rust
-- **来源**: developer.nvidia.com | 👍 307 | 💬 117
+### 1. [Astra for Law](https://openai.com/index/astra-for-law/)
+- **原文**: Astra for Law
+- **来源**: openai.com | 👍 315 | 💬 344
 
-### 2. [Training a 4B model to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl)
-- **原文**: Training a 4B model to produce 81% faster query plans than Postgres
-- **来源**: rohanbansal.com | 👍 407 | 💬 84
+### 2. [Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint](https://prismml.com/news/bonsai-2-27b)
+- **原文**: Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint
+- **来源**: prismml.com | 👍 226 | 💬 71
 
-### 3. [Xiaomi Mimo 2.6 live post-training dashboard](https://mimo.xiaomi.com/rl/)
-- **原文**: Xiaomi Mimo 2.6 live post-training dashboard
-- **来源**: mimo.xiaomi.com | 👍 269 | 💬 66
+### 3. [Goose: 1.16x faster than C++ and 1.12x than safe Rust, while memory safe](https://github.com/aardappel/goose/tree/master)
+- **原文**: Goose: 1.16x faster than C++ and 1.12x than safe Rust, while memory safe
+- **来源**: github.com | 👍 22 | 💬 8
 
-### 4. [Breaking the 1.58-bit Barrier for Ternary LLMs](https://arxiv.org/abs/2609.16338)
-- **原文**: Breaking the 1.58-bit Barrier for Ternary LLMs
-- **来源**: arxiv.org | 👍 145 | 💬 18
+### 4. [Bend – A language that blocks AI mistakes via proof, on CPU and GPU](https://bend-lang.com/)
+- **原文**: Bend – A language that blocks AI mistakes via proof, on CPU and GPU
+- **来源**: bend-lang.com | 👍 283 | 💬 148
 
-### 5. [Backups Aren't Simple](https://filipovski.net/2026/09/16/backups-arent-simple.html)
-- **原文**: Backups Aren't Simple
-- **来源**: filipovski.net | 👍 91 | 💬 38
+### 5. [Hister: A private search engine for the pages you visit and the files you keep](https://github.com/asciimoo/hister)
+- **原文**: Hister: A private search engine for the pages you visit and the files you keep
+- **来源**: github.com | 👍 463 | 💬 135
 
 ---
 
@@ -32,27 +32,31 @@
 
 ### AI
 
-- [Training a 4B model to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl) (407👍)
-- [Xiaomi Mimo 2.6 live post-training dashboard](https://mimo.xiaomi.com/rl/) (269👍)
-- [Breaking the 1.58-bit Barrier for Ternary LLMs](https://arxiv.org/abs/2609.16338) (145👍)
+- [Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint](https://prismml.com/news/bonsai-2-27b) (226👍)
+- [Bend – A language that blocks AI mistakes via proof, on CPU and GPU](https://bend-lang.com/) (283👍)
+- [Diplodocus, Long Thought Exclusively American, Turns Up in Spain](https://www.sci.news/paleontology/spanish-diplodocus-15064.html) (28👍)
 
 ### 技术
 
-- [Nvidia announces native GPU programming in Rust](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/) (307👍)
-- [Small programming tricks](https://will-keleher.com/posts/small-programming-tricks-matter/) (407👍)
-- [Developing provably correct Rust code with Verus](https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus) (17👍)
+- [Goose: 1.16x faster than C++ and 1.12x than safe Rust, while memory safe](https://github.com/aardappel/goose/tree/master) (22👍)
+- [Flet 1.0 – Build cross-platform apps in Python](https://flet.dev/) (59👍)
+- [CrowdSec Source Code Leak](https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure) (129👍)
+
+### 硬件
+
+- [Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA](https://global.fujitsu/en-global/pr/news/2026/09/14-02) (517👍)
 
 ### 其他
 
-- [Backups Aren't Simple](https://filipovski.net/2026/09/16/backups-arent-simple.html) (91👍)
-- [The engineering behind the US Strategic Petroleum Reserve](https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve) (111👍)
-- [Performance Improvements in .NET 11](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/) (180👍)
+- [Astra for Law](https://openai.com/index/astra-for-law/) (315👍)
+- [Hister: A private search engine for the pages you visit and the files you keep](https://github.com/asciimoo/hister) (463👍)
+- [Wax motor](https://en.wikipedia.org/wiki/Wax_motor) (244👍)
 
 ---
 
 ## 📊 统计
 
-- **抓取时间**: 2026-09-17 10:08:50
+- **抓取时间**: 2026-09-18 09:55:46
 - **故事总数**: 15
 - **已翻译标题**: 0/15
 - **数据来源**: [Hacker News](https://news.ycombinator.com)
