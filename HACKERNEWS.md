@@ -1,4 +1,4 @@
-# 🚀 Hacker News 精选 | 2026年09月22日
+# 🚀 Hacker News 精选 | 2026年09月23日
 
 > 自动抓取 Hacker News Top 故事，批量翻译标题生成中文精选
 
@@ -6,25 +6,25 @@
 
 ## 🔥 热门 Top 5
 
-### 1. [Xiaomi MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6)
-- **原文**: Xiaomi MiMo v2.6
-- **来源**: mimo.xiaomi.com | 👍 560 | 💬 283
+### 1. [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/)
+- **原文**: GPT-6 Sol and Luna
+- **来源**: openai.com | 👍 1198 | 💬 611
 
-### 2. [Claude Status – Elevated errors for multiple models](https://status.claude.com/incidents/7g1qpkyz5gxh)
-- **原文**: Claude Status – Elevated errors for multiple models
-- **来源**: status.claude.com | 👍 57 | 💬 28
+### 2. [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5)
+- **原文**: Claude Opus 5.5
+- **来源**: anthropic.com | 👍 1220 | 💬 817
 
-### 3. [Spymarks, Not Watermarks](https://brand.io/article/spymarks/)
-- **原文**: Spymarks, Not Watermarks
-- **来源**: brand.io | 👍 127 | 💬 32
+### 3. ['We hacked the FBI:' Hackers say they have data on all FBI employees](https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/)
+- **原文**: 'We hacked the FBI:' Hackers say they have data on all FBI employees
+- **来源**: 404media.co | 👍 408 | 💬 291
 
-### 4. [I don't want to read what you didn't write](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/)
-- **原文**: I don't want to read what you didn't write
-- **来源**: blog.colinbreck.com | 👍 281 | 💬 105
+### 4. [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html)
+- **原文**: OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005
+- **来源**: cryptocellar.org | 👍 562 | 💬 360
 
-### 5. [Transformers Explained Visually](https://poloclub.github.io/transformer-explainer/)
-- **原文**: Transformers Explained Visually
-- **来源**: poloclub.github.io | 👍 211 | 💬 37
+### 5. [ReBarUEFI: Resizable BAR for almost any UEFI system](https://github.com/xCuri0/ReBarUEFI)
+- **原文**: ReBarUEFI: Resizable BAR for almost any UEFI system
+- **来源**: github.com | 👍 77 | 💬 21
 
 ---
 
@@ -32,25 +32,25 @@
 
 ### AI
 
-- [Claude Status – Elevated errors for multiple models](https://status.claude.com/incidents/7g1qpkyz5gxh) (57👍)
-- [Transformers Explained Visually](https://poloclub.github.io/transformer-explainer/) (211👍)
-- [AI coding has made CI a bottleneck, so we reworked ours to keep up](https://linear.app/now/ci-bottleneck-reworked) (144👍)
+- [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/) (1198👍)
+- [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5) (1220👍)
+- [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html) (562👍)
 
-### 技术
+### 安全
 
-- [What Sun got wrong](https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/) (503👍)
+- ['We hacked the FBI:' Hackers say they have data on all FBI employees](https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/) (408👍)
 
 ### 其他
 
-- [Xiaomi MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6) (560👍)
-- [Spymarks, Not Watermarks](https://brand.io/article/spymarks/) (127👍)
-- [I don't want to read what you didn't write](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/) (281👍)
+- [ReBarUEFI: Resizable BAR for almost any UEFI system](https://github.com/xCuri0/ReBarUEFI) (77👍)
+- [Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived](https://foxscript.org/) (187👍)
+- [What California is learning from solar panels built over irrigation canals](https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals) (121👍)
 
 ---
 
 ## 📊 统计
 
-- **抓取时间**: 2026-09-22 10:11:22
+- **抓取时间**: 2026-09-23 10:10:59
 - **故事总数**: 15
 - **已翻译标题**: 0/15
 - **数据来源**: [Hacker News](https://news.ycombinator.com)
