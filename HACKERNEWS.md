@@ -1,4 +1,4 @@
-# 🚀 Hacker News 精选 | 2026年09月23日
+# 🚀 Hacker News 精选 | 2026年09月24日
 
 > 自动抓取 Hacker News Top 故事，批量翻译标题生成中文精选
 
@@ -6,25 +6,25 @@
 
 ## 🔥 热门 Top 5
 
-### 1. [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/)
-- **原文**: GPT-6 Sol and Luna
-- **来源**: openai.com | 👍 1198 | 💬 611
+### 1. [Meta VR Glasses](https://www.meta.com/vr-glasses/)
+- **原文**: Meta VR Glasses
+- **来源**: meta.com | 👍 218 | 💬 174
 
-### 2. [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5)
-- **原文**: Claude Opus 5.5
-- **来源**: anthropic.com | 👍 1220 | 💬 817
+### 2. [Linux support is coming to Snapdragon X2 Series](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux)
+- **原文**: Linux support is coming to Snapdragon X2 Series
+- **来源**: qualcomm.com | 👍 148 | 💬 66
 
-### 3. ['We hacked the FBI:' Hackers say they have data on all FBI employees](https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/)
-- **原文**: 'We hacked the FBI:' Hackers say they have data on all FBI employees
-- **来源**: 404media.co | 👍 408 | 💬 291
+### 3. [Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system)
+- **原文**: Claude discovers a novel enzyme system with CRISPR-like repeats
+- **来源**: anthropic.com | 👍 499 | 💬 532
 
-### 4. [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html)
-- **原文**: OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005
-- **来源**: cryptocellar.org | 👍 562 | 💬 360
+### 4. [VSCode's SSH Agent Is Bananas (2025)](https://fly.io/blog/vscode-ssh-wtf/)
+- **原文**: VSCode's SSH Agent Is Bananas (2025)
+- **来源**: fly.io | 👍 128 | 💬 86
 
-### 5. [ReBarUEFI: Resizable BAR for almost any UEFI system](https://github.com/xCuri0/ReBarUEFI)
-- **原文**: ReBarUEFI: Resizable BAR for almost any UEFI system
-- **来源**: github.com | 👍 77 | 💬 21
+### 5. [ArXiv receives multiyear commitments to support it as an independent nonprofit](https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/)
+- **原文**: ArXiv receives multiyear commitments to support it as an independent nonprofit
+- **来源**: blog.arxiv.org | 👍 56 | 💬 8
 
 ---
 
@@ -32,25 +32,30 @@
 
 ### AI
 
-- [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/) (1198👍)
-- [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5) (1220👍)
-- [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html) (562👍)
+- [Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system) (499👍)
+- [Mercury 2.5 LLM hits 770 tokens per second](https://artificialanalysis.ai/models/mercury-2-5) (52👍)
 
-### 安全
+### 技术
 
-- ['We hacked the FBI:' Hackers say they have data on all FBI employees](https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/) (408👍)
+- [Linux support is coming to Snapdragon X2 Series](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux) (148👍)
+- [VSCode's SSH Agent Is Bananas (2025)](https://fly.io/blog/vscode-ssh-wtf/) (128👍)
+- [The mystery animal on an ancient god's head](https://signoregalilei.com/2026/09/13/the-mystery-animal-on-an-ancient-gods-head/) (55👍)
+
+### 科学
+
+- [FLAWED's Flaws and What This Means for Industry Research](https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/) (9👍)
 
 ### 其他
 
-- [ReBarUEFI: Resizable BAR for almost any UEFI system](https://github.com/xCuri0/ReBarUEFI) (77👍)
-- [Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived](https://foxscript.org/) (187👍)
-- [What California is learning from solar panels built over irrigation canals](https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals) (121👍)
+- [Meta VR Glasses](https://www.meta.com/vr-glasses/) (218👍)
+- [ArXiv receives multiyear commitments to support it as an independent nonprofit](https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/) (56👍)
+- [The "Windows XP Box" (2003)](https://www.mini-itx.com/projects/windowsxpbox/) (48👍)
 
 ---
 
 ## 📊 统计
 
-- **抓取时间**: 2026-09-23 10:10:59
+- **抓取时间**: 2026-09-24 09:57:37
 - **故事总数**: 15
 - **已翻译标题**: 0/15
 - **数据来源**: [Hacker News](https://news.ycombinator.com)
