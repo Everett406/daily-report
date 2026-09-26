@@ -1,4 +1,4 @@
-# 🚀 Hacker News 精选 | 2026年09月25日
+# 🚀 Hacker News 精选 | 2026年09月26日
 
 > 自动抓取 Hacker News Top 故事，批量翻译标题生成中文精选
 
@@ -6,25 +6,25 @@
 
 ## 🔥 热门 Top 5
 
-### 1. [F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html)
-- **原文**: F-Droid 2.0
-- **来源**: f-droid.org | 👍 955 | 💬 265
+### 1. [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/)
+- **原文**: Revealing the details of how OpenAI agents hacked Hugging Face
+- **来源**: swarmtraces.org | 👍 231 | 💬 145
 
-### 2. [Show HN: Make cursed fonts like Times New Bastard](https://bastardica.mitpit.com)
-- **原文**: Show HN: Make cursed fonts like Times New Bastard
-- **来源**: bastardica.mitpit.com | 👍 497 | 💬 68
+### 2. [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/)
+- **原文**: Ollaya – Ollama for open-source, Jev-style decision models
+- **来源**: ollaya.dev | 👍 343 | 💬 100
 
-### 3. [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard)
-- **原文**: Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design
-- **来源**: github.com | 👍 205 | 💬 82
+### 3. [Show HN: Jev Plays Pokémon Red](https://jev-pokemon.vercel.app/)
+- **原文**: Show HN: Jev Plays Pokémon Red
+- **来源**: jev-pokemon.vercel.app | 👍 158 | 💬 68
 
-### 4. [Why is the liver so weirdly regenerative?](https://dynomight.substack.com/p/liver)
-- **原文**: Why is the liver so weirdly regenerative?
-- **来源**: dynomight.substack.com | 👍 267 | 💬 158
+### 4. [What even is an OS now?](https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/)
+- **原文**: What even is an OS now?
+- **来源**: sockpuppet.org | 👍 87 | 💬 128
 
-### 5. [Fearless SIMD v1.0](https://linebender.org/blog/fearless-simd-1-0/)
-- **原文**: Fearless SIMD v1.0
-- **来源**: linebender.org | 👍 189 | 💬 31
+### 5. [Plan mode is dead](https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html)
+- **原文**: Plan mode is dead
+- **来源**: aymannadeem.com | 👍 100 | 💬 112
 
 ---
 
@@ -32,27 +32,25 @@
 
 ### AI
 
-- [Rails World 2026 Opening Keynote [video]](https://www.youtube.com/watch?v=vDjW_dRyKXY) (242👍)
-- [Using LLMs to trace alchemical knowledge and decode 17th century letters](https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical) (78👍)
-- [Show HN: Koi.rest – watch some fish and regain your balance](https://koi.rest) (132👍)
+- [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/) (231👍)
+- [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/) (343👍)
+- [One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days](https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide) (40👍)
 
 ### 技术
 
-- [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard) (205👍)
-- [My weird new hobby: Wandering around Tokyo on Google Maps](https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/) (228👍)
-- [Google’s Project Suncatcher to put ML infrastructure in space](https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/) (118👍)
+- [Platform-independent SIMD in Go](https://go.dev/blog/simd-experiment) (363👍)
 
 ### 其他
 
-- [F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html) (955👍)
-- [Show HN: Make cursed fonts like Times New Bastard](https://bastardica.mitpit.com) (497👍)
-- [Why is the liver so weirdly regenerative?](https://dynomight.substack.com/p/liver) (267👍)
+- [Show HN: Jev Plays Pokémon Red](https://jev-pokemon.vercel.app/) (158👍)
+- [What even is an OS now?](https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/) (87👍)
+- [Plan mode is dead](https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html) (100👍)
 
 ---
 
 ## 📊 统计
 
-- **抓取时间**: 2026-09-25 10:14:11
+- **抓取时间**: 2026-09-26 10:19:42
 - **故事总数**: 15
 - **已翻译标题**: 0/15
 - **数据来源**: [Hacker News](https://news.ycombinator.com)
