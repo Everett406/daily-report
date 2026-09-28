@@ -1,4 +1,4 @@
-# 🚀 Hacker News 精选 | 2026年09月27日
+# 🚀 Hacker News 精选 | 2026年09月28日
 
 > 自动抓取 Hacker News Top 故事，批量翻译标题生成中文精选
 
@@ -6,25 +6,25 @@
 
 ## 🔥 热门 Top 5
 
-### 1. [Does Georgism work? Five years later](https://www.astralcodexten.com/p/does-georgism-work-five-years-later)
-- **原文**: Does Georgism work? Five years later
-- **来源**: astralcodexten.com | 👍 135 | 💬 73
+### 1. [Self-parking car using genetic algorithm (2021)](https://trekhleb.dev/blog/2021/self-parking-car-evolution/)
+- **原文**: Self-parking car using genetic algorithm (2021)
+- **来源**: trekhleb.dev | 👍 22 | 💬 3
 
-### 2. [DeepSeek Elastic Compute (DSec)](https://arxiv.org/abs/2609.22978)
-- **原文**: DeepSeek Elastic Compute (DSec)
-- **来源**: arxiv.org | 👍 163 | 💬 48
+### 2. [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/)
+- **原文**: When did Google get so weird?
+- **来源**: sancho.bearblog.dev | 👍 818 | 💬 433
 
-### 3. [PipePipe: NewPipe hard fork implementing SponsorBlock](https://github.com/InfinityLoop1308/PipePipe)
-- **原文**: PipePipe: NewPipe hard fork implementing SponsorBlock
-- **来源**: github.com | 👍 323 | 💬 175
+### 3. [Ember-1](https://fireworks.ai/blog/ember-1)
+- **原文**: Ember-1
+- **来源**: fireworks.ai | 👍 362 | 💬 184
 
-### 4. [Go Concurrency Distilled](https://antonz.org/go-concurrency-distilled/)
-- **原文**: Go Concurrency Distilled
-- **来源**: antonz.org | 👍 43 | 💬 9
+### 4. [Guitar amp and effects pedal built on the Waveshare ESP32-S3-Touch-AMOLED-2.06](https://github.com/dashersw/coyopedal)
+- **原文**: Guitar amp and effects pedal built on the Waveshare ESP32-S3-Touch-AMOLED-2.06
+- **来源**: github.com | 👍 22 | 💬 3
 
-### 5. [Show HN: Reladraw – A diagram language where you decide where to place things](https://github.com/reladraw/reladraw)
-- **原文**: Show HN: Reladraw – A diagram language where you decide where to place things
-- **来源**: github.com | 👍 189 | 💬 56
+### 5. [The state of SIMD in Rust in 2026](https://shnatsel.github.io/state-of-simd-rust-2026/)
+- **原文**: The state of SIMD in Rust in 2026
+- **来源**: shnatsel.github.io | 👍 100 | 💬 20
 
 ---
 
@@ -32,27 +32,29 @@
 
 ### AI
 
-- [Evolving programming languages in the AI era](https://dashbit.co/blog/evolving-ai-era) (33👍)
-- [A searchable library of forgotten public-domain film clips from 1915 onward](https://www.movingimagearchive.com/) (116👍)
-- [Turning GLM-5.3-Flash into a Jev-like decision model](https://www.privatemode.ai/blog/system-one-from-glm-flash) (29👍)
+- [Show HN: Panda, the world's first personal AI computer](https://pandax1.com) (4👍)
 
 ### 技术
 
-- [Go Concurrency Distilled](https://antonz.org/go-concurrency-distilled/) (43👍)
-- [Show HN: Reladraw – A diagram language where you decide where to place things](https://github.com/reladraw/reladraw) (189👍)
-- [Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC](https://www.righto.com/2026/09/8087-tangent-cordic.html) (30👍)
+- [Self-parking car using genetic algorithm (2021)](https://trekhleb.dev/blog/2021/self-parking-car-evolution/) (22👍)
+- [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/) (818👍)
+- [The state of SIMD in Rust in 2026](https://shnatsel.github.io/state-of-simd-rust-2026/) (100👍)
+
+### 科学
+
+- [Research finds 485 chemicals in US pesticide products linked to breast cancer](https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products) (25👍)
 
 ### 其他
 
-- [Does Georgism work? Five years later](https://www.astralcodexten.com/p/does-georgism-work-five-years-later) (135👍)
-- [DeepSeek Elastic Compute (DSec)](https://arxiv.org/abs/2609.22978) (163👍)
-- [PipePipe: NewPipe hard fork implementing SponsorBlock](https://github.com/InfinityLoop1308/PipePipe) (323👍)
+- [Ember-1](https://fireworks.ai/blog/ember-1) (362👍)
+- [Guitar amp and effects pedal built on the Waveshare ESP32-S3-Touch-AMOLED-2.06](https://github.com/dashersw/coyopedal) (22👍)
+- [Alan Kay's answer to “Did the ENIAC have a BIOS”?](https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11) (75👍)
 
 ---
 
 ## 📊 统计
 
-- **抓取时间**: 2026-09-27 10:14:49
+- **抓取时间**: 2026-09-28 10:19:12
 - **故事总数**: 15
 - **已翻译标题**: 0/15
 - **数据来源**: [Hacker News](https://news.ycombinator.com)
