@@ -1,4 +1,4 @@
-# 🚀 Hacker News 精选 | 2026年09月29日
+# 🚀 Hacker News 精选 | 2026年09月30日
 
 > 自动抓取 Hacker News Top 故事，批量翻译标题生成中文精选
 
@@ -6,25 +6,25 @@
 
 ## 🔥 热门 Top 5
 
-### 1. [Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms](https://github.com/firelex/jeff)
-- **原文**: Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms
-- **来源**: github.com | 👍 315 | 💬 128
+### 1. [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf)
+- **原文**: Livenerf: Has Opus 5.5 been nerfed yet?
+- **来源**: github.com | 👍 277 | 💬 126
 
-### 2. [Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates)
-- **原文**: Pirating the Pirates
-- **来源**: mubi.com | 👍 434 | 💬 231
+### 2. [U.S. postal inspectors shut down website selling counterfeit postage labels](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/)
+- **原文**: U.S. postal inspectors shut down website selling counterfeit postage labels
+- **来源**: postalemployeenetwork.com | 👍 178 | 💬 106
 
-### 3. [12,000-year-old Göbeklitepe burials explain scattered bones](https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/)
-- **原文**: 12,000-year-old Göbeklitepe burials explain scattered bones
-- **来源**: archaeologymag.com | 👍 89 | 💬 22
+### 3. [America.gov](https://america.gov/)
+- **原文**: America.gov
+- **来源**: america.gov | 👍 380 | 💬 307
 
-### 4. [MicroLLM Lab – Try 7 tiny LLM's in the browser](https://stateofutopia.com/experiments/microllmlab/)
-- **原文**: MicroLLM Lab – Try 7 tiny LLM's in the browser
-- **来源**: stateofutopia.com | 👍 147 | 💬 66
+### 4. [Show HN: Real-time Solar System with 526k asteroids and all tracked satellites](https://space.bl2.net/)
+- **原文**: Show HN: Real-time Solar System with 526k asteroids and all tracked satellites
+- **来源**: space.bl2.net | 👍 123 | 💬 32
 
-### 5. [1996 chat room simulator connected to Win95 and System 7 web desktops](https://lolchat.rip/)
-- **原文**: 1996 chat room simulator connected to Win95 and System 7 web desktops
-- **来源**: lolchat.rip | 👍 33 | 💬 21
+### 5. [When oil prices spike, where does the money go?](https://theconversation.com/when-oil-prices-spike-where-does-the-money-go-280763)
+- **原文**: When oil prices spike, where does the money go?
+- **来源**: theconversation.com | 👍 43 | 💬 33
 
 ---
 
@@ -32,25 +32,30 @@
 
 ### AI
 
-- [Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms](https://github.com/firelex/jeff) (315👍)
-- [12,000-year-old Göbeklitepe burials explain scattered bones](https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/) (89👍)
-- [MicroLLM Lab – Try 7 tiny LLM's in the browser](https://stateofutopia.com/experiments/microllmlab/) (147👍)
+- [GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price](https://openai.com/index/introducing-gpt-6-1-sol/) (807👍)
+- [Language models for text classification: From bag-of-words to Jev](https://magazine.sebastianraschka.com/p/classifier-history-and-jev) (37👍)
 
-### 科学
+### 技术
 
-- [Scientists solve 1840s space weather mystery](https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/) (67👍)
+- [America.gov](https://america.gov/) (380👍)
+- [When oil prices spike, where does the money go?](https://theconversation.com/when-oil-prices-spike-where-does-the-money-go-280763) (43👍)
+- [Needed 1+1, built a functional programming language](https://hereticpleb.vercel.app/blog/needed-one-plus-one/) (35👍)
+
+### 安全
+
+- [PS5 Relapse Exploit](https://github.com/ntfargo/Relapse-Exploit) (238👍)
 
 ### 其他
 
-- [Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates) (434👍)
-- [1996 chat room simulator connected to Win95 and System 7 web desktops](https://lolchat.rip/) (33👍)
-- [California farmers are struggling to sell grapes as demand for wine drops](https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops) (77👍)
+- [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf) (277👍)
+- [U.S. postal inspectors shut down website selling counterfeit postage labels](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/) (178👍)
+- [Show HN: Real-time Solar System with 526k asteroids and all tracked satellites](https://space.bl2.net/) (123👍)
 
 ---
 
 ## 📊 统计
 
-- **抓取时间**: 2026-09-29 11:03:47
+- **抓取时间**: 2026-09-30 10:45:25
 - **故事总数**: 15
 - **已翻译标题**: 0/15
 - **数据来源**: [Hacker News](https://news.ycombinator.com)
