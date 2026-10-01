@@ -1,4 +1,4 @@
-# 🚀 Hacker News 精选 | 2026年09月30日
+# 🚀 Hacker News 精选 | 2026年10月01日
 
 > 自动抓取 Hacker News Top 故事，批量翻译标题生成中文精选
 
@@ -6,25 +6,25 @@
 
 ## 🔥 热门 Top 5
 
-### 1. [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf)
-- **原文**: Livenerf: Has Opus 5.5 been nerfed yet?
-- **来源**: github.com | 👍 277 | 💬 126
+### 1. [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/)
+- **原文**: Gemini 4 Argon
+- **来源**: blog.google | 👍 1050 | 💬 700
 
-### 2. [U.S. postal inspectors shut down website selling counterfeit postage labels](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/)
-- **原文**: U.S. postal inspectors shut down website selling counterfeit postage labels
-- **来源**: postalemployeenetwork.com | 👍 178 | 💬 106
+### 2. [The top secret URSALA, RAQUEL, and FARRAH satellites](https://www.thespacereview.com/article/4951/1)
+- **原文**: The top secret URSALA, RAQUEL, and FARRAH satellites
+- **来源**: thespacereview.com | 👍 142 | 💬 58
 
-### 3. [America.gov](https://america.gov/)
-- **原文**: America.gov
-- **来源**: america.gov | 👍 380 | 💬 307
+### 3. [56k.rip – the 1996 dial-up internet experience](https://56k.rip/)
+- **原文**: 56k.rip – the 1996 dial-up internet experience
+- **来源**: 56k.rip | 👍 79 | 💬 46
 
-### 4. [Show HN: Real-time Solar System with 526k asteroids and all tracked satellites](https://space.bl2.net/)
-- **原文**: Show HN: Real-time Solar System with 526k asteroids and all tracked satellites
-- **来源**: space.bl2.net | 👍 123 | 💬 32
+### 4. [Surprisingly complex waves reveal the brain's inner workings](https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/)
+- **原文**: Surprisingly complex waves reveal the brain's inner workings
+- **来源**: quantamagazine.org | 👍 129 | 💬 41
 
-### 5. [When oil prices spike, where does the money go?](https://theconversation.com/when-oil-prices-spike-where-does-the-money-go-280763)
-- **原文**: When oil prices spike, where does the money go?
-- **来源**: theconversation.com | 👍 43 | 💬 33
+### 5. [Why the Bronze Age Collapsed](https://www.worksinprogress.news/p/why-really-caused-the-bronze-age)
+- **原文**: Why the Bronze Age Collapsed
+- **来源**: worksinprogress.news | 👍 101 | 💬 56
 
 ---
 
@@ -32,30 +32,26 @@
 
 ### AI
 
-- [GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price](https://openai.com/index/introducing-gpt-6-1-sol/) (807👍)
-- [Language models for text classification: From bag-of-words to Jev](https://magazine.sebastianraschka.com/p/classifier-history-and-jev) (37👍)
+- [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/) (1050👍)
+- [Surprisingly complex waves reveal the brain's inner workings](https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/) (129👍)
+- [Halfspace experimental IDE for solid modeling with distance fields](https://www.mattkeeter.com/projects/halfspace/) (82👍)
 
 ### 技术
 
-- [America.gov](https://america.gov/) (380👍)
-- [When oil prices spike, where does the money go?](https://theconversation.com/when-oil-prices-spike-where-does-the-money-go-280763) (43👍)
-- [Needed 1+1, built a functional programming language](https://hereticpleb.vercel.app/blog/needed-one-plus-one/) (35👍)
-
-### 安全
-
-- [PS5 Relapse Exploit](https://github.com/ntfargo/Relapse-Exploit) (238👍)
+- [Singapore govt dating app uses Gale-Shapley stable marriage algorithm](https://twitter.com/tuakdotsol/status/2105105417760391258) (233👍)
+- [EDG C++ front-end goes public](https://edgcpp.org/#transition) (156👍)
 
 ### 其他
 
-- [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf) (277👍)
-- [U.S. postal inspectors shut down website selling counterfeit postage labels](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/) (178👍)
-- [Show HN: Real-time Solar System with 526k asteroids and all tracked satellites](https://space.bl2.net/) (123👍)
+- [The top secret URSALA, RAQUEL, and FARRAH satellites](https://www.thespacereview.com/article/4951/1) (142👍)
+- [56k.rip – the 1996 dial-up internet experience](https://56k.rip/) (79👍)
+- [Why the Bronze Age Collapsed](https://www.worksinprogress.news/p/why-really-caused-the-bronze-age) (101👍)
 
 ---
 
 ## 📊 统计
 
-- **抓取时间**: 2026-09-30 10:45:25
+- **抓取时间**: 2026-10-01 10:51:02
 - **故事总数**: 15
 - **已翻译标题**: 0/15
 - **数据来源**: [Hacker News](https://news.ycombinator.com)
