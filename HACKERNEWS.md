@@ -1,4 +1,4 @@
-# 🚀 Hacker News 精选 | 2026年10月01日
+# 🚀 Hacker News 精选 | 2026年10月02日
 
 > 自动抓取 Hacker News Top 故事，批量翻译标题生成中文精选
 
@@ -6,25 +6,25 @@
 
 ## 🔥 热门 Top 5
 
-### 1. [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/)
-- **原文**: Gemini 4 Argon
-- **来源**: blog.google | 👍 1050 | 💬 700
+### 1. [Pi 1.0](https://earendil.com/posts/pi-1-0/)
+- **原文**: Pi 1.0
+- **来源**: earendil.com | 👍 813 | 💬 285
 
-### 2. [The top secret URSALA, RAQUEL, and FARRAH satellites](https://www.thespacereview.com/article/4951/1)
-- **原文**: The top secret URSALA, RAQUEL, and FARRAH satellites
-- **来源**: thespacereview.com | 👍 142 | 💬 58
+### 2. [Several vulnerabilities have been discovered in the Linux kernel](https://lwn.net/Articles/1097401/)
+- **原文**: Several vulnerabilities have been discovered in the Linux kernel
+- **来源**: lwn.net | 👍 133 | 💬 73
 
-### 3. [56k.rip – the 1996 dial-up internet experience](https://56k.rip/)
-- **原文**: 56k.rip – the 1996 dial-up internet experience
-- **来源**: 56k.rip | 👍 79 | 💬 46
+### 3. [Clef: Open-weight decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/)
+- **原文**: Clef: Open-weight decision models, and new RL fine-tuning platform
+- **来源**: blog.cloudflare.com | 👍 445 | 💬 163
 
-### 4. [Surprisingly complex waves reveal the brain's inner workings](https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/)
-- **原文**: Surprisingly complex waves reveal the brain's inner workings
-- **来源**: quantamagazine.org | 👍 129 | 💬 41
+### 4. [SvelteKit 3](https://svelte.dev/blog/sveltekit-3-is-here)
+- **原文**: SvelteKit 3
+- **来源**: svelte.dev | 👍 137 | 💬 54
 
-### 5. [Why the Bronze Age Collapsed](https://www.worksinprogress.news/p/why-really-caused-the-bronze-age)
-- **原文**: Why the Bronze Age Collapsed
-- **来源**: worksinprogress.news | 👍 101 | 💬 56
+### 5. [Ask HN: Who is hiring? (October 2026)](https://news.ycombinator.com/item?id=49922569)
+- **原文**: Ask HN: Who is hiring? (October 2026)
+- **来源**: news.ycombinator.com | 👍 161 | 💬 165
 
 ---
 
@@ -32,26 +32,26 @@
 
 ### AI
 
-- [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/) (1050👍)
-- [Surprisingly complex waves reveal the brain's inner workings](https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/) (129👍)
-- [Halfspace experimental IDE for solid modeling with distance fields](https://www.mattkeeter.com/projects/halfspace/) (82👍)
+- [Clef: Open-weight decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/) (445👍)
+- [Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia](https://github.com/Vibra-Ingenn/Janus) (54👍)
+- [Vote on which of Hacker News' challenges for AI have been met](https://stoppels.ch/goalposts/) (99👍)
 
 ### 技术
 
-- [Singapore govt dating app uses Gale-Shapley stable marriage algorithm](https://twitter.com/tuakdotsol/status/2105105417760391258) (233👍)
-- [EDG C++ front-end goes public](https://edgcpp.org/#transition) (156👍)
+- [Several vulnerabilities have been discovered in the Linux kernel](https://lwn.net/Articles/1097401/) (133👍)
+- [RIP, vector database](https://turbopuffer.com/blog/rip-vector-database) (286👍)
 
 ### 其他
 
-- [The top secret URSALA, RAQUEL, and FARRAH satellites](https://www.thespacereview.com/article/4951/1) (142👍)
-- [56k.rip – the 1996 dial-up internet experience](https://56k.rip/) (79👍)
-- [Why the Bronze Age Collapsed](https://www.worksinprogress.news/p/why-really-caused-the-bronze-age) (101👍)
+- [Pi 1.0](https://earendil.com/posts/pi-1-0/) (813👍)
+- [SvelteKit 3](https://svelte.dev/blog/sveltekit-3-is-here) (137👍)
+- [Ask HN: Who is hiring? (October 2026)](https://news.ycombinator.com/item?id=49922569) (161👍)
 
 ---
 
 ## 📊 统计
 
-- **抓取时间**: 2026-10-01 10:51:02
+- **抓取时间**: 2026-10-02 10:53:43
 - **故事总数**: 15
 - **已翻译标题**: 0/15
 - **数据来源**: [Hacker News](https://news.ycombinator.com)
