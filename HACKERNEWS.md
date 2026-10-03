@@ -1,4 +1,4 @@
-# 🚀 Hacker News 精选 | 2026年10月02日
+# 🚀 Hacker News 精选 | 2026年10月03日
 
 > 自动抓取 Hacker News Top 故事，批量翻译标题生成中文精选
 
@@ -6,25 +6,25 @@
 
 ## 🔥 热门 Top 5
 
-### 1. [Pi 1.0](https://earendil.com/posts/pi-1-0/)
-- **原文**: Pi 1.0
-- **来源**: earendil.com | 👍 813 | 💬 285
+### 1. [Things That Apparently Cause Cancer](https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer)
+- **原文**: Things That Apparently Cause Cancer
+- **来源**: breakthroughjournal.org | 👍 82 | 💬 31
 
-### 2. [Several vulnerabilities have been discovered in the Linux kernel](https://lwn.net/Articles/1097401/)
-- **原文**: Several vulnerabilities have been discovered in the Linux kernel
-- **来源**: lwn.net | 👍 133 | 💬 73
+### 2. [The Forgetful CPU (Linux on M4)](https://yuka.dev/blog-2026-10-02-linux-m4.html)
+- **原文**: The Forgetful CPU (Linux on M4)
+- **来源**: yuka.dev | 👍 119 | 💬 46
 
-### 3. [Clef: Open-weight decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/)
-- **原文**: Clef: Open-weight decision models, and new RL fine-tuning platform
-- **来源**: blog.cloudflare.com | 👍 445 | 💬 163
+### 3. [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility)
+- **原文**: Court agrees with EFF: Utah's VPN law demands a technical impossibility
+- **来源**: eff.org | 👍 528 | 💬 232
 
-### 4. [SvelteKit 3](https://svelte.dev/blog/sveltekit-3-is-here)
-- **原文**: SvelteKit 3
-- **来源**: svelte.dev | 👍 137 | 💬 54
+### 4. [Mike Tomlin spent 12 years building a Minecraft city](https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/)
+- **原文**: Mike Tomlin spent 12 years building a Minecraft city
+- **来源**: nytimes.com | 👍 310 | 💬 84
 
-### 5. [Ask HN: Who is hiring? (October 2026)](https://news.ycombinator.com/item?id=49922569)
-- **原文**: Ask HN: Who is hiring? (October 2026)
-- **来源**: news.ycombinator.com | 👍 161 | 💬 165
+### 5. [A 12-year sequence of telescope images of a star and four planets orbiting](https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f)
+- **原文**: A 12-year sequence of telescope images of a star and four planets orbiting
+- **来源**: bsky.app | 👍 204 | 💬 49
 
 ---
 
@@ -32,26 +32,29 @@
 
 ### AI
 
-- [Clef: Open-weight decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/) (445👍)
-- [Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia](https://github.com/Vibra-Ingenn/Janus) (54👍)
-- [Vote on which of Hacker News' challenges for AI have been met](https://stoppels.ch/goalposts/) (99👍)
+- [NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]](https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf) (15👍)
+- [With most information hidden, the game Stratego had stumped AI until now](https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/) (188👍)
+- [Hair Loss Was Just the Start. Ozempic Users Are Also Reporting Nail Trouble](https://gizmodo.com/hair-loss-was-just-the-start-ozempic-users-are-also-reporting-nail-trouble-2000820821) (43👍)
 
 ### 技术
 
-- [Several vulnerabilities have been discovered in the Linux kernel](https://lwn.net/Articles/1097401/) (133👍)
-- [RIP, vector database](https://turbopuffer.com/blog/rip-vector-database) (286👍)
+- [The Forgetful CPU (Linux on M4)](https://yuka.dev/blog-2026-10-02-linux-m4.html) (119👍)
+
+### 科学
+
+- [Loss of cell identity drives human aging: Two new papers](https://erictopol.substack.com/p/loss-of-cell-identity-drives-human) (181👍)
 
 ### 其他
 
-- [Pi 1.0](https://earendil.com/posts/pi-1-0/) (813👍)
-- [SvelteKit 3](https://svelte.dev/blog/sveltekit-3-is-here) (137👍)
-- [Ask HN: Who is hiring? (October 2026)](https://news.ycombinator.com/item?id=49922569) (161👍)
+- [Things That Apparently Cause Cancer](https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer) (82👍)
+- [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility) (528👍)
+- [Mike Tomlin spent 12 years building a Minecraft city](https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/) (310👍)
 
 ---
 
 ## 📊 统计
 
-- **抓取时间**: 2026-10-02 10:53:43
+- **抓取时间**: 2026-10-03 10:40:14
 - **故事总数**: 15
 - **已翻译标题**: 0/15
 - **数据来源**: [Hacker News](https://news.ycombinator.com)
