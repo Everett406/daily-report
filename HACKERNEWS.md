@@ -1,4 +1,4 @@
-# 🚀 Hacker News 精选 | 2026年10月03日
+# 🚀 Hacker News 精选 | 2026年10月04日
 
 > 自动抓取 Hacker News Top 故事，批量翻译标题生成中文精选
 
@@ -6,25 +6,25 @@
 
 ## 🔥 热门 Top 5
 
-### 1. [Things That Apparently Cause Cancer](https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer)
-- **原文**: Things That Apparently Cause Cancer
-- **来源**: breakthroughjournal.org | 👍 82 | 💬 31
+### 1. [We're going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/)
+- **原文**: We're going to need default hard budget caps on pretty much everything
+- **来源**: simonwillison.net | 👍 228 | 💬 124
 
-### 2. [The Forgetful CPU (Linux on M4)](https://yuka.dev/blog-2026-10-02-linux-m4.html)
-- **原文**: The Forgetful CPU (Linux on M4)
-- **来源**: yuka.dev | 👍 119 | 💬 46
+### 2. [Bob Cringely Has Died](https://news.ycombinator.com/item?id=49949438)
+- **原文**: Bob Cringely Has Died
+- **来源**: news.ycombinator.com | 👍 167 | 💬 28
 
-### 3. [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility)
-- **原文**: Court agrees with EFF: Utah's VPN law demands a technical impossibility
-- **来源**: eff.org | 👍 528 | 💬 232
+### 3. [Treachery in the Rodin Museum 3D scan verdict](https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict)
+- **原文**: Treachery in the Rodin Museum 3D scan verdict
+- **来源**: cosmowenman.substack.com | 👍 99 | 💬 52
 
-### 4. [Mike Tomlin spent 12 years building a Minecraft city](https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/)
-- **原文**: Mike Tomlin spent 12 years building a Minecraft city
-- **来源**: nytimes.com | 👍 310 | 💬 84
+### 4. [Hole Punch: Sling your spaceship around gravitational fields](https://notoriousbfg.com/hole-punch/)
+- **原文**: Hole Punch: Sling your spaceship around gravitational fields
+- **来源**: notoriousbfg.com | 👍 246 | 💬 62
 
-### 5. [A 12-year sequence of telescope images of a star and four planets orbiting](https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f)
-- **原文**: A 12-year sequence of telescope images of a star and four planets orbiting
-- **来源**: bsky.app | 👍 204 | 💬 49
+### 5. [The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux](https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU)
+- **原文**: The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux
+- **来源**: phoronix.com | 👍 163 | 💬 21
 
 ---
 
@@ -32,29 +32,31 @@
 
 ### AI
 
-- [NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]](https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf) (15👍)
-- [With most information hidden, the game Stratego had stumped AI until now](https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/) (188👍)
-- [Hair Loss Was Just the Start. Ozempic Users Are Also Reporting Nail Trouble](https://gizmodo.com/hair-loss-was-just-the-start-ozempic-users-are-also-reporting-nail-trouble-2000820821) (43👍)
+- [Kolibri: A Sovereign Open-Weight Model](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/) (533👍)
+- [OpenAI safety leader quits, warning AI company's culture is 'broken'](https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken) (205👍)
+- [Getting the most out of Opus 5.5 in Claude and Claude Code](https://claude.dev/blog/getting-the-most-out-of-opus-5-5/) (177👍)
 
 ### 技术
 
-- [The Forgetful CPU (Linux on M4)](https://yuka.dev/blog-2026-10-02-linux-m4.html) (119👍)
+- [We're going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/) (228👍)
+- [The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux](https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU) (163👍)
+- [Math's pedagogical curse – Grant Sanderson [video]](https://www.youtube.com/watch?v=UOuxo6SA8Uc) (15👍)
 
 ### 科学
 
-- [Loss of cell identity drives human aging: Two new papers](https://erictopol.substack.com/p/loss-of-cell-identity-drives-human) (181👍)
+- [Hole Punch: Sling your spaceship around gravitational fields](https://notoriousbfg.com/hole-punch/) (246👍)
 
 ### 其他
 
-- [Things That Apparently Cause Cancer](https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer) (82👍)
-- [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility) (528👍)
-- [Mike Tomlin spent 12 years building a Minecraft city](https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/) (310👍)
+- [Bob Cringely Has Died](https://news.ycombinator.com/item?id=49949438) (167👍)
+- [Treachery in the Rodin Museum 3D scan verdict](https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict) (99👍)
+- [Reasons I didn't become an EMT, ranked](https://ben.stolovitz.com/posts/reasons-not-emt-ranked/) (112👍)
 
 ---
 
 ## 📊 统计
 
-- **抓取时间**: 2026-10-03 10:40:14
+- **抓取时间**: 2026-10-04 11:11:29
 - **故事总数**: 15
 - **已翻译标题**: 0/15
 - **数据来源**: [Hacker News](https://news.ycombinator.com)
