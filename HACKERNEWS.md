@@ -1,4 +1,4 @@
-# 🚀 Hacker News 精选 | 2026年10月13日
+# 🚀 Hacker News 精选 | 2026年10月14日
 
 > 自动抓取 Hacker News Top 故事，批量翻译标题生成中文精选
 
@@ -6,25 +6,25 @@
 
 ## 🔥 热门 Top 5
 
-### 1. [The baffling intelligence of a single cell (2024)](https://jsomers.net/e-coli-chemotaxis/)
-- **原文**: The baffling intelligence of a single cell (2024)
-- **来源**: jsomers.net | 👍 128 | 💬 11
+### 1. [Gemini 4 Argon](https://deepmind.google/models/gemini/)
+- **原文**: Gemini 4 Argon
+- **来源**: deepmind.google | 👍 1042 | 💬 770
 
-### 2. [GLM-Legal](https://z.ai/blog/glm-legal)
-- **原文**: GLM-Legal
-- **来源**: z.ai | 👍 476 | 💬 275
+### 2. [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/)
+- **原文**: Show HN: Guitoro, a virtual guitar you strum with your keyboard
+- **来源**: guitoro.com | 👍 299 | 💬 90
 
-### 3. [AI Models Can Provably Hide Arbitrary Capabilities](https://arxiv.org/abs/2610.13928)
-- **原文**: AI Models Can Provably Hide Arbitrary Capabilities
-- **来源**: arxiv.org | 👍 29 | 💬 6
+### 3. [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/)
+- **原文**: Ledger confirms spy chip implant behind wallet crypto thefts
+- **来源**: bleepingcomputer.com | 👍 464 | 💬 340
 
-### 4. [A Modern Web App in C](https://prophitt.me/writing/a-modern-web-app-in-c)
-- **原文**: A Modern Web App in C
-- **来源**: prophitt.me | 👍 445 | 💬 178
+### 4. [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance)
+- **原文**: Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine
+- **来源**: pulseos.finance | 👍 61 | 💬 31
 
-### 5. [Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html)
-- **原文**: Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X
-- **来源**: intel.com | 👍 110 | 💬 46
+### 5. [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control)
+- **原文**: Redesigning source control at Anthropic
+- **来源**: anthropic.com | 👍 569 | 💬 538
 
 ---
 
@@ -32,33 +32,29 @@
 
 ### AI
 
-- [AI Models Can Provably Hide Arbitrary Capabilities](https://arxiv.org/abs/2610.13928) (29👍)
-- [Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html) (110👍)
-- [A look at OpenAI’s math that’s claimed computes faster Fourier transforms](https://www.argmin.net/p/faster-fourier-transforms) (45👍)
+- [Gemini 4 Argon](https://deepmind.google/models/gemini/) (1042👍)
+- [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance) (61👍)
+- [I built a tool to track what AI leaders say and how their views change on video](https://blumify.io/people) (11👍)
 
 ### 技术
 
-- [Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver](https://github.com/h0m3us3r/w1700k-sdr) (292👍)
+- [Recreational Programming](https://www.cphiri.dev/presentations/recreational-programming) (67👍)
 
-### 安全
+### 硬件
 
-- [Hackers activate automatic defrosting in supermarket fridges across Europe](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident) (506👍)
-
-### 科学
-
-- [Auto Research: Integer multiplication below n log n](https://app.getsupers.com/auto-research) (31👍)
+- [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/) (464👍)
 
 ### 其他
 
-- [The baffling intelligence of a single cell (2024)](https://jsomers.net/e-coli-chemotaxis/) (128👍)
-- [GLM-Legal](https://z.ai/blog/glm-legal) (476👍)
-- [A Modern Web App in C](https://prophitt.me/writing/a-modern-web-app-in-c) (445👍)
+- [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/) (299👍)
+- [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control) (569👍)
+- [Apple HomeView](https://www.apple.com/apple-homeview/) (678👍)
 
 ---
 
 ## 📊 统计
 
-- **抓取时间**: 2026-10-13 12:16:30
+- **抓取时间**: 2026-10-14 10:28:14
 - **故事总数**: 15
 - **已翻译标题**: 0/15
 - **数据来源**: [Hacker News](https://news.ycombinator.com)
