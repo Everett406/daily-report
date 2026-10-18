@@ -1,4 +1,4 @@
-# 🚀 Hacker News 精选 | 2026年10月17日
+# 🚀 Hacker News 精选 | 2026年10月18日
 
 > 自动抓取 Hacker News Top 故事，批量翻译标题生成中文精选
 
@@ -6,25 +6,25 @@
 
 ## 🔥 热门 Top 5
 
-### 1. [Tesla Roadster](https://www.tesla.com/roadster)
-- **原文**: Tesla Roadster
-- **来源**: tesla.com | 👍 1192 | 💬 2159
+### 1. [Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day](https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day)
+- **原文**: Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day
+- **来源**: meidasnews.com | 👍 84 | 💬 18
 
-### 2. [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](https://github.com/cobanov/PS5LM)
-- **原文**: Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console
-- **来源**: github.com | 👍 201 | 💬 51
+### 2. [Bleached corals thrive within days when touching healthy neighbour](https://www.nature.com/articles/d41586-026-03266-x)
+- **原文**: Bleached corals thrive within days when touching healthy neighbour
+- **来源**: nature.com | 👍 329 | 💬 72
 
-### 3. [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)
-- **原文**: Claude reveals ECDSA curve origins
-- **来源**: anthropic.com | 👍 685 | 💬 273
+### 3. [Dam removals are bringing fish back across the northeastern United States](https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/)
+- **原文**: Dam removals are bringing fish back across the northeastern United States
+- **来源**: smithsonianmag.com | 👍 197 | 💬 55
 
-### 4. [FLUX 3 Image Klein](https://bfl.ai/blog/flux-3-image-klein)
-- **原文**: FLUX 3 Image Klein
-- **来源**: bfl.ai | 👍 116 | 💬 27
+### 4. [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)
+- **原文**: DeepSeek-v4.1-Flash-1017
+- **来源**: huggingface.co | 👍 703 | 💬 591
 
-### 5. [Waymo in Toronto](https://waymo.com/blog/2026/10/waymo-in-toronto/)
-- **原文**: Waymo in Toronto
-- **来源**: waymo.com | 👍 271 | 💬 381
+### 5. [Furifont, a Japanese font that shows furigana](https://furifont.antfu.me/)
+- **原文**: Furifont, a Japanese font that shows furigana
+- **来源**: furifont.antfu.me | 👍 267 | 💬 55
 
 ---
 
@@ -32,25 +32,28 @@
 
 ### AI
 
-- [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](https://github.com/cobanov/PS5LM) (201👍)
-- [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins) (685👍)
-- [Designing more efficient quantum circuits with Claude](https://www.anthropic.com/research/designing-efficient-quantum-circuits) (103👍)
+- [Pele – Mermaid diagrams as themeable SVG](https://pele.run/) (239👍)
 
-### 科学
+### 技术
 
-- [Apple ML Research: Muse Spark Open with MLX on Mac Studio](https://machinelearning.apple.com/research/mlx-distributed-inference) (268👍)
+- [Gold is now the top U.S. export](https://www.numismaticnews.net/gold-now-top-u-s-export) (239👍)
+- [Source code of the Estonian online voting system](https://github.com/valimised/ivxv) (170👍)
+
+### 硬件
+
+- [The Commodore 64 hardware simulator: break chips and pins, see the results](https://github.com/antirez/c64-hw-simulator) (145👍)
 
 ### 其他
 
-- [Tesla Roadster](https://www.tesla.com/roadster) (1192👍)
-- [FLUX 3 Image Klein](https://bfl.ai/blog/flux-3-image-klein) (116👍)
-- [Waymo in Toronto](https://waymo.com/blog/2026/10/waymo-in-toronto/) (271👍)
+- [Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day](https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day) (84👍)
+- [Bleached corals thrive within days when touching healthy neighbour](https://www.nature.com/articles/d41586-026-03266-x) (329👍)
+- [Dam removals are bringing fish back across the northeastern United States](https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/) (197👍)
 
 ---
 
 ## 📊 统计
 
-- **抓取时间**: 2026-10-17 09:54:20
+- **抓取时间**: 2026-10-18 09:53:10
 - **故事总数**: 15
 - **已翻译标题**: 0/15
 - **数据来源**: [Hacker News](https://news.ycombinator.com)
