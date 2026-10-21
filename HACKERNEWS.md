@@ -1,4 +1,4 @@
-# 🚀 Hacker News 精选 | 2026年10月20日
+# 🚀 Hacker News 精选 | 2026年10月21日
 
 > 自动抓取 Hacker News Top 故事，批量翻译标题生成中文精选
 
@@ -6,25 +6,25 @@
 
 ## 🔥 热门 Top 5
 
-### 1. [Lula supporters protest against Meta to denounce its 'electoral interference'](https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/)
-- **原文**: Lula supporters protest against Meta to denounce its 'electoral interference'
-- **来源**: efe.com | 👍 124 | 💬 46
+### 1. [Show HN: SimCity, but with Permits](https://permit.petercai.com/)
+- **原文**: Show HN: SimCity, but with Permits
+- **来源**: permit.petercai.com | 👍 587 | 💬 294
 
-### 2. [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f)
-- **原文**: MiniMax M3.1 Flash
-- **来源**: minimax.io | 👍 389 | 💬 168
+### 2. [Feds suspect ransom negotiator ran ShinyHunters extortion site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
+- **原文**: Feds suspect ransom negotiator ran ShinyHunters extortion site
+- **来源**: krebsonsecurity.com | 👍 107 | 💬 39
 
-### 3. [I built a drone with only one motor [video]](https://www.youtube.com/watch?v=Ndftcft6XhU)
-- **原文**: I built a drone with only one motor [video]
-- **来源**: youtube.com | 👍 401 | 💬 85
+### 3. [Learning to live with Waymos](https://www.newyorker.com/magazine/2026/10/19/were-learning-to-live-with-waymos-its-going-weird)
+- **原文**: Learning to live with Waymos
+- **来源**: newyorker.com | 👍 10 | 💬 0
 
-### 4. [Wine ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175)
-- **原文**: Wine ported to OpenBSD
-- **来源**: marc.info | 👍 508 | 💬 170
+### 4. [Voxtral 3](https://mistral.ai/news/voxtral-3/)
+- **原文**: Voxtral 3
+- **来源**: mistral.ai | 👍 535 | 💬 143
 
-### 5. [Weball: Play Katamari on Websites](https://www.funwithcomputervision.com/weball/)
-- **原文**: Weball: Play Katamari on Websites
-- **来源**: funwithcomputervision.com | 👍 71 | 💬 4
+### 5. [The Other Epidemic: Trying to get off benzodiazepines](https://www.thebeliever.net/the-other-epidemic/)
+- **原文**: The Other Epidemic: Trying to get off benzodiazepines
+- **来源**: thebeliever.net | 👍 70 | 💬 43
 
 ---
 
@@ -32,26 +32,26 @@
 
 ### AI
 
-- [Lula supporters protest against Meta to denounce its 'electoral interference'](https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/) (124👍)
-- [Ukraine claims first drone evacuation of wounded soldier](https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310) (131👍)
+- [Good type against all odds](https://unsung.aresluna.org/good-type-against-all-odds/) (14👍)
+- [DeepInfer: High-performance inference framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer) (2145👍)
 
 ### 技术
 
-- [OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18](https://bsd.network/@brynet/117407035545900963) (94👍)
-- [It's still ok to enjoy programming](https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming) (454👍)
-- [Putting Linux on my RTX Spark laptop because I don't have a Microsoft account](https://josie.lol/blog/linux-rtx-spark) (188👍)
+- [Feds suspect ransom negotiator ran ShinyHunters extortion site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/) (107👍)
+- [Google open-sources TorchTPU, a native PyTorch back end for TPUs](https://github.com/google-pytorch/torch_tpu) (267👍)
+- [SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md) (176👍)
 
 ### 其他
 
-- [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f) (389👍)
-- [I built a drone with only one motor [video]](https://www.youtube.com/watch?v=Ndftcft6XhU) (401👍)
-- [Wine ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175) (508👍)
+- [Show HN: SimCity, but with Permits](https://permit.petercai.com/) (587👍)
+- [Learning to live with Waymos](https://www.newyorker.com/magazine/2026/10/19/were-learning-to-live-with-waymos-its-going-weird) (10👍)
+- [Voxtral 3](https://mistral.ai/news/voxtral-3/) (535👍)
 
 ---
 
 ## 📊 统计
 
-- **抓取时间**: 2026-10-20 10:25:18
+- **抓取时间**: 2026-10-21 10:19:15
 - **故事总数**: 15
 - **已翻译标题**: 0/15
 - **数据来源**: [Hacker News](https://news.ycombinator.com)
