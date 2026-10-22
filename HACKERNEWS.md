@@ -1,4 +1,4 @@
-# 🚀 Hacker News 精选 | 2026年10月21日
+# 🚀 Hacker News 精选 | 2026年10月22日
 
 > 自动抓取 Hacker News Top 故事，批量翻译标题生成中文精选
 
@@ -6,25 +6,25 @@
 
 ## 🔥 热门 Top 5
 
-### 1. [Show HN: SimCity, but with Permits](https://permit.petercai.com/)
-- **原文**: Show HN: SimCity, but with Permits
-- **来源**: permit.petercai.com | 👍 587 | 💬 294
+### 1. [mitmproxy adds --emudhra option](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b)
+- **原文**: mitmproxy adds --emudhra option
+- **来源**: github.com | 👍 207 | 💬 52
 
-### 2. [Feds suspect ransom negotiator ran ShinyHunters extortion site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
-- **原文**: Feds suspect ransom negotiator ran ShinyHunters extortion site
-- **来源**: krebsonsecurity.com | 👍 107 | 💬 39
+### 2. [Railway Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)
+- **原文**: Railway Security Disclosure
+- **来源**: blog.railway.com | 👍 320 | 💬 158
 
-### 3. [Learning to live with Waymos](https://www.newyorker.com/magazine/2026/10/19/were-learning-to-live-with-waymos-its-going-weird)
-- **原文**: Learning to live with Waymos
-- **来源**: newyorker.com | 👍 10 | 💬 0
+### 3. [There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/)
+- **原文**: There isn't an easy exploit for this PHP vulnerability
+- **来源**: eliastaylor.com | 👍 165 | 💬 79
 
-### 4. [Voxtral 3](https://mistral.ai/news/voxtral-3/)
-- **原文**: Voxtral 3
-- **来源**: mistral.ai | 👍 535 | 💬 143
+### 4. [Today's PHP security release, and how we're strengthening security](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/)
+- **原文**: Today's PHP security release, and how we're strengthening security
+- **来源**: thephp.foundation | 👍 685 | 💬 336
 
-### 5. [The Other Epidemic: Trying to get off benzodiazepines](https://www.thebeliever.net/the-other-epidemic/)
-- **原文**: The Other Epidemic: Trying to get off benzodiazepines
-- **来源**: thebeliever.net | 👍 70 | 💬 43
+### 5. [GitLab Critical Patch Release](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/)
+- **原文**: GitLab Critical Patch Release
+- **来源**: docs.gitlab.com | 👍 254 | 💬 63
 
 ---
 
@@ -32,26 +32,31 @@
 
 ### AI
 
-- [Good type against all odds](https://unsung.aresluna.org/good-type-against-all-odds/) (14👍)
-- [DeepInfer: High-performance inference framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer) (2145👍)
+- [Railway Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st) (320👍)
+- [Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/) (441👍)
+- [Chain of Thought for Humans](https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/) (31👍)
 
 ### 技术
 
-- [Feds suspect ransom negotiator ran ShinyHunters extortion site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/) (107👍)
-- [Google open-sources TorchTPU, a native PyTorch back end for TPUs](https://github.com/google-pytorch/torch_tpu) (267👍)
-- [SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md) (176👍)
+- [Google's Rust Style Guide](https://google.github.io/styleguide/rustguide.html) (214👍)
+- [The era of speedball capitalism has dawned](https://www.economist.com/business/2026/09/30/the-era-of-speedball-capitalism-has-dawned) (22👍)
+
+### 安全
+
+- [There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/) (165👍)
+- [Today's PHP security release, and how we're strengthening security](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/) (685👍)
 
 ### 其他
 
-- [Show HN: SimCity, but with Permits](https://permit.petercai.com/) (587👍)
-- [Learning to live with Waymos](https://www.newyorker.com/magazine/2026/10/19/were-learning-to-live-with-waymos-its-going-weird) (10👍)
-- [Voxtral 3](https://mistral.ai/news/voxtral-3/) (535👍)
+- [mitmproxy adds --emudhra option](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b) (207👍)
+- [GitLab Critical Patch Release](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/) (254👍)
+- [No More Icons in Every Menu by Default](https://blog.jim-nielsen.com/2026/icons-in-every-menu/) (186👍)
 
 ---
 
 ## 📊 统计
 
-- **抓取时间**: 2026-10-21 10:19:15
+- **抓取时间**: 2026-10-22 10:13:50
 - **故事总数**: 15
 - **已翻译标题**: 0/15
 - **数据来源**: [Hacker News](https://news.ycombinator.com)
