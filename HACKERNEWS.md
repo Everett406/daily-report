@@ -1,4 +1,4 @@
-# 🚀 Hacker News 精选 | 2026年10月22日
+# 🚀 Hacker News 精选 | 2026年10月23日
 
 > 自动抓取 Hacker News Top 故事，批量翻译标题生成中文精选
 
@@ -6,25 +6,25 @@
 
 ## 🔥 热门 Top 5
 
-### 1. [mitmproxy adds --emudhra option](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b)
-- **原文**: mitmproxy adds --emudhra option
-- **来源**: github.com | 👍 207 | 💬 52
+### 1. [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
+- **原文**: Docker is weird
+- **来源**: codeandcake.dev | 👍 137 | 💬 61
 
-### 2. [Railway Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)
-- **原文**: Railway Security Disclosure
-- **来源**: blog.railway.com | 👍 320 | 💬 158
+### 2. [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification)
+- **原文**: LLMs are making formal software verification feasible at a much larger scale
+- **来源**: anthropic.com | 👍 129 | 💬 66
 
-### 3. [There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/)
-- **原文**: There isn't an easy exploit for this PHP vulnerability
-- **来源**: eliastaylor.com | 👍 165 | 💬 79
+### 3. [The foolishness of "natural language programming" (1978)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
+- **原文**: The foolishness of "natural language programming" (1978)
+- **来源**: cs.utexas.edu | 👍 31 | 💬 26
 
-### 4. [Today's PHP security release, and how we're strengthening security](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/)
-- **原文**: Today's PHP security release, and how we're strengthening security
-- **来源**: thephp.foundation | 👍 685 | 💬 336
+### 4. [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/)
+- **原文**: Quad9 (DNS Resolver) to Exit France
+- **来源**: quad9.net | 👍 1013 | 💬 365
 
-### 5. [GitLab Critical Patch Release](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/)
-- **原文**: GitLab Critical Patch Release
-- **来源**: docs.gitlab.com | 👍 254 | 💬 63
+### 5. [OpenShell – A safe, private runtime for fleets of autonomous AI agents](https://github.com/NVIDIA/OpenShell)
+- **原文**: OpenShell – A safe, private runtime for fleets of autonomous AI agents
+- **来源**: github.com | 👍 311 | 💬 162
 
 ---
 
@@ -32,31 +32,29 @@
 
 ### AI
 
-- [Railway Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st) (320👍)
-- [Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/) (441👍)
-- [Chain of Thought for Humans](https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/) (31👍)
+- [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification) (129👍)
+- [OpenShell – A safe, private runtime for fleets of autonomous AI agents](https://github.com/NVIDIA/OpenShell) (311👍)
+- [Every AI model has the same "controversial" take on humans](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans) (254👍)
 
 ### 技术
 
-- [Google's Rust Style Guide](https://google.github.io/styleguide/rustguide.html) (214👍)
-- [The era of speedball capitalism has dawned](https://www.economist.com/business/2026/09/30/the-era-of-speedball-capitalism-has-dawned) (22👍)
+- [The foolishness of "natural language programming" (1978)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html) (31👍)
 
-### 安全
+### 硬件
 
-- [There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/) (165👍)
-- [Today's PHP security release, and how we're strengthening security](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/) (685👍)
+- [Run full iOS 16.5 firmware on Android Devices](https://github.com/oosexgang/hackios-xnu-kernel) (329👍)
 
 ### 其他
 
-- [mitmproxy adds --emudhra option](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b) (207👍)
-- [GitLab Critical Patch Release](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/) (254👍)
-- [No More Icons in Every Menu by Default](https://blog.jim-nielsen.com/2026/icons-in-every-menu/) (186👍)
+- [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird) (137👍)
+- [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/) (1013👍)
+- [Woman faces six years in prison over Cash App account she never opened](https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html) (518👍)
 
 ---
 
 ## 📊 统计
 
-- **抓取时间**: 2026-10-22 10:13:50
+- **抓取时间**: 2026-10-23 10:19:49
 - **故事总数**: 15
 - **已翻译标题**: 0/15
 - **数据来源**: [Hacker News](https://news.ycombinator.com)
