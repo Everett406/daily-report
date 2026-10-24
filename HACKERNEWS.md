@@ -1,4 +1,4 @@
-# 🚀 Hacker News 精选 | 2026年10月23日
+# 🚀 Hacker News 精选 | 2026年10月24日
 
 > 自动抓取 Hacker News Top 故事，批量翻译标题生成中文精选
 
@@ -6,25 +6,25 @@
 
 ## 🔥 热门 Top 5
 
-### 1. [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
-- **原文**: Docker is weird
-- **来源**: codeandcake.dev | 👍 137 | 💬 61
+### 1. [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro)
+- **原文**: Kimi K3.1 Pro and K3.1 Pro Highspeed
+- **来源**: kimi.ai | 👍 737 | 💬 461
 
-### 2. [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification)
-- **原文**: LLMs are making formal software verification feasible at a much larger scale
-- **来源**: anthropic.com | 👍 129 | 💬 66
+### 2. [Evolving Threat: http2shell is an RCE in node, Python, and more](https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8)
+- **原文**: Evolving Threat: http2shell is an RCE in node, Python, and more
+- **来源**: nitter.click | 👍 89 | 💬 34
 
-### 3. [The foolishness of "natural language programming" (1978)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
-- **原文**: The foolishness of "natural language programming" (1978)
-- **来源**: cs.utexas.edu | 👍 31 | 💬 26
+### 3. [Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist)
+- **原文**: Apple Music 404 Not Found
+- **来源**: music.apple.com | 👍 603 | 💬 194
 
-### 4. [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/)
-- **原文**: Quad9 (DNS Resolver) to Exit France
-- **来源**: quad9.net | 👍 1013 | 💬 365
+### 4. [CVE Tracker](https://cve.0xosprey.com/)
+- **原文**: CVE Tracker
+- **来源**: cve.0xosprey.com | 👍 111 | 💬 42
 
-### 5. [OpenShell – A safe, private runtime for fleets of autonomous AI agents](https://github.com/NVIDIA/OpenShell)
-- **原文**: OpenShell – A safe, private runtime for fleets of autonomous AI agents
-- **来源**: github.com | 👍 311 | 💬 162
+### 5. [Dessa: the most authentic full-duplex speech model ever built](https://block.xyz/dessa)
+- **原文**: Dessa: the most authentic full-duplex speech model ever built
+- **来源**: block.xyz | 👍 243 | 💬 100
 
 ---
 
@@ -32,29 +32,28 @@
 
 ### AI
 
-- [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification) (129👍)
-- [OpenShell – A safe, private runtime for fleets of autonomous AI agents](https://github.com/NVIDIA/OpenShell) (311👍)
-- [Every AI model has the same "controversial" take on humans](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans) (254👍)
+- [Dessa: the most authentic full-duplex speech model ever built](https://block.xyz/dessa) (243👍)
+- [Now Google says it might use your Gmail and Google Photos data to target ads](https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update) (288👍)
 
 ### 技术
 
-- [The foolishness of "natural language programming" (1978)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html) (31👍)
+- [Evolving Threat: http2shell is an RCE in node, Python, and more](https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8) (89👍)
 
-### 硬件
+### 安全
 
-- [Run full iOS 16.5 firmware on Android Devices](https://github.com/oosexgang/hackios-xnu-kernel) (329👍)
+- [Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone) (757👍)
 
 ### 其他
 
-- [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird) (137👍)
-- [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/) (1013👍)
-- [Woman faces six years in prison over Cash App account she never opened](https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html) (518👍)
+- [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro) (737👍)
+- [Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist) (603👍)
+- [CVE Tracker](https://cve.0xosprey.com/) (111👍)
 
 ---
 
 ## 📊 统计
 
-- **抓取时间**: 2026-10-23 10:19:49
+- **抓取时间**: 2026-10-24 10:17:44
 - **故事总数**: 15
 - **已翻译标题**: 0/15
 - **数据来源**: [Hacker News](https://news.ycombinator.com)
