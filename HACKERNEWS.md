@@ -1,4 +1,4 @@
-# 🚀 Hacker News 精选 | 2026年10月27日
+# 🚀 Hacker News 精选 | 2026年10月28日
 
 > 自动抓取 Hacker News Top 故事，批量翻译标题生成中文精选
 
@@ -6,25 +6,25 @@
 
 ## 🔥 热门 Top 5
 
-### 1. [Three new discoveries in mathematics, computer science, and physics](https://openai.com/index/building-scientific-understanding-with-academic-communities/)
-- **原文**: Three new discoveries in mathematics, computer science, and physics
-- **来源**: openai.com | 👍 537 | 💬 227
+### 1. [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
+- **原文**: Genie 4
+- **来源**: deepmind.google | 👍 758 | 💬 456
 
-### 2. [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf)
-- **原文**: The Exponential Time Hypothesis Is False [pdf]
-- **来源**: github.com | 👍 344 | 💬 136
+### 2. [Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0)
+- **原文**: Ghostty 1.4
+- **来源**: ghostty.org | 👍 810 | 💬 244
 
-### 3. [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models)
-- **原文**: Sebastian Raschka's from-scratch video course on building reasoning models
-- **来源**: magazine.sebastianraschka.com | 👍 578 | 💬 83
+### 3. [Ink droplets in motion snag top prize in Nikon Small World contest](https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/)
+- **原文**: Ink droplets in motion snag top prize in Nikon Small World contest
+- **来源**: arstechnica.com | 👍 83 | 💬 14
 
-### 4. [Oldest GUI application that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/)
-- **原文**: Oldest GUI application that still runs on Windows 11
-- **来源**: blog.enlyth.com | 👍 316 | 💬 194
+### 4. [Git for US Legislation](https://lexifina.com/blog/git-for-the-us-code)
+- **原文**: Git for US Legislation
+- **来源**: lexifina.com | 👍 17 | 💬 6
 
-### 5. [Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)](https://blog.cloudflare.com/kv-cache-exposure-remediation/)
-- **原文**: Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)
-- **来源**: blog.cloudflare.com | 👍 84 | 💬 23
+### 5. [Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development)
+- **原文**: Early progress on accelerating drug development with Claude
+- **来源**: anthropic.com | 👍 145 | 💬 127
 
 ---
 
@@ -32,26 +32,29 @@
 
 ### AI
 
-- [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models) (578👍)
-- [Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)](https://blog.cloudflare.com/kv-cache-exposure-remediation/) (84👍)
-- [GPT-6.1 Terra](https://openai.com/index/introducing-gpt-6-1-terra/) (522👍)
+- [Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development) (145👍)
+- [Tailscale SSH: Investigation and remediation update](https://tailscale.com/ssh-investigation-update) (207👍)
+- [Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm) (206👍)
+
+### 技术
+
+- [Python's experimental JIT to be removed](https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/) (455👍)
 
 ### 科学
 
-- [Three new discoveries in mathematics, computer science, and physics](https://openai.com/index/building-scientific-understanding-with-academic-communities/) (537👍)
-- [A Printer Printing onto Paper](https://twitter.com/macrofying/status/2112904628509528219) (68👍)
+- [Tabletop Whale is an original science illustration blog](https://tabletopwhale.com) (13👍)
 
 ### 其他
 
-- [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf) (344👍)
-- [Oldest GUI application that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/) (316👍)
-- [16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows](https://github.com/otya128/winevdm) (22👍)
+- [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/) (758👍)
+- [Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0) (810👍)
+- [Ink droplets in motion snag top prize in Nikon Small World contest](https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/) (83👍)
 
 ---
 
 ## 📊 统计
 
-- **抓取时间**: 2026-10-27 10:42:27
+- **抓取时间**: 2026-10-28 10:51:17
 - **故事总数**: 15
 - **已翻译标题**: 0/15
 - **数据来源**: [Hacker News](https://news.ycombinator.com)
