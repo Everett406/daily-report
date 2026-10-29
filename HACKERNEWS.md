@@ -1,4 +1,4 @@
-# 🚀 Hacker News 精选 | 2026年10月28日
+# 🚀 Hacker News 精选 | 2026年10月29日
 
 > 自动抓取 Hacker News Top 故事，批量翻译标题生成中文精选
 
@@ -6,25 +6,25 @@
 
 ## 🔥 热门 Top 5
 
-### 1. [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
-- **原文**: Genie 4
-- **来源**: deepmind.google | 👍 758 | 💬 456
+### 1. [Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)
+- **原文**: Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5
+- **来源**: divagr.com | 👍 146 | 💬 34
 
-### 2. [Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0)
-- **原文**: Ghostty 1.4
-- **来源**: ghostty.org | 👍 810 | 💬 244
+### 2. [Why is this fingerprinting script creating bioweapons?](https://nullpt.rs/fingerprinting-bioweapons)
+- **原文**: Why is this fingerprinting script creating bioweapons?
+- **来源**: nullpt.rs | 👍 919 | 💬 192
 
-### 3. [Ink droplets in motion snag top prize in Nikon Small World contest](https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/)
-- **原文**: Ink droplets in motion snag top prize in Nikon Small World contest
-- **来源**: arstechnica.com | 👍 83 | 💬 14
+### 3. [GitLab Security Incident: Attempted Exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html)
+- **原文**: GitLab Security Incident: Attempted Exploitation of CVE-2026-97229
+- **来源**: alpinelinux.org | 👍 103 | 💬 38
 
-### 4. [Git for US Legislation](https://lexifina.com/blog/git-for-the-us-code)
-- **原文**: Git for US Legislation
-- **来源**: lexifina.com | 👍 17 | 💬 6
+### 4. [A Health Update](https://furbo.org/2026/10/28/a-health-update/)
+- **原文**: A Health Update
+- **来源**: furbo.org | 👍 134 | 💬 16
 
-### 5. [Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development)
-- **原文**: Early progress on accelerating drug development with Claude
-- **来源**: anthropic.com | 👍 145 | 💬 127
+### 5. [CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/)
+- **原文**: CNC Stone Carving
+- **来源**: carmelitegothic.com | 👍 421 | 💬 122
 
 ---
 
@@ -32,29 +32,28 @@
 
 ### AI
 
-- [Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development) (145👍)
-- [Tailscale SSH: Investigation and remediation update](https://tailscale.com/ssh-investigation-update) (207👍)
-- [Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm) (206👍)
+- [Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/) (831👍)
+- [Nixpkgs for the Front End Impaired](https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired) (17👍)
 
-### 技术
+### 安全
 
-- [Python's experimental JIT to be removed](https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/) (455👍)
+- [GitLab Security Incident: Attempted Exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html) (103👍)
 
-### 科学
+### 硬件
 
-- [Tabletop Whale is an original science illustration blog](https://tabletopwhale.com) (13👍)
+- [Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer) (146👍)
 
 ### 其他
 
-- [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/) (758👍)
-- [Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0) (810👍)
-- [Ink droplets in motion snag top prize in Nikon Small World contest](https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/) (83👍)
+- [Why is this fingerprinting script creating bioweapons?](https://nullpt.rs/fingerprinting-bioweapons) (919👍)
+- [A Health Update](https://furbo.org/2026/10/28/a-health-update/) (134👍)
+- [CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/) (421👍)
 
 ---
 
 ## 📊 统计
 
-- **抓取时间**: 2026-10-28 10:51:17
+- **抓取时间**: 2026-10-29 11:14:23
 - **故事总数**: 15
 - **已翻译标题**: 0/15
 - **数据来源**: [Hacker News](https://news.ycombinator.com)
