@@ -1,9 +1,9 @@
----
 
 > [!NOTE]
 > **本仓库已迁移至 Gitee**：<https://gitee.com/Everett5678/daily-report>
 > GitHub 端仅作只读归档，新代码请推送到 Gitee。
 
+---
 # 📰 每日早报 2026年10月29日 周四
 
 > **能享受最好的，也能享受最差的，这才做见过世面。** —— Linzepore 《Linzepore》
