@@ -1,4 +1,4 @@
-# 🚀 Hacker News 精选 | 2026年10月30日
+# 🚀 Hacker News 精选 | 2026年10月31日
 
 > 自动抓取 Hacker News Top 故事，批量翻译标题生成中文精选
 
@@ -6,25 +6,25 @@
 
 ## 🔥 热门 Top 5
 
-### 1. [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)
-- **原文**: Binance-hacker-1029 – $5.6B stolen from Binance
-- **来源**: arkm.com | 👍 834 | 💬 497
+### 1. [Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game](https://tng.episodle.com/)
+- **原文**: Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game
+- **来源**: tng.episodle.com | 👍 84 | 💬 24
 
-### 2. [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/)
-- **原文**: We're releasing the weights of Mistral Large 4
-- **来源**: mistral.ai | 👍 1246 | 💬 349
+### 2. [Cloudflare Turnstile solver library (no headless browser required)](https://github.com/chris124567/cfsolve)
+- **原文**: Cloudflare Turnstile solver library (no headless browser required)
+- **来源**: github.com | 👍 111 | 💬 31
 
-### 3. [We ran AI agent swarms in Minecraft and Mindustry](https://labs.ycombinator.com/projects/games/index.html)
-- **原文**: We ran AI agent swarms in Minecraft and Mindustry
-- **来源**: labs.ycombinator.com | 👍 202 | 💬 68
+### 3. [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/)
+- **原文**: Backdoor in Claude Code for VS Code extension on the Cursor Marketplace
+- **来源**: phorion.io | 👍 798 | 💬 499
 
-### 4. [Cuis: The Modern Smalltalk-80](https://cuis.st/)
-- **原文**: Cuis: The Modern Smalltalk-80
-- **来源**: cuis.st | 👍 9 | 💬 0
+### 4. [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)
+- **原文**: My favourite PowerMac is a Nintendo Wii
+- **来源**: virtuallyfun.com | 👍 257 | 💬 74
 
-### 5. [Astroterm: A Planetarium for Your Terminal](https://github.com/da-luce/astroterm)
-- **原文**: Astroterm: A Planetarium for Your Terminal
-- **来源**: github.com | 👍 10 | 💬 1
+### 5. [Northflank Breached](https://status.northflank.com)
+- **原文**: Northflank Breached
+- **来源**: status.northflank.com | 👍 370 | 💬 281
 
 ---
 
@@ -32,25 +32,30 @@
 
 ### AI
 
-- [We ran AI agent swarms in Minecraft and Mindustry](https://labs.ycombinator.com/projects/games/index.html) (202👍)
-- [A tiny world model running games on a Raspberry Pi Pico 2 W](https://github.com/SheepSeb/tinyworldformer) (151👍)
-- [Pico CSS is no longer maintained](https://github.com/picocss/pico/discussions/754) (43👍)
+- [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/) (798👍)
+- [Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man](https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/) (232👍)
+
+### 技术
+
+- [sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust](https://www.firezone.dev/blog/introducing-sanstun) (72👍)
+- [The federated code forge](https://tangled.org/blog/forge/) (242👍)
 
 ### 安全
 
-- [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8) (834👍)
+- [Northflank Breached](https://status.northflank.com) (370👍)
+- [The $6.3B Binance hack was pulled off in just 20 minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/) (346👍)
 
 ### 其他
 
-- [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/) (1246👍)
-- [Cuis: The Modern Smalltalk-80](https://cuis.st/) (9👍)
-- [Astroterm: A Planetarium for Your Terminal](https://github.com/da-luce/astroterm) (10👍)
+- [Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game](https://tng.episodle.com/) (84👍)
+- [Cloudflare Turnstile solver library (no headless browser required)](https://github.com/chris124567/cfsolve) (111👍)
+- [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/) (257👍)
 
 ---
 
 ## 📊 统计
 
-- **抓取时间**: 2026-10-30 11:17:19
+- **抓取时间**: 2026-10-31 11:00:31
 - **故事总数**: 15
 - **已翻译标题**: 0/15
 - **数据来源**: [Hacker News](https://news.ycombinator.com)
