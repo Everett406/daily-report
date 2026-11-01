@@ -1,4 +1,4 @@
-# 🚀 Hacker News 精选 | 2026年10月31日
+# 🚀 Hacker News 精选 | 2026年11月01日
 
 > 自动抓取 Hacker News Top 故事，批量翻译标题生成中文精选
 
@@ -6,25 +6,25 @@
 
 ## 🔥 热门 Top 5
 
-### 1. [Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game](https://tng.episodle.com/)
-- **原文**: Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game
-- **来源**: tng.episodle.com | 👍 84 | 💬 24
+### 1. [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)
+- **原文**: HackerTube: YouTube built from videos recommended by HN
+- **来源**: karpathy.bearblog.dev | 👍 801 | 💬 256
 
-### 2. [Cloudflare Turnstile solver library (no headless browser required)](https://github.com/chris124567/cfsolve)
-- **原文**: Cloudflare Turnstile solver library (no headless browser required)
-- **来源**: github.com | 👍 111 | 💬 31
+### 2. [An Italian farmer found some unknown seeds in his attic and planted them](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/)
+- **原文**: An Italian farmer found some unknown seeds in his attic and planted them
+- **来源**: smithsonianmag.com | 👍 185 | 💬 54
 
-### 3. [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/)
-- **原文**: Backdoor in Claude Code for VS Code extension on the Cursor Marketplace
-- **来源**: phorion.io | 👍 798 | 💬 499
+### 3. [TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf)
+- **原文**: TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8
+- **来源**: atlasum.net | 👍 369 | 💬 175
 
-### 4. [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)
-- **原文**: My favourite PowerMac is a Nintendo Wii
-- **来源**: virtuallyfun.com | 👍 257 | 💬 74
+### 4. [Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard](https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve)
+- **原文**: Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard
+- **来源**: github.com | 👍 98 | 💬 49
 
-### 5. [Northflank Breached](https://status.northflank.com)
-- **原文**: Northflank Breached
-- **来源**: status.northflank.com | 👍 370 | 💬 281
+### 5. [Altoids Project](https://uvdn7.github.io/altoids-project/)
+- **原文**: Altoids Project
+- **来源**: uvdn7.github.io | 👍 53 | 💬 3
 
 ---
 
@@ -32,30 +32,23 @@
 
 ### AI
 
-- [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/) (798👍)
-- [Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man](https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/) (232👍)
-
-### 技术
-
-- [sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust](https://www.firezone.dev/blog/introducing-sanstun) (72👍)
-- [The federated code forge](https://tangled.org/blog/forge/) (242👍)
+- [Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard](https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve) (98👍)
 
 ### 安全
 
-- [Northflank Breached](https://status.northflank.com) (370👍)
-- [The $6.3B Binance hack was pulled off in just 20 minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/) (346👍)
+- [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/) (801👍)
 
 ### 其他
 
-- [Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game](https://tng.episodle.com/) (84👍)
-- [Cloudflare Turnstile solver library (no headless browser required)](https://github.com/chris124567/cfsolve) (111👍)
-- [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/) (257👍)
+- [An Italian farmer found some unknown seeds in his attic and planted them](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/) (185👍)
+- [TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf) (369👍)
+- [Altoids Project](https://uvdn7.github.io/altoids-project/) (53👍)
 
 ---
 
 ## 📊 统计
 
-- **抓取时间**: 2026-10-31 11:00:31
+- **抓取时间**: 2026-11-01 10:56:24
 - **故事总数**: 15
 - **已翻译标题**: 0/15
 - **数据来源**: [Hacker News](https://news.ycombinator.com)
