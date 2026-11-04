@@ -1,4 +1,4 @@
-# 🚀 Hacker News 精选 | 2026年11月03日
+# 🚀 Hacker News 精选 | 2026年11月04日
 
 > 自动抓取 Hacker News Top 故事，批量翻译标题生成中文精选
 
@@ -6,25 +6,25 @@
 
 ## 🔥 热门 Top 5
 
-### 1. [Median net worth of U.S. households under 35 fell 23% from 2022 to 2025 (real)](https://www.keepingup.com/benchmarks/net-worth/age-30-33)
-- **原文**: Median net worth of U.S. households under 35 fell 23% from 2022 to 2025 (real)
-- **来源**: keepingup.com | 👍 117 | 💬 35
+### 1. [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html)
+- **原文**: The Internals of PostgreSQL
+- **来源**: interdb.jp | 👍 163 | 💬 10
 
-### 2. [Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/)
-- **原文**: Astra can read and write weights to improve Qwen
-- **来源**: rikiyat.github.io | 👍 2154 | 💬 699
+### 2. [C++26 Disapproved](https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/)
+- **原文**: C++26 Disapproved
+- **来源**: andreasfertig.com | 👍 62 | 💬 12
 
-### 3. [Show HN: Hacker Times, a New York Times-inspired version of Hacker News](https://hackertimes.ca/)
-- **原文**: Show HN: Hacker Times, a New York Times-inspired version of Hacker News
-- **来源**: hackertimes.ca | 👍 93 | 💬 38
+### 3. [Jailbreaking my car's navigation system just so I can change the time](https://blog.nns.ee/2026/11/02/renault-hack/)
+- **原文**: Jailbreaking my car's navigation system just so I can change the time
+- **来源**: blog.nns.ee | 👍 649 | 💬 274
 
-### 4. [DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
-- **原文**: DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs
-- **来源**: github.com | 👍 83 | 💬 21
+### 4. [Giant canyon on Mars is still tectonically active](https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today)
+- **原文**: Giant canyon on Mars is still tectonically active
+- **来源**: lamont.columbia.edu | 👍 25 | 💬 0
 
-### 5. [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088)
-- **原文**: Show HN: Subvocal – Talk to your computer without making noise
-- **来源**: news.ycombinator.com | 👍 599 | 💬 319
+### 5. [Stringman, an $800 open-source room scale gripper robot](https://neufangled.com/)
+- **原文**: Stringman, an $800 open-source room scale gripper robot
+- **来源**: neufangled.com | 👍 434 | 💬 158
 
 ---
 
@@ -32,32 +32,30 @@
 
 ### AI
 
-- [Scaling Git at OpenAI](https://openai.com/index/scaling-git-at-openai/) (89👍)
+- [Jailbreaking my car's navigation system just so I can change the time](https://blog.nns.ee/2026/11/02/renault-hack/) (649👍)
+- [Fujifilm to boost tape production 5x as AI fuels archiving demand](https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/) (403👍)
+- [Qwen 3.8 27B on my laptop can interpret model weights, too](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/) (519👍)
+
+### 技术
+
+- [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html) (163👍)
+- [Arrows to arrows, categories to queries (2025)](https://reasonablypolymorphic.com/blog/arrows-to-arrows/) (7👍)
 
 ### 安全
 
-- [Show HN: Hacker Times, a New York Times-inspired version of Hacker News](https://hackertimes.ca/) (93👍)
-- [Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You](https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you) (137👍)
-
-### 硬件
-
-- [Intel stock collapse worsens as $3.5T chip rout spreads](https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html) (141👍)
-
-### 科学
-
-- [SLAC researchers find proof of altermagnetism, a new magnetic phase](https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase) (48👍)
+- [Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels](https://hackertv.org) (219👍)
 
 ### 其他
 
-- [Median net worth of U.S. households under 35 fell 23% from 2022 to 2025 (real)](https://www.keepingup.com/benchmarks/net-worth/age-30-33) (117👍)
-- [Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/) (2154👍)
-- [DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) (83👍)
+- [C++26 Disapproved](https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/) (62👍)
+- [Giant canyon on Mars is still tectonically active](https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today) (25👍)
+- [Stringman, an $800 open-source room scale gripper robot](https://neufangled.com/) (434👍)
 
 ---
 
 ## 📊 统计
 
-- **抓取时间**: 2026-11-03 12:22:29
+- **抓取时间**: 2026-11-04 11:40:47
 - **故事总数**: 15
 - **已翻译标题**: 0/15
 - **数据来源**: [Hacker News](https://news.ycombinator.com)
