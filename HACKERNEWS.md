@@ -1,4 +1,4 @@
-# 🚀 Hacker News 精选 | 2026年11月04日
+# 🚀 Hacker News 精选 | 2026年11月05日
 
 > 自动抓取 Hacker News Top 故事，批量翻译标题生成中文精选
 
@@ -6,25 +6,25 @@
 
 ## 🔥 热门 Top 5
 
-### 1. [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html)
-- **原文**: The Internals of PostgreSQL
-- **来源**: interdb.jp | 👍 163 | 💬 10
+### 1. [Residential proxies detected on White House network](https://layer3intel.com/blog/residential-proxies-white-house-network)
+- **原文**: Residential proxies detected on White House network
+- **来源**: layer3intel.com | 👍 777 | 💬 242
 
-### 2. [C++26 Disapproved](https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/)
-- **原文**: C++26 Disapproved
-- **来源**: andreasfertig.com | 👍 62 | 💬 12
+### 2. [Starfall – Affordable, routine access to microgravity](https://www.spacex.com/starfall)
+- **原文**: Starfall – Affordable, routine access to microgravity
+- **来源**: spacex.com | 👍 133 | 💬 76
 
-### 3. [Jailbreaking my car's navigation system just so I can change the time](https://blog.nns.ee/2026/11/02/renault-hack/)
-- **原文**: Jailbreaking my car's navigation system just so I can change the time
-- **来源**: blog.nns.ee | 👍 649 | 💬 274
+### 3. [Images 2.6](https://openai.com/index/introducing-images-2-6/)
+- **原文**: Images 2.6
+- **来源**: openai.com | 👍 167 | 💬 111
 
-### 4. [Giant canyon on Mars is still tectonically active](https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today)
-- **原文**: Giant canyon on Mars is still tectonically active
-- **来源**: lamont.columbia.edu | 👍 25 | 💬 0
+### 4. [A thousand fewer paths to root](https://openai.com/index/a-thousand-fewer-paths-to-root/)
+- **原文**: A thousand fewer paths to root
+- **来源**: openai.com | 👍 196 | 💬 113
 
-### 5. [Stringman, an $800 open-source room scale gripper robot](https://neufangled.com/)
-- **原文**: Stringman, an $800 open-source room scale gripper robot
-- **来源**: neufangled.com | 👍 434 | 💬 158
+### 5. [Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding](https://www.ricursive.com/ripple)
+- **原文**: Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding
+- **来源**: ricursive.com | 👍 243 | 💬 88
 
 ---
 
@@ -32,30 +32,30 @@
 
 ### AI
 
-- [Jailbreaking my car's navigation system just so I can change the time](https://blog.nns.ee/2026/11/02/renault-hack/) (649👍)
-- [Fujifilm to boost tape production 5x as AI fuels archiving demand](https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/) (403👍)
-- [Qwen 3.8 27B on my laptop can interpret model weights, too](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/) (519👍)
+- [Kimi K3.1 Pro model weights are out](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) (415👍)
+- [Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s](https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra) (116👍)
+- [Launch HN: Kino AI (YC S23) – AI media manager and video editor](https://news.ycombinator.com/item?id=50368804) (76👍)
 
 ### 技术
 
-- [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html) (163👍)
-- [Arrows to arrows, categories to queries (2025)](https://reasonablypolymorphic.com/blog/arrows-to-arrows/) (7👍)
+- [Frustrated Ranchers Want People to Quit 'Rescuing' Their Working Guardian Dogs](https://cowboystatedaily.com/2026/10/15/frustrated-ranchers-want-people-to-quit-rescuing-their-working-guardian-dogs/) (49👍)
+- [A new Go API for JSON](https://go.dev/blog/jsonv2) (251👍)
 
 ### 安全
 
-- [Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels](https://hackertv.org) (219👍)
+- [Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements](https://icode4.coffee/?p=1746) (78👍)
 
 ### 其他
 
-- [C++26 Disapproved](https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/) (62👍)
-- [Giant canyon on Mars is still tectonically active](https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today) (25👍)
-- [Stringman, an $800 open-source room scale gripper robot](https://neufangled.com/) (434👍)
+- [Residential proxies detected on White House network](https://layer3intel.com/blog/residential-proxies-white-house-network) (777👍)
+- [Starfall – Affordable, routine access to microgravity](https://www.spacex.com/starfall) (133👍)
+- [Images 2.6](https://openai.com/index/introducing-images-2-6/) (167👍)
 
 ---
 
 ## 📊 统计
 
-- **抓取时间**: 2026-11-04 11:40:47
+- **抓取时间**: 2026-11-05 11:59:22
 - **故事总数**: 15
 - **已翻译标题**: 0/15
 - **数据来源**: [Hacker News](https://news.ycombinator.com)
