@@ -1,4 +1,4 @@
-# 🚀 Hacker News 精选 | 2026年11月07日
+# 🚀 Hacker News 精选 | 2026年11月08日
 
 > 自动抓取 Hacker News Top 故事，批量翻译标题生成中文精选
 
@@ -6,25 +6,25 @@
 
 ## 🔥 热门 Top 5
 
-### 1. [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0)
-- **原文**: Libghostty 1.0
-- **来源**: mitchellh.com | 👍 299 | 💬 48
+### 1. [The end of Microsoft Research's AI Frontiers group](https://hunch.net/?p=13764006)
+- **原文**: The end of Microsoft Research's AI Frontiers group
+- **来源**: hunch.net | 👍 406 | 💬 238
 
-### 2. [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution)
-- **原文**: A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost
-- **来源**: hightouch.com | 👍 365 | 💬 84
+### 2. [What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/)
+- **原文**: What I run on my $10 USD OpenStick homelab
+- **来源**: blog.bosscher.ch | 👍 376 | 💬 89
 
-### 3. [I Toured Unitree's Factory. I'm More Bullish on the West](https://josef.cn/blog/unitree)
-- **原文**: I Toured Unitree's Factory. I'm More Bullish on the West
-- **来源**: josef.cn | 👍 48 | 💬 29
+### 3. [Apple’s grey list: Words and phrases your iPhone won’t help you spell](https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you)
+- **原文**: Apple’s grey list: Words and phrases your iPhone won’t help you spell
+- **来源**: theguardian.com | 👍 387 | 💬 255
 
-### 4. [Tesla to wind down Cybertruck production](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817)
-- **原文**: Tesla to wind down Cybertruck production
-- **来源**: nbcnews.com | 👍 888 | 💬 1745
+### 4. [Making any integer with four 2s (2025)](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/)
+- **原文**: Making any integer with four 2s (2025)
+- **来源**: eli.thegreenplace.net | 👍 70 | 💬 15
 
-### 5. [Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE](https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/)
-- **原文**: Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE
-- **来源**: smithsonianmag.com | 👍 37 | 💬 3
+### 5. [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again)
+- **原文**: Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files
+- **来源**: apiiro.com | 👍 203 | 💬 142
 
 ---
 
@@ -32,25 +32,25 @@
 
 ### AI
 
-- [US FAA says it will phase out floppy disks from air traffic control by 2028](https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/) (292👍)
-- [AI is dramatically accelerating AI research](https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai) (224👍)
-- [Panthera: Ampere's CPU Performance Model](https://github.com/AmpereComputing/panthera) (14👍)
+- [The end of Microsoft Research's AI Frontiers group](https://hunch.net/?p=13764006) (406👍)
+- [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again) (203👍)
+- [Uranium cubes reveal why the German nuclear project failed](https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/) (76👍)
 
-### 技术
+### 科学
 
-- [First steps in bare-metal programming using UEFI](https://kevinboone.me/efitest_index.html) (200👍)
+- [Study solved a 150-year-old mystery into the identity of the extinct giant crane](https://www.bournemouth.ac.uk/news/2026-10-28/study-has-solved-150-year-old-mystery-identity-extinct-giant-crane) (17👍)
 
 ### 其他
 
-- [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0) (299👍)
-- [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution) (365👍)
-- [I Toured Unitree's Factory. I'm More Bullish on the West](https://josef.cn/blog/unitree) (48👍)
+- [What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/) (376👍)
+- [Apple’s grey list: Words and phrases your iPhone won’t help you spell](https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you) (387👍)
+- [Making any integer with four 2s (2025)](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/) (70👍)
 
 ---
 
 ## 📊 统计
 
-- **抓取时间**: 2026-11-07 11:32:30
+- **抓取时间**: 2026-11-08 11:01:58
 - **故事总数**: 15
 - **已翻译标题**: 0/15
 - **数据来源**: [Hacker News](https://news.ycombinator.com)
