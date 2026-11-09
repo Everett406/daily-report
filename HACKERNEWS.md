@@ -1,4 +1,4 @@
-# 🚀 Hacker News 精选 | 2026年11月08日
+# 🚀 Hacker News 精选 | 2026年11月09日
 
 > 自动抓取 Hacker News Top 故事，批量翻译标题生成中文精选
 
@@ -6,25 +6,25 @@
 
 ## 🔥 热门 Top 5
 
-### 1. [The end of Microsoft Research's AI Frontiers group](https://hunch.net/?p=13764006)
-- **原文**: The end of Microsoft Research's AI Frontiers group
-- **来源**: hunch.net | 👍 406 | 💬 238
+### 1. [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://ketchup3d.github.io/app/)
+- **原文**: KetchUp – Open-source SketchUp alternative built with Rust and WebGPU
+- **来源**: ketchup3d.github.io | 👍 264 | 💬 79
 
-### 2. [What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/)
-- **原文**: What I run on my $10 USD OpenStick homelab
-- **来源**: blog.bosscher.ch | 👍 376 | 💬 89
+### 2. [Unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/)
+- **原文**: Unlocking any car from X brand in most of the world
+- **来源**: shubs.io | 👍 116 | 💬 37
 
-### 3. [Apple’s grey list: Words and phrases your iPhone won’t help you spell](https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you)
-- **原文**: Apple’s grey list: Words and phrases your iPhone won’t help you spell
-- **来源**: theguardian.com | 👍 387 | 💬 255
+### 3. [Chimera Vocal Synth](https://chimera-vocal-synth.vercel.app/)
+- **原文**: Chimera Vocal Synth
+- **来源**: chimera-vocal-synth.vercel.app | 👍 125 | 💬 17
 
-### 4. [Making any integer with four 2s (2025)](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/)
-- **原文**: Making any integer with four 2s (2025)
-- **来源**: eli.thegreenplace.net | 👍 70 | 💬 15
+### 4. [RIP, Harvest](https://aphyr.com/posts/427-rip-harvest)
+- **原文**: RIP, Harvest
+- **来源**: aphyr.com | 👍 26 | 💬 4
 
-### 5. [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again)
-- **原文**: Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files
-- **来源**: apiiro.com | 👍 203 | 💬 142
+### 5. [Outlook.com Is Quietly Rejecting Email from Domains Without DMARC](https://mailroute.net/blog/outlook-rejecting-email-without-dmarc)
+- **原文**: Outlook.com Is Quietly Rejecting Email from Domains Without DMARC
+- **来源**: mailroute.net | 👍 279 | 💬 201
 
 ---
 
@@ -32,25 +32,30 @@
 
 ### AI
 
-- [The end of Microsoft Research's AI Frontiers group](https://hunch.net/?p=13764006) (406👍)
-- [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again) (203👍)
-- [Uranium cubes reveal why the German nuclear project failed](https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/) (76👍)
+- [Outlook.com Is Quietly Rejecting Email from Domains Without DMARC](https://mailroute.net/blog/outlook-rejecting-email-without-dmarc) (279👍)
+- [Goldman Sachs is pulling Claude Code from its bankers and traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers) (643👍)
+- [Ask HN: How do you manage your AI agents' context across clients and projects?](https://news.ycombinator.com/item?id=50403153) (8👍)
 
-### 科学
+### 技术
 
-- [Study solved a 150-year-old mystery into the identity of the extinct giant crane](https://www.bournemouth.ac.uk/news/2026-10-28/study-has-solved-150-year-old-mystery-identity-extinct-giant-crane) (17👍)
+- [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://ketchup3d.github.io/app/) (264👍)
+- [Herb Sutter: When a language's creator and its owners strongly disagree [pdf]](https://isocpp.org/files/papers/P4454R0.pdf) (85👍)
+
+### 硬件
+
+- [Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU](https://github.com/synchopate/llama-modchip) (380👍)
 
 ### 其他
 
-- [What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/) (376👍)
-- [Apple’s grey list: Words and phrases your iPhone won’t help you spell](https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you) (387👍)
-- [Making any integer with four 2s (2025)](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/) (70👍)
+- [Unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/) (116👍)
+- [Chimera Vocal Synth](https://chimera-vocal-synth.vercel.app/) (125👍)
+- [RIP, Harvest](https://aphyr.com/posts/427-rip-harvest) (26👍)
 
 ---
 
 ## 📊 统计
 
-- **抓取时间**: 2026-11-08 11:01:58
+- **抓取时间**: 2026-11-09 11:24:26
 - **故事总数**: 15
 - **已翻译标题**: 0/15
 - **数据来源**: [Hacker News](https://news.ycombinator.com)
