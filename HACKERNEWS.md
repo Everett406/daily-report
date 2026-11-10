@@ -1,4 +1,4 @@
-# 🚀 Hacker News 精选 | 2026年11月09日
+# 🚀 Hacker News 精选 | 2026年11月10日
 
 > 自动抓取 Hacker News Top 故事，批量翻译标题生成中文精选
 
@@ -6,25 +6,25 @@
 
 ## 🔥 热门 Top 5
 
-### 1. [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://ketchup3d.github.io/app/)
-- **原文**: KetchUp – Open-source SketchUp alternative built with Rust and WebGPU
-- **来源**: ketchup3d.github.io | 👍 264 | 💬 79
+### 1. [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2)
+- **原文**: Claude Fable 5.2 and Mythos 5.2
+- **来源**: anthropic.com | 👍 347 | 💬 692
 
-### 2. [Unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/)
-- **原文**: Unlocking any car from X brand in most of the world
-- **来源**: shubs.io | 👍 116 | 💬 37
+### 2. [USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb)
+- **原文**: USPS now offers official ZIP Code boundary polygons
+- **来源**: postalpro.usps.com | 👍 555 | 💬 278
 
-### 3. [Chimera Vocal Synth](https://chimera-vocal-synth.vercel.app/)
-- **原文**: Chimera Vocal Synth
-- **来源**: chimera-vocal-synth.vercel.app | 👍 125 | 💬 17
+### 3. [Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy)
+- **原文**: Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system
+- **来源**: payments.ca | 👍 494 | 💬 275
 
-### 4. [RIP, Harvest](https://aphyr.com/posts/427-rip-harvest)
-- **原文**: RIP, Harvest
-- **来源**: aphyr.com | 👍 26 | 💬 4
+### 4. [E-means: Outperforming k-means in one-tenth the epochs](https://e-means.github.io/)
+- **原文**: E-means: Outperforming k-means in one-tenth the epochs
+- **来源**: e-means.github.io | 👍 320 | 💬 29
 
-### 5. [Outlook.com Is Quietly Rejecting Email from Domains Without DMARC](https://mailroute.net/blog/outlook-rejecting-email-without-dmarc)
-- **原文**: Outlook.com Is Quietly Rejecting Email from Domains Without DMARC
-- **来源**: mailroute.net | 👍 279 | 💬 201
+### 5. [How Many People Work from Home?](https://nicholasdecker.substack.com/p/how-many-people-work-from-home)
+- **原文**: How Many People Work from Home?
+- **来源**: nicholasdecker.substack.com | 👍 20 | 💬 16
 
 ---
 
@@ -32,30 +32,31 @@
 
 ### AI
 
-- [Outlook.com Is Quietly Rejecting Email from Domains Without DMARC](https://mailroute.net/blog/outlook-rejecting-email-without-dmarc) (279👍)
-- [Goldman Sachs is pulling Claude Code from its bankers and traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers) (643👍)
-- [Ask HN: How do you manage your AI agents' context across clients and projects?](https://news.ycombinator.com/item?id=50403153) (8👍)
+- [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2) (347👍)
+- [Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy) (494👍)
+- [Foldable Flight: The Best Paper Airplanes](https://www.foldableflight.com) (905👍)
 
 ### 技术
 
-- [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://ketchup3d.github.io/app/) (264👍)
-- [Herb Sutter: When a language's creator and its owners strongly disagree [pdf]](https://isocpp.org/files/papers/P4454R0.pdf) (85👍)
+- [USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb) (555👍)
+- [Exact – a new cross platform UI framework](https://github.com/expo/exact) (84👍)
+- [Formalizing CPython](https://broyojo.com/python-formalization/) (11👍)
 
 ### 硬件
 
-- [Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU](https://github.com/synchopate/llama-modchip) (380👍)
+- [A primer on GPUs and kernel optimization](https://www.nabo.dev/blogs/kernel-primer) (115👍)
 
 ### 其他
 
-- [Unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/) (116👍)
-- [Chimera Vocal Synth](https://chimera-vocal-synth.vercel.app/) (125👍)
-- [RIP, Harvest](https://aphyr.com/posts/427-rip-harvest) (26👍)
+- [E-means: Outperforming k-means in one-tenth the epochs](https://e-means.github.io/) (320👍)
+- [How Many People Work from Home?](https://nicholasdecker.substack.com/p/how-many-people-work-from-home) (20👍)
+- [Horible public key tricks](https://maurycyz.com/projects/badcert/) (79👍)
 
 ---
 
 ## 📊 统计
 
-- **抓取时间**: 2026-11-09 11:24:26
+- **抓取时间**: 2026-11-10 12:59:36
 - **故事总数**: 15
 - **已翻译标题**: 0/15
 - **数据来源**: [Hacker News](https://news.ycombinator.com)
