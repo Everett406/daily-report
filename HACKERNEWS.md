@@ -1,4 +1,4 @@
-# 🚀 Hacker News 精选 | 2026年11月10日
+# 🚀 Hacker News 精选 | 2026年11月11日
 
 > 自动抓取 Hacker News Top 故事，批量翻译标题生成中文精选
 
@@ -6,25 +6,25 @@
 
 ## 🔥 热门 Top 5
 
-### 1. [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2)
-- **原文**: Claude Fable 5.2 and Mythos 5.2
-- **来源**: anthropic.com | 👍 347 | 💬 692
+### 1. [After 7 months, Glasswing overwelms maintainers with underwhelming findings](https://www.vulncheck.com/blog/anthropic-glasswing-november-update)
+- **原文**: After 7 months, Glasswing overwelms maintainers with underwhelming findings
+- **来源**: vulncheck.com | 👍 309 | 💬 139
 
-### 2. [USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb)
-- **原文**: USPS now offers official ZIP Code boundary polygons
-- **来源**: postalpro.usps.com | 👍 555 | 💬 278
+### 2. [A great old-timey game-programming hack (2013)](https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html)
+- **原文**: A great old-timey game-programming hack (2013)
+- **来源**: blog.moertel.com | 👍 38 | 💬 6
 
-### 3. [Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy)
-- **原文**: Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system
-- **来源**: payments.ca | 👍 494 | 💬 275
+### 3. [.name Grandfathered](https://neil.fraser.name/news/2026/11/10/)
+- **原文**: .name Grandfathered
+- **来源**: neil.fraser.name | 👍 716 | 💬 168
 
-### 4. [E-means: Outperforming k-means in one-tenth the epochs](https://e-means.github.io/)
-- **原文**: E-means: Outperforming k-means in one-tenth the epochs
-- **来源**: e-means.github.io | 👍 320 | 💬 29
+### 4. [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/)
+- **原文**: Smart home devices should work without the internet
+- **来源**: docodethatmatters.com | 👍 756 | 💬 274
 
-### 5. [How Many People Work from Home?](https://nicholasdecker.substack.com/p/how-many-people-work-from-home)
-- **原文**: How Many People Work from Home?
-- **来源**: nicholasdecker.substack.com | 👍 20 | 💬 16
+### 5. [Scion is back and is going to sell a kei truck in America](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/)
+- **原文**: Scion is back and is going to sell a kei truck in America
+- **来源**: theautopian.com | 👍 362 | 💬 265
 
 ---
 
@@ -32,31 +32,35 @@
 
 ### AI
 
-- [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2) (347👍)
-- [Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy) (494👍)
-- [Foldable Flight: The Best Paper Airplanes](https://www.foldableflight.com) (905👍)
+- [After 7 months, Glasswing overwelms maintainers with underwhelming findings](https://www.vulncheck.com/blog/anthropic-glasswing-november-update) (309👍)
+- [Synaptics patent claims stop work on DisplayLink drivers](https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/) (322👍)
+- [LLMs Play Zachtronics' TIS-100](https://tis-100.wincon.dev/) (16👍)
 
 ### 技术
 
-- [USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb) (555👍)
-- [Exact – a new cross platform UI framework](https://github.com/expo/exact) (84👍)
-- [Formalizing CPython](https://broyojo.com/python-formalization/) (11👍)
+- [A great old-timey game-programming hack (2013)](https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html) (38👍)
+- [Scion is back and is going to sell a kei truck in America](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/) (362👍)
+- [AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/) (586👍)
+
+### 安全
+
+- [Hacking the Meta Ray-Ban smartglasses](https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/) (62👍)
 
 ### 硬件
 
-- [A primer on GPUs and kernel optimization](https://www.nabo.dev/blogs/kernel-primer) (115👍)
+- [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/) (756👍)
 
 ### 其他
 
-- [E-means: Outperforming k-means in one-tenth the epochs](https://e-means.github.io/) (320👍)
-- [How Many People Work from Home?](https://nicholasdecker.substack.com/p/how-many-people-work-from-home) (20👍)
-- [Horible public key tricks](https://maurycyz.com/projects/badcert/) (79👍)
+- [.name Grandfathered](https://neil.fraser.name/news/2026/11/10/) (716👍)
+- [Six Math Essentials by Terence Tao](https://teorth.github.io/tao-web/six-math-essentials.html) (154👍)
+- [Starlink Mini 2](https://starlink.com/mini-2) (295👍)
 
 ---
 
 ## 📊 统计
 
-- **抓取时间**: 2026-11-10 12:59:36
+- **抓取时间**: 2026-11-11 11:32:00
 - **故事总数**: 15
 - **已翻译标题**: 0/15
 - **数据来源**: [Hacker News](https://news.ycombinator.com)
