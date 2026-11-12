@@ -1,4 +1,4 @@
-# 🚀 Hacker News 精选 | 2026年11月11日
+# 🚀 Hacker News 精选 | 2026年11月12日
 
 > 自动抓取 Hacker News Top 故事，批量翻译标题生成中文精选
 
@@ -6,25 +6,25 @@
 
 ## 🔥 热门 Top 5
 
-### 1. [After 7 months, Glasswing overwelms maintainers with underwhelming findings](https://www.vulncheck.com/blog/anthropic-glasswing-november-update)
-- **原文**: After 7 months, Glasswing overwelms maintainers with underwhelming findings
-- **来源**: vulncheck.com | 👍 309 | 💬 139
+### 1. [93% of paint splatters are valid Perl programs (2019)](https://www.mcmillen.dev/sigbovik/)
+- **原文**: 93% of paint splatters are valid Perl programs (2019)
+- **来源**: mcmillen.dev | 👍 257 | 💬 36
 
-### 2. [A great old-timey game-programming hack (2013)](https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html)
-- **原文**: A great old-timey game-programming hack (2013)
-- **来源**: blog.moertel.com | 👍 38 | 💬 6
+### 2. [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)
+- **原文**: Tim Peters has died
+- **来源**: discuss.python.org | 👍 985 | 💬 107
 
-### 3. [.name Grandfathered](https://neil.fraser.name/news/2026/11/10/)
-- **原文**: .name Grandfathered
-- **来源**: neil.fraser.name | 👍 716 | 💬 168
+### 3. [AWS emulator](https://github.com/aws/aws-emulator)
+- **原文**: AWS emulator
+- **来源**: github.com | 👍 748 | 💬 227
 
-### 4. [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/)
-- **原文**: Smart home devices should work without the internet
-- **来源**: docodethatmatters.com | 👍 756 | 💬 274
+### 4. [Critical RCE Vulnerability in Apache HTTP Server](https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability)
+- **原文**: Critical RCE Vulnerability in Apache HTTP Server
+- **来源**: wiz.io | 👍 51 | 💬 23
 
-### 5. [Scion is back and is going to sell a kei truck in America](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/)
-- **原文**: Scion is back and is going to sell a kei truck in America
-- **来源**: theautopian.com | 👍 362 | 💬 265
+### 5. [Nvidia is preparing to oust Jensen Huang](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad)
+- **原文**: Nvidia is preparing to oust Jensen Huang
+- **来源**: wsj.com | 👍 715 | 💬 993
 
 ---
 
@@ -32,35 +32,25 @@
 
 ### AI
 
-- [After 7 months, Glasswing overwelms maintainers with underwhelming findings](https://www.vulncheck.com/blog/anthropic-glasswing-november-update) (309👍)
-- [Synaptics patent claims stop work on DisplayLink drivers](https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/) (322👍)
-- [LLMs Play Zachtronics' TIS-100](https://tis-100.wincon.dev/) (16👍)
-
-### 技术
-
-- [A great old-timey game-programming hack (2013)](https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html) (38👍)
-- [Scion is back and is going to sell a kei truck in America](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/) (362👍)
-- [AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/) (586👍)
+- [93% of paint splatters are valid Perl programs (2019)](https://www.mcmillen.dev/sigbovik/) (257👍)
+- [United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/) (468👍)
+- [Gemini Decisions API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/) (326👍)
 
 ### 安全
 
-- [Hacking the Meta Ray-Ban smartglasses](https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/) (62👍)
-
-### 硬件
-
-- [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/) (756👍)
+- [Critical RCE Vulnerability in Apache HTTP Server](https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability) (51👍)
 
 ### 其他
 
-- [.name Grandfathered](https://neil.fraser.name/news/2026/11/10/) (716👍)
-- [Six Math Essentials by Terence Tao](https://teorth.github.io/tao-web/six-math-essentials.html) (154👍)
-- [Starlink Mini 2](https://starlink.com/mini-2) (295👍)
+- [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028) (985👍)
+- [AWS emulator](https://github.com/aws/aws-emulator) (748👍)
+- [Nvidia is preparing to oust Jensen Huang](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad) (715👍)
 
 ---
 
 ## 📊 统计
 
-- **抓取时间**: 2026-11-11 11:32:00
+- **抓取时间**: 2026-11-12 12:41:19
 - **故事总数**: 15
 - **已翻译标题**: 0/15
 - **数据来源**: [Hacker News](https://news.ycombinator.com)
