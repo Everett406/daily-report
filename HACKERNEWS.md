@@ -1,4 +1,4 @@
-# 🚀 Hacker News 精选 | 2026年11月12日
+# 🚀 Hacker News 精选 | 2026年11月13日
 
 > 自动抓取 Hacker News Top 故事，批量翻译标题生成中文精选
 
@@ -6,25 +6,25 @@
 
 ## 🔥 热门 Top 5
 
-### 1. [93% of paint splatters are valid Perl programs (2019)](https://www.mcmillen.dev/sigbovik/)
-- **原文**: 93% of paint splatters are valid Perl programs (2019)
-- **来源**: mcmillen.dev | 👍 257 | 💬 36
+### 1. [Africa's solar revolution is vast and speedy](https://www.economist.com/middle-east-and-africa/2026/11/12/africas-solar-revolution-is-vast-and-speedy)
+- **原文**: Africa's solar revolution is vast and speedy
+- **来源**: economist.com | 👍 90 | 💬 29
 
-### 2. [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)
-- **原文**: Tim Peters has died
-- **来源**: discuss.python.org | 👍 985 | 💬 107
+### 2. [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f)
+- **原文**: Jensen Huang resigns
+- **来源**: apnews.com | 👍 3122 | 💬 2918
 
-### 3. [AWS emulator](https://github.com/aws/aws-emulator)
-- **原文**: AWS emulator
-- **来源**: github.com | 👍 748 | 💬 227
+### 3. [Rust 1.100](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/)
+- **原文**: Rust 1.100
+- **来源**: blog.rust-lang.org | 👍 501 | 💬 209
 
-### 4. [Critical RCE Vulnerability in Apache HTTP Server](https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability)
-- **原文**: Critical RCE Vulnerability in Apache HTTP Server
-- **来源**: wiz.io | 👍 51 | 💬 23
+### 4. [Nvidia employees petition to bring back Jensen Huang](https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/)
+- **原文**: Nvidia employees petition to bring back Jensen Huang
+- **来源**: wired.com | 👍 181 | 💬 112
 
-### 5. [Nvidia is preparing to oust Jensen Huang](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad)
-- **原文**: Nvidia is preparing to oust Jensen Huang
-- **来源**: wsj.com | 👍 715 | 💬 993
+### 5. [Gemini 4 Hydrogen and Orchestrator](https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/)
+- **原文**: Gemini 4 Hydrogen and Orchestrator
+- **来源**: antigravity.google | 👍 341 | 💬 87
 
 ---
 
@@ -32,25 +32,25 @@
 
 ### AI
 
-- [93% of paint splatters are valid Perl programs (2019)](https://www.mcmillen.dev/sigbovik/) (257👍)
-- [United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/) (468👍)
-- [Gemini Decisions API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/) (326👍)
+- [Gemini 4 Hydrogen and Orchestrator](https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/) (341👍)
+- [Edge0-145B: Frontier AI Capabilities on Your Own Computer](https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer) (108👍)
+- [Foundation Models framework](https://developer.apple.com/foundation-models-framework/) (158👍)
 
-### 安全
+### 技术
 
-- [Critical RCE Vulnerability in Apache HTTP Server](https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability) (51👍)
+- [Rust 1.100](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/) (501👍)
 
 ### 其他
 
-- [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028) (985👍)
-- [AWS emulator](https://github.com/aws/aws-emulator) (748👍)
-- [Nvidia is preparing to oust Jensen Huang](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad) (715👍)
+- [Africa's solar revolution is vast and speedy](https://www.economist.com/middle-east-and-africa/2026/11/12/africas-solar-revolution-is-vast-and-speedy) (90👍)
+- [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f) (3122👍)
+- [Nvidia employees petition to bring back Jensen Huang](https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/) (181👍)
 
 ---
 
 ## 📊 统计
 
-- **抓取时间**: 2026-11-12 12:41:19
+- **抓取时间**: 2026-11-13 11:53:43
 - **故事总数**: 15
 - **已翻译标题**: 0/15
 - **数据来源**: [Hacker News](https://news.ycombinator.com)
