@@ -1,4 +1,4 @@
-# 🚀 Hacker News 精选 | 2026年11月13日
+# 🚀 Hacker News 精选 | 2026年11月14日
 
 > 自动抓取 Hacker News Top 故事，批量翻译标题生成中文精选
 
@@ -6,25 +6,25 @@
 
 ## 🔥 热门 Top 5
 
-### 1. [Africa's solar revolution is vast and speedy](https://www.economist.com/middle-east-and-africa/2026/11/12/africas-solar-revolution-is-vast-and-speedy)
-- **原文**: Africa's solar revolution is vast and speedy
-- **来源**: economist.com | 👍 90 | 💬 29
+### 1. [Elephants Found to Be Increasingly Isolated Leading to Fractured Social Networks](https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks)
+- **原文**: Elephants Found to Be Increasingly Isolated Leading to Fractured Social Networks
+- **来源**: today.ucsd.edu | 👍 64 | 💬 12
 
-### 2. [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f)
-- **原文**: Jensen Huang resigns
-- **来源**: apnews.com | 👍 3122 | 💬 2918
+### 2. [Ggml v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0)
+- **原文**: Ggml v1.0.0
+- **来源**: github.com | 👍 39 | 💬 1
 
-### 3. [Rust 1.100](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/)
-- **原文**: Rust 1.100
-- **来源**: blog.rust-lang.org | 👍 501 | 💬 209
+### 3. [FAA lifted National Ground Stop at 0119Z](https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5)
+- **原文**: FAA lifted National Ground Stop at 0119Z
+- **来源**: fly.faa.gov | 👍 205 | 💬 198
 
-### 4. [Nvidia employees petition to bring back Jensen Huang](https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/)
-- **原文**: Nvidia employees petition to bring back Jensen Huang
-- **来源**: wired.com | 👍 181 | 💬 112
+### 4. [FAA issues national ground stop](https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247)
+- **原文**: FAA issues national ground stop
+- **来源**: nbcnews.com | 👍 1396 | 💬 860
 
-### 5. [Gemini 4 Hydrogen and Orchestrator](https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/)
-- **原文**: Gemini 4 Hydrogen and Orchestrator
-- **来源**: antigravity.google | 👍 341 | 💬 87
+### 5. [Terminal borders that don't cost a cell](https://www.joshka.net/cell-borders/)
+- **原文**: Terminal borders that don't cost a cell
+- **来源**: joshka.net | 👍 123 | 💬 59
 
 ---
 
@@ -32,25 +32,21 @@
 
 ### AI
 
-- [Gemini 4 Hydrogen and Orchestrator](https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/) (341👍)
-- [Edge0-145B: Frontier AI Capabilities on Your Own Computer](https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer) (108👍)
-- [Foundation Models framework](https://developer.apple.com/foundation-models-framework/) (158👍)
-
-### 技术
-
-- [Rust 1.100](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/) (501👍)
+- [Live airband on all frequencies from KORS. Victoria, CA also ground stopped](https://orcasairband.com/) (229👍)
+- [Reverse engineering my Coway air purifier to ditch the cloud](https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/) (697👍)
+- [Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks](https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html) (211👍)
 
 ### 其他
 
-- [Africa's solar revolution is vast and speedy](https://www.economist.com/middle-east-and-africa/2026/11/12/africas-solar-revolution-is-vast-and-speedy) (90👍)
-- [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f) (3122👍)
-- [Nvidia employees petition to bring back Jensen Huang](https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/) (181👍)
+- [Elephants Found to Be Increasingly Isolated Leading to Fractured Social Networks](https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks) (64👍)
+- [Ggml v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0) (39👍)
+- [FAA lifted National Ground Stop at 0119Z](https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5) (205👍)
 
 ---
 
 ## 📊 统计
 
-- **抓取时间**: 2026-11-13 11:53:43
+- **抓取时间**: 2026-11-14 11:52:04
 - **故事总数**: 15
 - **已翻译标题**: 0/15
 - **数据来源**: [Hacker News](https://news.ycombinator.com)
