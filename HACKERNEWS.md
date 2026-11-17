@@ -1,4 +1,4 @@
-# 🚀 Hacker News 精选 | 2026年11月16日
+# 🚀 Hacker News 精选 | 2026年11月17日
 
 > 自动抓取 Hacker News Top 故事，批量翻译标题生成中文精选
 
@@ -6,55 +6,55 @@
 
 ## 🔥 热门 Top 5
 
-### 1. [Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/)
-- **原文**: Universal XSS in uBlock Origin from website-driven element picker
-- **来源**: iter.ca | 👍 90 | 💬 13
+### 1. [Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/)
+- **原文**: Carnegie Mellon is putting computer science courses on YouTube for free
+- **来源**: cs.cmu.edu | 👍 1056 | 💬 158
 
-### 2. [Old Bitly links are being hijacked](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/)
-- **原文**: Old Bitly links are being hijacked
-- **来源**: ransomnews.com | 👍 202 | 💬 107
+### 2. [Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use](https://xusheng.dev/posts/windows-coding-agent-telemetry/)
+- **原文**: Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use
+- **来源**: xusheng.dev | 👍 403 | 💬 258
 
-### 3. [Coles hit by a cybersecurity incident](https://www.colesgroup.com.au/updates/)
-- **原文**: Coles hit by a cybersecurity incident
-- **来源**: colesgroup.com.au | 👍 58 | 💬 36
+### 3. [BugMeNot has closed](https://www.bugmenot.com/)
+- **原文**: BugMeNot has closed
+- **来源**: bugmenot.com | 👍 422 | 💬 204
 
-### 4. [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max)
-- **原文**: Qwen4-Max
-- **来源**: qwen.ai | 👍 112 | 💬 19
+### 4. [Optimizely compromised, served malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/)
+- **原文**: Optimizely compromised, served malware on Zoom, GitLab
+- **来源**: blog.report-uri.com | 👍 212 | 💬 97
 
-### 5. [What's Next for Nvidia?](https://steveblank.com/2026/11/15/whats-next-for-nvidia/)
-- **原文**: What's Next for Nvidia?
-- **来源**: steveblank.com | 👍 99 | 💬 110
+### 5. [If an App Asks for Full Disk Access or System and App Protection Override](https://support.apple.com/en-us/149699)
+- **原文**: If an App Asks for Full Disk Access or System and App Protection Override
+- **来源**: support.apple.com | 👍 61 | 💬 36
 
 ---
 
 ## 📂 分类浏览
 
-### AI
-
-- [Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack](https://forum.torproject.org/t/security-release-0-4-9-17/22454) (59👍)
-- [A short explainer on how El Niño works [video]](https://www.youtube.com/watch?v=7_JF3etiAv8) (191👍)
-- [WebGL Flight Simulator with seed generated terrain](https://baron.by.dai.studio/) (99👍)
-
 ### 技术
 
-- [Protomaps: Self-hosting map tiles has gotten cheap and easy](https://bruceroettgers.eu/blog/protomaps/) (204👍)
+- [OpenCode Browse](https://opencode.ai/product/browse) (181👍)
+- [Jiff 1.0: A datetime library for Rust](https://burntsushi.net/jiff/) (349👍)
 
 ### 安全
 
-- [Coles hit by a cybersecurity incident](https://www.colesgroup.com.au/updates/) (58👍)
+- [Optimizely compromised, served malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/) (212👍)
+
+### 科学
+
+- [Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/) (1056👍)
+- [Frame – 31.5" color ePaper display](https://trmnl.com/blog/introducing-frame) (355👍)
 
 ### 其他
 
-- [Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/) (90👍)
-- [Old Bitly links are being hijacked](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/) (202👍)
-- [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max) (112👍)
+- [Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use](https://xusheng.dev/posts/windows-coding-agent-telemetry/) (403👍)
+- [BugMeNot has closed](https://www.bugmenot.com/) (422👍)
+- [If an App Asks for Full Disk Access or System and App Protection Override](https://support.apple.com/en-us/149699) (61👍)
 
 ---
 
 ## 📊 统计
 
-- **抓取时间**: 2026-11-16 11:32:51
+- **抓取时间**: 2026-11-17 13:31:08
 - **故事总数**: 15
 - **已翻译标题**: 0/15
 - **数据来源**: [Hacker News](https://news.ycombinator.com)
