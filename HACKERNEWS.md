@@ -1,4 +1,4 @@
-# 🚀 Hacker News 精选 | 2026年11月20日
+# 🚀 Hacker News 精选 | 2026年11月21日
 
 > 自动抓取 Hacker News Top 故事，批量翻译标题生成中文精选
 
@@ -6,25 +6,25 @@
 
 ## 🔥 热门 Top 5
 
-### 1. [Gemini 4 Neon is the new #1 on the Models Engineering Index](https://git-aarvin.github.io/mei/)
-- **原文**: Gemini 4 Neon is the new #1 on the Models Engineering Index
-- **来源**: git-aarvin.github.io | 👍 275 | 💬 164
+### 1. [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/)
+- **原文**: Hurried Announcement: Alessandro Masullo GRH
+- **来源**: math216.wordpress.com | 👍 1751 | 💬 779
 
-### 2. [Anthropic’s Nasdaq debut](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/)
-- **原文**: Anthropic’s Nasdaq debut
-- **来源**: reuters.com | 👍 1004 | 💬 1968
+### 2. [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf)
+- **原文**: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]
+- **来源**: alpo.ge | 👍 2455 | 💬 1656
 
-### 3. [Pancreatic cancer halted by virus injection in three patients](https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/)
-- **原文**: Pancreatic cancer halted by virus injection in three patients
-- **来源**: newscientist.com | 👍 674 | 💬 106
+### 3. [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/)
+- **原文**: Inkling 2 Mini
+- **来源**: thinkingmachines.ai | 👍 807 | 💬 137
 
-### 4. [OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)](https://github.com/openssl/openssl/pull/33652)
-- **原文**: OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)
-- **来源**: github.com | 👍 65 | 💬 37
+### 4. [NINLIVE: The Nine Inch Nails live archive](https://ninlive.com/)
+- **原文**: NINLIVE: The Nine Inch Nails live archive
+- **来源**: ninlive.com | 👍 170 | 💬 43
 
-### 5. [Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup](https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/)
-- **原文**: Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup
-- **来源**: snowflake.com | 👍 17 | 💬 0
+### 5. [We promoted developers into architects without informing them](https://manidoraisamy.com/developer-to-architect.html)
+- **原文**: We promoted developers into architects without informing them
+- **来源**: manidoraisamy.com | 👍 345 | 💬 209
 
 ---
 
@@ -32,25 +32,26 @@
 
 ### AI
 
-- [Gemini 4 Neon is the new #1 on the Models Engineering Index](https://git-aarvin.github.io/mei/) (275👍)
-- [Claude solves two open problems in the physics of black holes](https://www.anthropic.com/research/claude-black-hole-physics) (435👍)
-- [The 98% Slot Machine: How Paid Advertising Became an Extraction Tax](https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine) (233👍)
+- [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf) (2455👍)
+- [NINLIVE: The Nine Inch Nails live archive](https://ninlive.com/) (170👍)
+- [Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885) (365👍)
 
 ### 技术
 
-- [OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)](https://github.com/openssl/openssl/pull/33652) (65👍)
+- [Clojure will affect the way you think about programming (2017)](https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/) (18👍)
+- [DreamCoder: Coding harness and IDE from the author of Mastering Emacs](https://www.masteringemacs.org/article/announcing-dreamcoder) (144👍)
 
 ### 其他
 
-- [Anthropic’s Nasdaq debut](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/) (1004👍)
-- [Pancreatic cancer halted by virus injection in three patients](https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/) (674👍)
-- [Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup](https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/) (17👍)
+- [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/) (1751👍)
+- [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/) (807👍)
+- [We promoted developers into architects without informing them](https://manidoraisamy.com/developer-to-architect.html) (345👍)
 
 ---
 
 ## 📊 统计
 
-- **抓取时间**: 2026-11-20 12:40:58
+- **抓取时间**: 2026-11-21 12:35:59
 - **故事总数**: 15
 - **已翻译标题**: 0/15
 - **数据来源**: [Hacker News](https://news.ycombinator.com)
