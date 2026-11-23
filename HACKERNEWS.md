@@ -1,4 +1,4 @@
-# 🚀 Hacker News 精选 | 2026年11月22日
+# 🚀 Hacker News 精选 | 2026年11月23日
 
 > 自动抓取 Hacker News Top 故事，批量翻译标题生成中文精选
 
@@ -6,25 +6,25 @@
 
 ## 🔥 热门 Top 5
 
-### 1. [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib)
-- **原文**: Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'
-- **来源**: theguardian.com | 👍 751 | 💬 175
+### 1. [Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv)
+- **原文**: Free alternative TV network built from the Internet Archive's forgotten videos
+- **来源**: spelunkr.tv | 👍 223 | 💬 38
 
-### 2. [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
-- **原文**: Lean verification of the Riemann Hypothesis
-- **来源**: leanprover-community.github.io | 👍 894 | 💬 743
+### 2. [Masullo on the Riemann Hypothesis](https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/)
+- **原文**: Masullo on the Riemann Hypothesis
+- **来源**: johncarlosbaez.wordpress.com | 👍 103 | 💬 35
 
-### 3. [Inkling-2-Mini in 5.4 GB Memory](https://github.com/ShinMegamiBoson/lookatmyquant)
-- **原文**: Inkling-2-Mini in 5.4 GB Memory
-- **来源**: github.com | 👍 384 | 💬 99
+### 3. [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth)
+- **原文**: A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth
+- **来源**: gpupartner.com | 👍 336 | 💬 143
 
-### 4. [Data Processing Incidents on Inference Providers](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/)
-- **原文**: Data Processing Incidents on Inference Providers
-- **来源**: openrouter.ai | 👍 37 | 💬 10
+### 4. [The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife](https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife)
+- **原文**: The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife
+- **来源**: audubon.org | 👍 404 | 💬 200
 
-### 5. [Sandwich Simulator](https://stulle.app/)
-- **原文**: Sandwich Simulator
-- **来源**: stulle.app | 👍 67 | 💬 35
+### 5. [Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches](https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527)
+- **原文**: Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches
+- **来源**: apnews.com | 👍 153 | 💬 20
 
 ---
 
@@ -32,25 +32,29 @@
 
 ### AI
 
-- [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib) (751👍)
-- [The Mythology of Conscious AI](https://www.noemamag.com/the-mythology-of-conscious-ai/) (9👍)
-- [Pandex – Official European Law for AI Agents, over MCP](https://www.pandex.io) (48👍)
+- [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth) (336👍)
 
 ### 技术
 
-- [Shaping the Loops, Closing the Loops](https://revyl.com/blog/pattern-engineering/) (14👍)
+- [Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv) (223👍)
+- [The Unlicensed Gospel: Wisdom Tree's Bible Games on the Game Boy](https://www.gameboymuseum.com/single-post/the-unlicensed-gospel-wisdom-tree-s-bible-games-on-the-game-boy) (25👍)
+- [What we learned operating auth for 1k APIs](https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/) (19👍)
+
+### 安全
+
+- [GL.iNet Security Notice 2026-11-20](https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20) (129👍)
 
 ### 其他
 
-- [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/) (894👍)
-- [Inkling-2-Mini in 5.4 GB Memory](https://github.com/ShinMegamiBoson/lookatmyquant) (384👍)
-- [Data Processing Incidents on Inference Providers](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/) (37👍)
+- [Masullo on the Riemann Hypothesis](https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/) (103👍)
+- [The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife](https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife) (404👍)
+- [Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches](https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527) (153👍)
 
 ---
 
 ## 📊 统计
 
-- **抓取时间**: 2026-11-22 11:50:25
+- **抓取时间**: 2026-11-23 12:28:15
 - **故事总数**: 15
 - **已翻译标题**: 0/15
 - **数据来源**: [Hacker News](https://news.ycombinator.com)
