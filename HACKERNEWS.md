@@ -1,4 +1,4 @@
-# 🚀 Hacker News 精选 | 2026年11月23日
+# 🚀 Hacker News 精选 | 2026年11月24日
 
 > 自动抓取 Hacker News Top 故事，批量翻译标题生成中文精选
 
@@ -6,25 +6,25 @@
 
 ## 🔥 热门 Top 5
 
-### 1. [Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv)
-- **原文**: Free alternative TV network built from the Internet Archive's forgotten videos
-- **来源**: spelunkr.tv | 👍 223 | 💬 38
+### 1. [India's opposition storms Meta's offices to get its Instagram accounts back](https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html)
+- **原文**: India's opposition storms Meta's offices to get its Instagram accounts back
+- **来源**: korben.info | 👍 86 | 💬 20
 
-### 2. [Masullo on the Riemann Hypothesis](https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/)
-- **原文**: Masullo on the Riemann Hypothesis
-- **来源**: johncarlosbaez.wordpress.com | 👍 103 | 💬 35
+### 2. [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html)
+- **原文**: Nvidia Reinstates Jensen Huang as CEO
+- **来源**: cnbc.com | 👍 2457 | 💬 3397
 
-### 3. [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth)
-- **原文**: A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth
-- **来源**: gpupartner.com | 👍 336 | 💬 143
+### 3. [Stalwart is now a drop-in replacement for Microsoft Exchange](https://stalw.art/blog/microsoft-exchange-replacement/)
+- **原文**: Stalwart is now a drop-in replacement for Microsoft Exchange
+- **来源**: stalw.art | 👍 388 | 💬 192
 
-### 4. [The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife](https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife)
-- **原文**: The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife
-- **来源**: audubon.org | 👍 404 | 💬 200
+### 4. [Ladybird is now in alpha](https://ladybird.org/posts/alpha/)
+- **原文**: Ladybird is now in alpha
+- **来源**: ladybird.org | 👍 1726 | 💬 402
 
-### 5. [Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches](https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527)
-- **原文**: Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches
-- **来源**: apnews.com | 👍 153 | 💬 20
+### 5. [Drone Maps of Salvage Yards](https://salvageyarddrone.wordpress.com/)
+- **原文**: Drone Maps of Salvage Yards
+- **来源**: salvageyarddrone.wordpress.com | 👍 52 | 💬 16
 
 ---
 
@@ -32,29 +32,23 @@
 
 ### AI
 
-- [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth) (336👍)
+- ["Dario is hyping the dangers so OSS models are illegal and he stays in control"](https://twitter.com/ylecun/status/2124550037912920090) (1540👍)
 
-### 技术
+### 硬件
 
-- [Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv) (223👍)
-- [The Unlicensed Gospel: Wisdom Tree's Bible Games on the Game Boy](https://www.gameboymuseum.com/single-post/the-unlicensed-gospel-wisdom-tree-s-bible-games-on-the-game-boy) (25👍)
-- [What we learned operating auth for 1k APIs](https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/) (19👍)
-
-### 安全
-
-- [GL.iNet Security Notice 2026-11-20](https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20) (129👍)
+- [GPUI is getting its own repository](https://github.com/zed-industries/gpui) (224👍)
 
 ### 其他
 
-- [Masullo on the Riemann Hypothesis](https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/) (103👍)
-- [The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife](https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife) (404👍)
-- [Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches](https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527) (153👍)
+- [India's opposition storms Meta's offices to get its Instagram accounts back](https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html) (86👍)
+- [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html) (2457👍)
+- [Stalwart is now a drop-in replacement for Microsoft Exchange](https://stalw.art/blog/microsoft-exchange-replacement/) (388👍)
 
 ---
 
 ## 📊 统计
 
-- **抓取时间**: 2026-11-23 12:28:15
+- **抓取时间**: 2026-11-24 15:23:18
 - **故事总数**: 15
 - **已翻译标题**: 0/15
 - **数据来源**: [Hacker News](https://news.ycombinator.com)
