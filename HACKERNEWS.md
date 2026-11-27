@@ -1,4 +1,4 @@
-# 🚀 Hacker News 精选 | 2026年11月26日
+# 🚀 Hacker News 精选 | 2026年11月27日
 
 > 自动抓取 Hacker News Top 故事，批量翻译标题生成中文精选
 
@@ -6,25 +6,25 @@
 
 ## 🔥 热门 Top 5
 
-### 1. [Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening](https://scottaaronson.blog/?p=10379)
-- **原文**: Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening
-- **来源**: scottaaronson.blog | 👍 1200 | 💬 1051
+### 1. [Hard Drive pricing has gotten bad](https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/)
+- **原文**: Hard Drive pricing has gotten bad
+- **来源**: blog.ktz.me | 👍 206 | 💬 131
 
-### 2. [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident)
-- **原文**: 1Password Security Incident
-- **来源**: 1password.com | 👍 1294 | 💬 546
+### 2. ["What's Claude's Fursona?" and Other Questions](https://herecomesthemoon.net/2026/11/whats-claudes-fursona/)
+- **原文**: "What's Claude's Fursona?" and Other Questions
+- **来源**: herecomesthemoon.net | 👍 22 | 💬 0
 
-### 3. [Much shorter version of GRH Lean verification from Anthropic](https://github.com/lsernau/grh-lean)
-- **原文**: Much shorter version of GRH Lean verification from Anthropic
-- **来源**: github.com | 👍 371 | 💬 186
+### 3. [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting)
+- **原文**: AI made self-hosting fun again
+- **来源**: janlukas.blog | 👍 474 | 💬 244
 
-### 4. [What VP ≠ VNP Means (In 3 Minutes)](https://www.friedgil.com/vpvnp)
-- **原文**: What VP ≠ VNP Means (In 3 Minutes)
-- **来源**: friedgil.com | 👍 59 | 💬 1
+### 4. [Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/)
+- **原文**: Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad
+- **来源**: worksinprogress.co | 👍 315 | 💬 73
 
-### 5. [The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]](https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf)
-- **原文**: The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]
-- **来源**: gwern.net | 👍 43 | 💬 8
+### 5. [YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays](https://github.com/antonpictures/youtube-punisher)
+- **原文**: YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays
+- **来源**: github.com | 👍 327 | 💬 397
 
 ---
 
@@ -32,30 +32,34 @@
 
 ### AI
 
-- [Tell HN: Lots of Ask HNs again](https://news.ycombinator.com/item?id=50649864) (184👍)
-- [GPT-6.2 Astra is the first model to beat Googlers' code golf records](https://bjin.github.io/go-codegolf-benchmark/#leaderboard) (321👍)
-- [OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster](https://twitter.com/thsottiaux/status/2125784147889393806) (79👍)
+- ["What's Claude's Fursona?" and Other Questions](https://herecomesthemoon.net/2026/11/whats-claudes-fursona/) (22👍)
+- [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting) (474👍)
+- [An introduction to uncertainty in machine learning](https://chrhenning.com/blog/2026/introduction-to-uncertainty/) (44👍)
 
 ### 技术
 
-- [Minipg: PostgreSQL as a Single Executable](https://progrium.github.io/minipg/) (29👍)
+- [Hard Drive pricing has gotten bad](https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/) (206👍)
+- [Rvoip: VoIP stack in Rust](https://github.com/eisenzopf/rvoip) (109👍)
 
-### 安全
+### 创业
 
-- [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident) (1294👍)
-- [Slow Ubuntu security response times](https://www.openwall.com/lists/oss-security/2026/11/25/9) (217👍)
+- [Company Culture = Slack Emoji ÷ √Headcount](https://lia.mg/posts/measuring-company-culture-with-slack-emoji/) (215👍)
+
+### 科学
+
+- [ESO statement on approval of launch of one million space data centres](https://www.eso.org/public/news/eso2614/) (24👍)
 
 ### 其他
 
-- [Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening](https://scottaaronson.blog/?p=10379) (1200👍)
-- [Much shorter version of GRH Lean verification from Anthropic](https://github.com/lsernau/grh-lean) (371👍)
-- [What VP ≠ VNP Means (In 3 Minutes)](https://www.friedgil.com/vpvnp) (59👍)
+- [Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/) (315👍)
+- [YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays](https://github.com/antonpictures/youtube-punisher) (327👍)
+- [AMD-specific fork of llama.cpp](https://devnull.land/amd-specific-llama-cpp) (320👍)
 
 ---
 
 ## 📊 统计
 
-- **抓取时间**: 2026-11-26 13:45:37
+- **抓取时间**: 2026-11-27 13:40:28
 - **故事总数**: 15
 - **已翻译标题**: 0/15
 - **数据来源**: [Hacker News](https://news.ycombinator.com)
