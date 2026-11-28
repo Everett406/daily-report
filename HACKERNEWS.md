@@ -1,4 +1,4 @@
-# 🚀 Hacker News 精选 | 2026年11月27日
+# 🚀 Hacker News 精选 | 2026年11月28日
 
 > 自动抓取 Hacker News Top 故事，批量翻译标题生成中文精选
 
@@ -6,25 +6,25 @@
 
 ## 🔥 热门 Top 5
 
-### 1. [Hard Drive pricing has gotten bad](https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/)
-- **原文**: Hard Drive pricing has gotten bad
-- **来源**: blog.ktz.me | 👍 206 | 💬 131
+### 1. [Google's DeepCrossAttention achieves comparable model quality up to 3x faster](https://research.google/blog/supercharging-transformer-residual-connections/)
+- **原文**: Google's DeepCrossAttention achieves comparable model quality up to 3x faster
+- **来源**: research.google | 👍 249 | 💬 84
 
-### 2. ["What's Claude's Fursona?" and Other Questions](https://herecomesthemoon.net/2026/11/whats-claudes-fursona/)
-- **原文**: "What's Claude's Fursona?" and Other Questions
-- **来源**: herecomesthemoon.net | 👍 22 | 💬 0
+### 2. [Unkernel: Real Linux kernel, compiled to WebAssembly](https://unkernel.dev)
+- **原文**: Unkernel: Real Linux kernel, compiled to WebAssembly
+- **来源**: unkernel.dev | 👍 54 | 💬 4
 
-### 3. [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting)
-- **原文**: AI made self-hosting fun again
-- **来源**: janlukas.blog | 👍 474 | 💬 244
+### 3. [The Balatro Timeline](https://localthunk.com/blog/balatro-timeline-3aarh)
+- **原文**: The Balatro Timeline
+- **来源**: localthunk.com | 👍 191 | 💬 42
 
-### 4. [Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/)
-- **原文**: Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad
-- **来源**: worksinprogress.co | 👍 315 | 💬 73
+### 4. [GPT 6.2 Astra Solves a Historical Mystery](https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical)
+- **原文**: GPT 6.2 Astra Solves a Historical Mystery
+- **来源**: generativehistory.substack.com | 👍 379 | 💬 244
 
-### 5. [YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays](https://github.com/antonpictures/youtube-punisher)
-- **原文**: YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays
-- **来源**: github.com | 👍 327 | 💬 397
+### 5. [Credit card skimming scripts using WebRTC found on popular shopping sites](https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer)
+- **原文**: Credit card skimming scripts using WebRTC found on popular shopping sites
+- **来源**: infohawk.com | 👍 479 | 💬 244
 
 ---
 
@@ -32,34 +32,25 @@
 
 ### AI
 
-- ["What's Claude's Fursona?" and Other Questions](https://herecomesthemoon.net/2026/11/whats-claudes-fursona/) (22👍)
-- [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting) (474👍)
-- [An introduction to uncertainty in machine learning](https://chrhenning.com/blog/2026/introduction-to-uncertainty/) (44👍)
+- [Google's DeepCrossAttention achieves comparable model quality up to 3x faster](https://research.google/blog/supercharging-transformer-residual-connections/) (249👍)
+- [GPT 6.2 Astra Solves a Historical Mystery](https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical) (379👍)
+- [Build your own amp modeler: $78 DIY pedal kit from TONE3000](https://www.guitarworld.com/gear/guitar-pedals/tone3000-daisy-audio-diy-pedal-kit) (66👍)
 
 ### 技术
 
-- [Hard Drive pricing has gotten bad](https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/) (206👍)
-- [Rvoip: VoIP stack in Rust](https://github.com/eisenzopf/rvoip) (109👍)
-
-### 创业
-
-- [Company Culture = Slack Emoji ÷ √Headcount](https://lia.mg/posts/measuring-company-culture-with-slack-emoji/) (215👍)
-
-### 科学
-
-- [ESO statement on approval of launch of one million space data centres](https://www.eso.org/public/news/eso2614/) (24👍)
+- [Unkernel: Real Linux kernel, compiled to WebAssembly](https://unkernel.dev) (54👍)
 
 ### 其他
 
-- [Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/) (315👍)
-- [YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays](https://github.com/antonpictures/youtube-punisher) (327👍)
-- [AMD-specific fork of llama.cpp](https://devnull.land/amd-specific-llama-cpp) (320👍)
+- [The Balatro Timeline](https://localthunk.com/blog/balatro-timeline-3aarh) (191👍)
+- [Credit card skimming scripts using WebRTC found on popular shopping sites](https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer) (479👍)
+- [Convex skills send the user's app idea to a remote server without telling them](https://github.com/convex/convex-backend-skill/issues/64) (258👍)
 
 ---
 
 ## 📊 统计
 
-- **抓取时间**: 2026-11-27 13:40:28
+- **抓取时间**: 2026-11-28 13:18:37
 - **故事总数**: 15
 - **已翻译标题**: 0/15
 - **数据来源**: [Hacker News](https://news.ycombinator.com)
